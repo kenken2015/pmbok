@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_0KIdYOGrEeSYuMZdHnYbhQ" guid="_0KIdYOGrEeSYuMZdHnYbhQ">
+    <resourceDescriptors xmi:id="_0KIdYeGrEeSYuMZdHnYbhQ" id="-nUQbmb3U5J2jAXP-3fnz-w" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_4zEqIMuAEeS8KpeSn38UZA" name="プロジェクト・マネジメント・プロセス" guid="_4zEqIMuAEeS8KpeSn38UZA">
+    <methodElementProperty xmi:id="_0KPLEOGrEeSYuMZdHnYbhQ" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_0KPLEeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_oEORwMuBEeS8KpeSn38UZA" name="04.1．プロジェクト憲章作成" guid="_oEORwMuBEeS8KpeSn38UZA" presentationName="04.1．プロジェクト憲章作成" briefDescription="プロジェクトの存在を公式に認可し、プロジェクト活動に組織の資源を適用する権限を与えるための文書を作成するプロセス" superActivities="_4zJioMuAEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLEuGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sAVpsMeqEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_h-eTQMeWEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_RHtaYMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_GB48gMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_NPxfgMeqEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_vLHjoMeqEeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_oEORwcuBEeS8KpeSn38UZA" name="04.2．プロジェクト・マネジメント計画書作成" guid="_oEORwcuBEeS8KpeSn38UZA" presentationName="04.2．プロジェクト・マネジメント計画書作成" briefDescription="すべての補助計画書を定義し、作成し、調整し、それらを包括的なプロジェクト・マネジメント計画書へ統合するプロセス&#xD;&#xA;" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_FHZGAMuCEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLE-GrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sAVpsMeqEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_mhlAIMeYEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_7VsqIMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_vLHjoMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_oEO40MuBEeS8KpeSn38UZA" name="04.3．プロジェクト作業の指揮・マネジメント" guid="_oEO40MuBEeS8KpeSn38UZA" presentationName="04.3．プロジェクト作業の指揮・マネジメント" briefDescription="プロジェクトの目標を達成するために、プロジェクト・マネジメント計画書で定義された作業をリードし、遂行し、また承認済み変更を適用するプロセス" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_FlVJwMuDEeS8KpeSn38UZA _45y10MuDEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLFOGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_lFXskMezEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sm3IEMezEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_2wzyYMeZEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_fbEcMMezEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_vJgrAMezEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_0b6YwMezEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_evaaoMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_w8u8IMezEeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_oEO40cuBEeS8KpeSn38UZA" name="04.4．プロジェクト作業の監視・コントロール" guid="_oEO40cuBEeS8KpeSn38UZA" presentationName="04.4．プロジェクト作業の監視・コントロール" briefDescription="プロジェクト・マネジメント計画書に定義されたパフォーマンス目標を達成するため、進捗を追跡し、レビューし、かつ報告するプロセス&#xD;&#xA;" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_GQN50MuDEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLFeGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_dv4ZoMebEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_bO6vYMe0EeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_U8knkMe0EeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_MefA8Me0EeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_XxatwMe0EeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_0b6YwMezEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_evaaoMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_h5KZ0Me0EeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_oEPf4MuBEeS8KpeSn38UZA" name="04.5．統合変更管理" guid="_oEPf4MuBEeS8KpeSn38UZA" presentationName="04.5．統合変更管理" briefDescription="すべての変更要求をレビューし、変更を承認して、成果物、組織のプロセス資産、プロジェクト文書、プロジェクト・マネジメント計画書などへの変更をマネジメントし、それらの最終的な処置を伝達するプロセス" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_G829YMuDEeS8KpeSn38UZA _tY_FEMuDEeS8KpeSn38UZA _vZcqgMuPEeS8KpeSn38UZA _SwROIMuQEeS8KpeSn38UZA _mvdykMuzEeS8KpeSn38UZA _6xwcMMuzEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLFuGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sm3IEMezEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_u9rZAMe0EeS2DMw6uOlqsQ"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_i1hdwMebEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_evaaoMe0EeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_h5KZ0Me0EeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_0b6YwMezEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_fbEcMMezEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_l4RTsMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_oEPf4cuBEeS8KpeSn38UZA" name="04.6．プロジェクトやフェーズの終結" guid="_oEPf4cuBEeS8KpeSn38UZA" presentationName="04.6．プロジェクトやフェーズの終結" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_IXvKgMuEEeS8KpeSn38UZA _1jkEYMuEEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLF-GrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sm3IEMezEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_rVApMMe0EeS2DMw6uOlqsQ"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_mt7SsMebEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_xE6V0Me1EeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_3tXQgMe1EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_AX4woMe2EeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_p6vHcMuBEeS8KpeSn38UZA" name="05.1．スコープ・マネジメント計画" guid="_p6vHcMuBEeS8KpeSn38UZA" presentationName="05.1．スコープ・マネジメント計画" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_GJwh8MuCEeS8KpeSn38UZA _I7ChUMuDEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLGOGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sm3IEMezEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_z-uaYMebEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_vLHjoMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_ayzJMMe2EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_WZTZYMe2EeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_p6vHccuBEeS8KpeSn38UZA" name="05.2．要求事項収集" guid="_p6vHccuBEeS8KpeSn38UZA" presentationName="05.2．要求事項収集" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_HOShEMuCEeS8KpeSn38UZA _NFTF0MuEEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLGeGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_120sAMe9EeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EikBUMe2EeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_yPNFEMe9EeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_tbXioMe9EeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Ac6g8Me-EeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_o8uNEMe9EeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_l86NAMe9EeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_7H8AUMe9EeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_-IXEYMe9EeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_5IlXsMe9EeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EQYLgMe-EeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_5xg4YMebEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_vLHjoMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_dhsUMMe9EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_ayzJMMe2EeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_h7XuYMe2EeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_WZTZYMe2EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_IkfFAMe-EeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_La1nEMe-EeSx8tY0xxnZyg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_p6vHcsuBEeS8KpeSn38UZA" name="05.3．スコープ定義" guid="_p6vHcsuBEeS8KpeSn38UZA" presentationName="05.3．スコープ定義" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_IH_wQMuCEeS8KpeSn38UZA _Oq0SIMuEEeS8KpeSn38UZA _S64ZIMuEEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLGuGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_o8uNEMe9EeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Z6_BUMe_EeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_dJu1QMe_EeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_-BYyIMebEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_vLHjoMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_IkfFAMe-EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_WZTZYMe2EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_VEGnYMe-EeSx8tY0xxnZyg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_p6vugMuBEeS8KpeSn38UZA" name="05.4．WBS作成" guid="_p6vugMuBEeS8KpeSn38UZA" presentationName="05.4．WBS作成" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_QNipIMuEEeS8KpeSn38UZA _TYuLsMuEEeS8KpeSn38UZA _Z_S3EMuEEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLG-GrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Gl6fgMe-EeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_BPlzgMecEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_IkfFAMe-EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_VEGnYMe-EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_WZTZYMe2EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_1XQlsMe-EeSx8tY0xxnZyg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_p6vugcuBEeS8KpeSn38UZA" name="05.5．スコープ妥当性確認" guid="_p6vugcuBEeS8KpeSn38UZA" presentationName="05.5．スコープ妥当性確認" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_KLAUYMuDEeS8KpeSn38UZA _gNmB0MuDEeS8KpeSn38UZA _T1tCoMuEEeS8KpeSn38UZA _iKhMEMuEEeS8KpeSn38UZA _54L6QMuPEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLHOGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_yPNFEMe9EeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_nbQk4Me-EeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_GTZroMecEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_IkfFAMe-EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_La1nEMe-EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#__Prm4Me_EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_w8u8IMezEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_xE6V0Me1EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_bO6vYMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_evaaoMe0EeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_p6vugsuBEeS8KpeSn38UZA" name="05.6．スコープ・コントロール" guid="_p6vugsuBEeS8KpeSn38UZA" presentationName="05.6．スコープ・コントロール" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_LRKEIMuDEeS8KpeSn38UZA _g_HlYMuDEeS8KpeSn38UZA _UVZ2YMuEEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLHeGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_x4_vEMe-EeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_KhCwwMecEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_IkfFAMe-EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_La1nEMe-EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_w8u8IMezEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_0b6YwMezEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_bO6vYMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_AX4woMe2EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_evaaoMe0EeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_r95SAMuBEeS8KpeSn38UZA" name="06.1．スケジュール・マネジメント計画" guid="_r95SAMuBEeS8KpeSn38UZA" presentationName="06.1．スケジュール・マネジメント計画" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_KugfgMuCEeS8KpeSn38UZA _MfvXIMuDEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLHuGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_yuZwEMedEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_vLHjoMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Xd63EMfBEeSx8tY0xxnZyg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_r95SAcuBEeS8KpeSn38UZA" name="06.2．アクティビティ定義" guid="_r95SAcuBEeS8KpeSn38UZA" presentationName="06.2．アクティビティ定義" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_lKI-4MuEEeS8KpeSn38UZA _Aex0wMuFEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLH-GrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Gl6fgMe-EeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Ixwn0MfFEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_4grQsMedEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Xd63EMfBEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_1XQlsMe-EeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oUEKQMfAEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_q-4KsMfAEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_kyvYkMfAEeSx8tY0xxnZyg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_r955EMuBEeS8KpeSn38UZA" name="06.3．アクティビティ順序設定" guid="_r955EMuBEeS8KpeSn38UZA" presentationName="06.3．アクティビティ順序設定" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_bJgAYMuEEeS8KpeSn38UZA _BWEpIMuFEeS8KpeSn38UZA _L_RccMuFEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLIOGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_yGfRIMfBEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_9VKwEMfBEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_6CeQQMfBEeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_AOMWAMeeEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oUEKQMfAEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_VEGnYMe-EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_q-4KsMfAEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_kyvYkMfAEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Xd63EMfBEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_uYnGoMfAEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_r955EcuBEeS8KpeSn38UZA" name="06.4．アクティビティ資源見積り" guid="_r955EcuBEeS8KpeSn38UZA" presentationName="06.4．アクティビティ資源見積り" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_B5F2oMuFEeS8KpeSn38UZA _Nprv0MuFEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLIeGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_MFkCQMfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_JEOYMMfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_FnwRUMfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_DHNnMMfCEeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_KbFAwMeeEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_QQYyAMfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oUEKQMfAEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_VEGnYMe-EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_22wXoMfAEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_kyvYkMfAEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_zA5gYMfAEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Xd63EMfBEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_6KxlwMfDEeSx8tY0xxnZyg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_r955EsuBEeS8KpeSn38UZA" name="06.5．アクティビティ所要期間見積り" guid="_r955EsuBEeS8KpeSn38UZA" presentationName="06.5．アクティビティ所要期間見積り" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_dAv14MuEEeS8KpeSn38UZA _EOWd0MuFEeS8KpeSn38UZA _OMT7wMuFEeS8KpeSn38UZA _YSWXoMuFEeS8KpeSn38UZA _KAYF0MuQEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLIuGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_yPNFEMe9EeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_VI2AoMfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_ZOhckMfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_cxmhwMfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Ro69IMfCEeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_SiCg0MeeEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oUEKQMfAEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_VEGnYMe-EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_kyvYkMfAEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_zA5gYMfAEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Xd63EMfBEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_6KxlwMfDEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_7trqUMfAEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_r96gIMuBEeS8KpeSn38UZA" name="06.6．スケジュール作成" guid="_r96gIMuBEeS8KpeSn38UZA" presentationName="06.6．スケジュール作成" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_eSIlQMuEEeS8KpeSn38UZA _E2rCEMuFEeS8KpeSn38UZA _Pr_l0MuFEeS8KpeSn38UZA _TJnjQMuFEeS8KpeSn38UZA _ZJtdcMuFEeS8KpeSn38UZA _dssgcMuFEeS8KpeSn38UZA _LLUO8MuQEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLI-GrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_pqXj8MfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_lhfqEMfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_4yUagMfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_gZWrkMfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_1Nzx8MfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_x-VlQMfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_9VKwEMfBEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_tkTp8MfCEeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_XJemAMeeEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_QQYyAMfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oUEKQMfAEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_uYnGoMfAEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_7trqUMfAEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_2pXUgMfDEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_VEGnYMe-EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_22wXoMfAEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_kyvYkMfAEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_zA5gYMfAEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_6KxlwMfDEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_BdqkkMfEEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_AiD_UMfBEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_HCtB0MfBEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_JopwYMfBEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_DjMOAMfBEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_0b6YwMezEeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_r96gIcuBEeS8KpeSn38UZA" name="06.7．スケジュール・コントロール" guid="_r96gIcuBEeS8KpeSn38UZA" presentationName="06.7．スケジュール・コントロール" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_Nog9EMuDEeS8KpeSn38UZA _iG3QkMuDEeS8KpeSn38UZA _iEUA8MuFEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLJOGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_4yUagMfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_1Nzx8MfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_8HEIwMfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_MFkCQMfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_x-VlQMfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_9VKwEMfBEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_tkTp8MfCEeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_bdq_EMeeEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_HCtB0MfBEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_JopwYMfBEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_w8u8IMezEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_DjMOAMfBEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_MefA8Me0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_AX4woMe2EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_bO6vYMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_0b6YwMezEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_evaaoMe0EeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_tbClcMuBEeS8KpeSn38UZA" name="07.1．コスト・マネジメント計画" guid="_tbClcMuBEeS8KpeSn38UZA" presentationName="07.1．コスト・マネジメント計画" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_LtdbEMuCEeS8KpeSn38UZA _P_KEUMuDEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLJeGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sm3IEMezEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_rVApMMe0EeS2DMw6uOlqsQ"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_tP98AMeeEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_vLHjoMeqEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_ENZWsMfDEeSx8tY0xxnZyg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_tbDMgMuBEeS8KpeSn38UZA" name="07.2．コスト見積り" guid="_tbDMgMuBEeS8KpeSn38UZA" presentationName="07.2．コスト見積り" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_mUCmMMuEEeS8KpeSn38UZA _jUG04MuFEeS8KpeSn38UZA _x-e-oMuFEeS8KpeSn38UZA _AEK7YMuQEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLJuGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_yPNFEMe9EeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_VI2AoMfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_MFkCQMfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_X1u9UMfFEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_JEOYMMfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_ZOhckMfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_NR2H0MfFEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_cxmhwMfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Ro69IMfCEeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_3s28MMefEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_1XQlsMe-EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_QQYyAMfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_DjMOAMfBEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_ENZWsMfDEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_udamwMfDEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_N4VK8MfDEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_JIuBMMfDEeSx8tY0xxnZyg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_tbDMgcuBEeS8KpeSn38UZA" name="07.3．予算設定" guid="_tbDMgcuBEeS8KpeSn38UZA" presentationName="07.3．予算設定" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_nF454MuEEeS8KpeSn38UZA _kdHEUMuFEeS8KpeSn38UZA _y_70kMuFEeS8KpeSn38UZA _7Ai1AMuFEeS8KpeSn38UZA _MaTxoMuQEeS8KpeSn38UZA _2aoY0MuQEeS8KpeSn38UZA _1li2AMuzEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLJ-GrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_blMRoMfFEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_fZtsIMfFEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_h-mqwMfFEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_cxmhwMfCEeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_8qvygMefEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_1XQlsMe-EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_QQYyAMfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_N4VK8MfDEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_6KxlwMfDEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_RHtaYMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_DjMOAMfBEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_ENZWsMfDEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_JIuBMMfDEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_SD-E8MfDEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_vBRgwMfOEeSx8tY0xxnZyg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_tbDMgsuBEeS8KpeSn38UZA" name="07.4．コスト・コントロール" guid="_tbDMgsuBEeS8KpeSn38UZA" presentationName="07.4．コスト・コントロール" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_jREZ4MuDEeS8KpeSn38UZA _FIShEMuGEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLKOGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_m5DLgMfFEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_8HEIwMfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_MFkCQMfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_s9VCIMfFEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_qixrQMfFEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_cxmhwMfCEeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CUV4QMegEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_w8u8IMezEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_vBRgwMfOEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_bO6vYMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_0b6YwMezEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_evaaoMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_AX4woMe2EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_U8knkMe0EeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_vYRHIMuBEeS8KpeSn38UZA" name="08.1．品質マネジメント計画" guid="_vYRHIMuBEeS8KpeSn38UZA" presentationName="08.1．品質マネジメント計画" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_ROqkYMuDEeS8KpeSn38UZA _VyW8kMuEEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLKeGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_9pqckMfFEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_ToAjMMfGEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_-IXEYMe9EeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sm3IEMezEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_B6VnkMfGEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_E82WUMfGEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_1zPS4MfFEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_NR2H0MfFEeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_GuuY4MegEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_QQYyAMfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_IkfFAMe-EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_dhsUMMe9EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_go1ckMfDEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_cR__MMfDEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_mppIcMfDEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_UxvSwMfDEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_vYRuMMuBEeS8KpeSn38UZA" name="08.2．品質保証" guid="_vYRuMMuBEeS8KpeSn38UZA" presentationName="08.2．品質保証" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_WfQz8MuGEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLKuGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_f_CKQMfGEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_WydtAMfGEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_dEBKoMfGEeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_NgPI8MegEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_go1ckMfDEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_cR__MMfDEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_KV2PwMfQEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_p_PLQMfDEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_UxvSwMfDEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_evaaoMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_0b6YwMezEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_AX4woMe2EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_vYRuMcuBEeS8KpeSn38UZA" name="08.3．品質コントロール" guid="_vYRuMcuBEeS8KpeSn38UZA" presentationName="08.3．品質コントロール" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_kvYK8MuDEeS8KpeSn38UZA _86uUoMuDEeS8KpeSn38UZA _XNX3IMuGEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLK-GrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_9pqckMfFEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_nbQk4Me-EeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_iUHyUMfGEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_E82WUMfGEeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_TdaSAMegEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_w8u8IMezEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_go1ckMfDEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_KV2PwMfQEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_mppIcMfDEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_fbEcMMezEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_vJgrAMezEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_bO6vYMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_XxatwMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_evaaoMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_p_PLQMfDEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#__Prm4Me_EeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_0b6YwMezEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_AX4woMe2EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_w0cxQMuBEeS8KpeSn38UZA" name="09.1．人的資源マネジメント計画" guid="_w0cxQMuBEeS8KpeSn38UZA" presentationName="09.1．人的資源マネジメント計画" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_Ssd_IMuDEeS8KpeSn38UZA _W53hwMuFEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLLOGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_ufEFMMfGEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sm3IEMezEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_nzgzMMfGEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_xX9k8MfGEeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Yow8kMegEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_zA5gYMfAEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_udamwMfDEeSx8tY0xxnZyg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_w0cxQcuBEeS8KpeSn38UZA" name="09.2．プロジェクト・チーム編成" guid="_w0cxQcuBEeS8KpeSn38UZA" presentationName="09.2．プロジェクト・チーム編成" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_8vHEEMuPEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLLeGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_zvk8kMfGEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_2fMkgMfGEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_40JCoMfGEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_64wlwMfGEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_9nv7kMfGEeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_dhxS4MegEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_udamwMfDEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_0b6YwMezEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_6KxlwMfDEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_2pXUgMfDEeSx8tY0xxnZyg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_w0dYUMuBEeS8KpeSn38UZA" name="09.3．プロジェクト・チームの育成" guid="_w0dYUMuBEeS8KpeSn38UZA" presentationName="09.3．プロジェクト・チームの育成" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_-DcZwMuPEeS8KpeSn38UZA _EiA_sMuQEeS8KpeSn38UZA _8RV_oMuzEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLLuGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CV3QgMfHEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_FIqIQMfHEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_HTgPMMfHEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_J_O1oMfHEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_MhqWIMfHEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_PDrm8MfHEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_TQx5gMfHEeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_jNCMkMegEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_udamwMfDEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_9ldj8MfDEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_KFnJcMfSEeSx8tY0xxnZyg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_w0dYUcuBEeS8KpeSn38UZA" name="09.4．プロジェクト・チームのマネジメント" guid="_w0dYUcuBEeS8KpeSn38UZA" presentationName="09.4．プロジェクト・チームのマネジメント" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_vWbCIMuDEeS8KpeSn38UZA _-8pSoMuPEeS8KpeSn38UZA _FIwPkMuQEeS8KpeSn38UZA _PeEdkMuQEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLL-GrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_V6siEMfHEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_ZRA9oMfHEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_cl2ygMfHEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CV3QgMfHEeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_ocod8MegEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_9ldj8MfDEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_udamwMfDEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_2pXUgMfDEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_h5KZ0Me0EeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_xJZ2cMfEEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_0b6YwMezEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_AX4woMe2EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_KFnJcMfSEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_evaaoMe0EeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_yGSzoMuBEeS8KpeSn38UZA" name="10.1．コミュニケーション・マネジメント計画" guid="_yGSzoMuBEeS8KpeSn38UZA" presentationName="10.1．コミュニケーション・マネジメント計画" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_UJhzAMuDEeS8KpeSn38UZA _KCOVkMu0EeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLMOGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_ow5MAMfHEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_l9kIwMfHEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sE2QEMfHEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_gNSMMMfHEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sm3IEMezEeS2DMw6uOlqsQ"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_4rbn0MegEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_dhsUMMe9EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_BdqkkMfEEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_ULNrAMfTEeSx8tY0xxnZyg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_yGSzocuBEeS8KpeSn38UZA" name="10.2．コミュニケーション・マネジメント" guid="_yGSzocuBEeS8KpeSn38UZA" presentationName="10.2．コミュニケーション・マネジメント" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_wx_BMMuDEeS8KpeSn38UZA _Wn9RYMuQEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLMeGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_ow5MAMfHEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_l9kIwMfHEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sE2QEMfHEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Sw2m0MfIEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_W_VHgMfKEeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_-tvIgMegEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_h5KZ0Me0EeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_BdqkkMfEEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_0b6YwMezEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_AX4woMe2EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_HH908MfEEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_ULNrAMfTEeSx8tY0xxnZyg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_yGSzosuBEeS8KpeSn38UZA" name="10.3．コミュニケーション・コントロール" guid="_yGSzosuBEeS8KpeSn38UZA" presentationName="10.3．コミュニケーション・コントロール" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_U63wYMuDEeS8KpeSn38UZA _mAAFUMuDEeS8KpeSn38UZA _aqq44MuQEeS8KpeSn38UZA _avVMEMu0EeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLMuGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Sw2m0MfIEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sm3IEMezEeS2DMw6uOlqsQ"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_GVrKQMehEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_xJZ2cMfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_HH908MfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_w8u8IMezEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_0b6YwMezEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_AX4woMe2EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_bO6vYMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_evaaoMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_ULNrAMfTEeSx8tY0xxnZyg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_zawFIMuBEeS8KpeSn38UZA" name="11.1．リスク・マネジメント計画" guid="_zawFIMuBEeS8KpeSn38UZA" presentationName="11.1．リスク・マネジメント計画" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_NUzMUMuCEeS8KpeSn38UZA _WZxXUMuDEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLM-GrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_rVApMMe0EeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sm3IEMezEeS2DMw6uOlqsQ"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Oa3vwMehEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_vLHjoMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_dhsUMMe9EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Ka6zcMfEEeSx8tY0xxnZyg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_zawsMMuBEeS8KpeSn38UZA" name="11.2．リスク特定" guid="_zawsMMuBEeS8KpeSn38UZA" presentationName="11.2．リスク特定" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_ptVdQMuEEeS8KpeSn38UZA _GhgMMMuFEeS8KpeSn38UZA _fm_C4MuFEeS8KpeSn38UZA _1YjRwMuFEeS8KpeSn38UZA _AC4tgMuGEeS8KpeSn38UZA _aFOOAMuGEeS8KpeSn38UZA _BOYrwMuQEeS8KpeSn38UZA _l0u9kMuQEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLNOGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_a7uWgMfIEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_hDg0IMfIEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_kx9b0MfIEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oWM-oMfIEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sKz4sMfIEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_vHDAUMfIEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_SmPkAMehEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Ka6zcMfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_ENZWsMfDEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_JIuBMMfDEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_UxvSwMfDEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_KV2PwMfQEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_7trqUMfAEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_d557sMfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_dhsUMMe9EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Xd63EMfBEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_udamwMfDEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_1XQlsMe-EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_QQYyAMfEEeSx8tY0xxnZyg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_zawsMcuBEeS8KpeSn38UZA" name="11.3．定性的リスク分析" guid="_zawsMcuBEeS8KpeSn38UZA" presentationName="11.3．定性的リスク分析" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_sAGxIMuEEeS8KpeSn38UZA _mhXaEMuQEeS8KpeSn38UZA _s6jJsMuQEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLNeGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_8LqtMMfIEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_DzJb8MfJEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_At3tEMfJEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_x6tawMfIEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_3Ar2EMfIEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_W4n_MMehEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Ka6zcMfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_QQYyAMfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_1XQlsMe-EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_zawsMsuBEeS8KpeSn38UZA" name="11.4．定量的リスク分析" guid="_zawsMsuBEeS8KpeSn38UZA" presentationName="11.4．定量的リスク分析" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_IC2qMMuFEeS8KpeSn38UZA _2zxSkMuFEeS8KpeSn38UZA _opZdkMuQEeS8KpeSn38UZA _tg27wMuQEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLNuGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_He9mYMfJEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_M7_20MfJEeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_cBunAMehEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Ka6zcMfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_ENZWsMfDEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_QQYyAMfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Xd63EMfBEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_zaxTQMuBEeS8KpeSn38UZA" name="11.5．リスク対応計画" guid="_zaxTQMuBEeS8KpeSn38UZA" presentationName="11.5．リスク対応計画" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_pO1F4MuQEeS8KpeSn38UZA _uIduUMuQEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLN-GrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_dt34kMfJEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YBngYMfJEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_TCgiEMfJEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_f53WMMehEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Ka6zcMfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_QQYyAMfEEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_0b6YwMezEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_zaxTQcuBEeS8KpeSn38UZA" name="11.6．リスク・コントロール" guid="_zaxTQcuBEeS8KpeSn38UZA" presentationName="11.6．リスク・コントロール" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_XqVnUMuDEeS8KpeSn38UZA _nLH0oMuDEeS8KpeSn38UZA _yWzp8MuDEeS8KpeSn38UZA _uwU_kMuQEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLOOGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_lQDQkMfJEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_ii01UMfJEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_nXPmkMfJEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_rRywkMfJEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_cxmhwMfCEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sm3IEMezEeS2DMw6uOlqsQ"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_jlsHsMehEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_h5KZ0Me0EeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_w8u8IMezEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_QQYyAMfEEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_0b6YwMezEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_AX4woMe2EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_evaaoMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_bO6vYMe0EeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_2WyYcMuBEeS8KpeSn38UZA" name="12.1．調達マネジメント計画" guid="_2WyYcMuBEeS8KpeSn38UZA" presentationName="12.1．調達マネジメント計画" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_Y3L08MuDEeS8KpeSn38UZA _XChj8MuEEeS8KpeSn38UZA _anWgIMuFEeS8KpeSn38UZA _l_QMgMuFEeS8KpeSn38UZA _Bq6bQMuGEeS8KpeSn38UZA _698zAMuQEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLOeGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_vkwakMfJEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_5e2sMMfJEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sm3IEMezEeS2DMw6uOlqsQ"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_n1M1EMehEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_zA5gYMfAEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_QQYyAMfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_DjMOAMfBEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_dhsUMMe9EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_IkfFAMe-EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_JIuBMMfDEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_TIYS0MfEEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_ghELMMfEEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_evaaoMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_kZIo8MfEEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_d557sMfEEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Z13egMfEEeSx8tY0xxnZyg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_2Wy_gMuBEeS8KpeSn38UZA" name="12.2．調達実行" guid="_2Wy_gMuBEeS8KpeSn38UZA" presentationName="12.2．調達実行" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_jgCpMMuzEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLOuGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_7_nYwMfJEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_-91dYMfJEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Cv4ysMfKEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Fx3V8MfKEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_rVApMMe0EeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_IP10QMfKEeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sxDrEMehEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_ghELMMfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_hFvgYMfWEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_kZIo8MfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_d557sMfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_KV2PwMfQEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Z13egMfEEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_RHtaYMeqEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_0b6YwMezEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_evaaoMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_6KxlwMfDEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_n9_20MfEEeSx8tY0xxnZyg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_2Wy_gcuBEeS8KpeSn38UZA" name="12.3．調達コントロール" guid="_2Wy_gcuBEeS8KpeSn38UZA" presentationName="12.3．調達コントロール" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_Z0lRUMuDEeS8KpeSn38UZA _ojfVwMuDEeS8KpeSn38UZA _zWkd0MuDEeS8KpeSn38UZA _-B4J8MuDEeS8KpeSn38UZA _kgzioMuzEeS8KpeSn38UZA _tRc44MuzEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLO-GrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_RRM0IMfXEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_QVwLcMfKEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_UeIWEMfKEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_W_VHgMfKEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Z2zq8MfKEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_c8mXMMfKEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_gSOPMMfKEeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_xiTzkMehEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_RHtaYMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_h5KZ0Me0EeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_d557sMfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_w8u8IMezEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_fbEcMMezEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_AX4woMe2EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_0b6YwMezEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_evaaoMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_bO6vYMe0EeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_2Wy_gsuBEeS8KpeSn38UZA" name="12.4．調達終結" guid="_2Wy_gsuBEeS8KpeSn38UZA" presentationName="12.4．調達終結" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_aXH9sMuDEeS8KpeSn38UZA _lS_NgMuzEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLPOGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_lJk_sMfKEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_IP10QMfKEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_gSOPMMfKEeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_3WagMMehEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_d557sMfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_AX4woMe2EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_rwhGMMfEEeSx8tY0xxnZyg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_33Iw4MuBEeS8KpeSn38UZA" name="13.1．ステークホルダー特定" guid="_33Iw4MuBEeS8KpeSn38UZA" presentationName="13.1．ステークホルダー特定" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="__Ei9UMuCEeS8KpeSn38UZA _oiczIMuzEeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLPeGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_n3diQMfKEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sm3IEMezEeS2DMw6uOlqsQ"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_679qkMehEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_d557sMfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_vLHjoMeqEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_dhsUMMe9EeSx8tY0xxnZyg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_33Iw4cuBEeS8KpeSn38UZA" name="13.2．ステークホルダー・マネジメント計画" guid="_33Iw4cuBEeS8KpeSn38UZA" presentationName="13.2．ステークホルダー・マネジメント計画" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_bmAysMuDEeS8KpeSn38UZA _FeUskMu0EeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLPuGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sm3IEMezEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_rVApMMe0EeS2DMw6uOlqsQ"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#__GcuAMehEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_YbctwMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_dhsUMMe9EeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_h7XuYMe2EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_33Iw4suBEeS8KpeSn38UZA" name="13.3．ステークホルダー・エンゲージメント・マネジメント" guid="_33Iw4suBEeS8KpeSn38UZA" presentationName="13.3．ステークホルダー・エンゲージメント・マネジメント" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="__UC8cMuDEeS8KpeSn38UZA _XvzDMMuQEeS8KpeSn38UZA _SxjdMMu0EeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLP-GrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sE2QEMfHEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CV3QgMfHEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sdkKsMfKEeSx8tY0xxnZyg"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EFwgoMeiEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_l4RTsMe0EeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_b__ykMeqEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_BdqkkMfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_h7XuYMe2EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_evaaoMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_AX4woMe2EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_0b6YwMezEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_xJZ2cMfEEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_33Iw48uBEeS8KpeSn38UZA" name="13.4．ステークホルダー・エンゲージメント・コントロール" guid="_33Iw48uBEeS8KpeSn38UZA" presentationName="13.4．ステークホルダー・エンゲージメント・コントロール" superActivities="_4zJioMuAEeS8KpeSn38UZA" linkToPredecessor="_cSihgMuDEeS8KpeSn38UZA _pewrMMuDEeS8KpeSn38UZA _U8CXwMu0EeS8KpeSn38UZA">
+      <methodElementProperty xmi:id="_0KPLQOGrEeSYuMZdHnYbhQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_Sw2m0MfIEeSx8tY0xxnZyg"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_oRPhwMeqEeS2DMw6uOlqsQ"/>
+      <toolmentor href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_sm3IEMezEeS2DMw6uOlqsQ"/>
+      <Task href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_K-RQkMeiEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_w8u8IMezEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_xJZ2cMfEEeSx8tY0xxnZyg"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_CggrAMerEeS2DMw6uOlqsQ"/>
+      <mandatoryInputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_KV2PwMfQEeSx8tY0xxnZyg"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_evaaoMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_bO6vYMe0EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_AX4woMe2EeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_0b6YwMezEeS2DMw6uOlqsQ"/>
+      <outputExclude href="uma://_gKffEMeUEeS2DMw6uOlqsQ#_EuYhsMe0EeS2DMw6uOlqsQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_FHZGAMuCEeS8KpeSn38UZA" guid="_FHZGAMuCEeS8KpeSn38UZA" pred="_oEORwMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_GJwh8MuCEeS8KpeSn38UZA" guid="_GJwh8MuCEeS8KpeSn38UZA" pred="_oEORwMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_HOShEMuCEeS8KpeSn38UZA" guid="_HOShEMuCEeS8KpeSn38UZA" pred="_oEORwMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_IH_wQMuCEeS8KpeSn38UZA" guid="_IH_wQMuCEeS8KpeSn38UZA" pred="_oEORwMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_KugfgMuCEeS8KpeSn38UZA" guid="_KugfgMuCEeS8KpeSn38UZA" pred="_oEORwMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_LtdbEMuCEeS8KpeSn38UZA" guid="_LtdbEMuCEeS8KpeSn38UZA" pred="_oEORwMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_NUzMUMuCEeS8KpeSn38UZA" guid="_NUzMUMuCEeS8KpeSn38UZA" pred="_oEORwMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="__Ei9UMuCEeS8KpeSn38UZA" guid="__Ei9UMuCEeS8KpeSn38UZA" pred="_oEORwMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_FlVJwMuDEeS8KpeSn38UZA" guid="_FlVJwMuDEeS8KpeSn38UZA" pred="_oEORwcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_GQN50MuDEeS8KpeSn38UZA" guid="_GQN50MuDEeS8KpeSn38UZA" pred="_oEORwcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_G829YMuDEeS8KpeSn38UZA" guid="_G829YMuDEeS8KpeSn38UZA" pred="_oEORwcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_I7ChUMuDEeS8KpeSn38UZA" guid="_I7ChUMuDEeS8KpeSn38UZA" pred="_oEORwcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_KLAUYMuDEeS8KpeSn38UZA" guid="_KLAUYMuDEeS8KpeSn38UZA" pred="_oEORwcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_LRKEIMuDEeS8KpeSn38UZA" guid="_LRKEIMuDEeS8KpeSn38UZA" pred="_oEORwcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_MfvXIMuDEeS8KpeSn38UZA" guid="_MfvXIMuDEeS8KpeSn38UZA" pred="_oEORwcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Nog9EMuDEeS8KpeSn38UZA" guid="_Nog9EMuDEeS8KpeSn38UZA" pred="_oEORwcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_P_KEUMuDEeS8KpeSn38UZA" guid="_P_KEUMuDEeS8KpeSn38UZA" pred="_oEORwcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_ROqkYMuDEeS8KpeSn38UZA" guid="_ROqkYMuDEeS8KpeSn38UZA" pred="_oEORwcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Ssd_IMuDEeS8KpeSn38UZA" guid="_Ssd_IMuDEeS8KpeSn38UZA" pred="_oEORwcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_UJhzAMuDEeS8KpeSn38UZA" guid="_UJhzAMuDEeS8KpeSn38UZA" pred="_oEORwcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_U63wYMuDEeS8KpeSn38UZA" guid="_U63wYMuDEeS8KpeSn38UZA" pred="_oEORwcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_WZxXUMuDEeS8KpeSn38UZA" guid="_WZxXUMuDEeS8KpeSn38UZA" pred="_oEORwcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_XqVnUMuDEeS8KpeSn38UZA" guid="_XqVnUMuDEeS8KpeSn38UZA" pred="_oEORwcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Y3L08MuDEeS8KpeSn38UZA" guid="_Y3L08MuDEeS8KpeSn38UZA" pred="_oEORwcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Z0lRUMuDEeS8KpeSn38UZA" guid="_Z0lRUMuDEeS8KpeSn38UZA" pred="_oEORwcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_aXH9sMuDEeS8KpeSn38UZA" guid="_aXH9sMuDEeS8KpeSn38UZA" pred="_oEORwcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_bmAysMuDEeS8KpeSn38UZA" guid="_bmAysMuDEeS8KpeSn38UZA" pred="_oEORwcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_cSihgMuDEeS8KpeSn38UZA" guid="_cSihgMuDEeS8KpeSn38UZA" pred="_oEORwcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_gNmB0MuDEeS8KpeSn38UZA" guid="_gNmB0MuDEeS8KpeSn38UZA" pred="_oEO40MuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_g_HlYMuDEeS8KpeSn38UZA" guid="_g_HlYMuDEeS8KpeSn38UZA" pred="_oEO40MuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_iG3QkMuDEeS8KpeSn38UZA" guid="_iG3QkMuDEeS8KpeSn38UZA" pred="_oEO40MuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_jREZ4MuDEeS8KpeSn38UZA" guid="_jREZ4MuDEeS8KpeSn38UZA" pred="_oEO40MuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_kvYK8MuDEeS8KpeSn38UZA" guid="_kvYK8MuDEeS8KpeSn38UZA" pred="_oEO40MuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_mAAFUMuDEeS8KpeSn38UZA" guid="_mAAFUMuDEeS8KpeSn38UZA" pred="_oEO40MuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_nLH0oMuDEeS8KpeSn38UZA" guid="_nLH0oMuDEeS8KpeSn38UZA" pred="_oEO40MuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_ojfVwMuDEeS8KpeSn38UZA" guid="_ojfVwMuDEeS8KpeSn38UZA" pred="_oEO40MuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_pewrMMuDEeS8KpeSn38UZA" guid="_pewrMMuDEeS8KpeSn38UZA" pred="_oEO40MuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_tY_FEMuDEeS8KpeSn38UZA" guid="_tY_FEMuDEeS8KpeSn38UZA" pred="_oEO40cuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_vWbCIMuDEeS8KpeSn38UZA" guid="_vWbCIMuDEeS8KpeSn38UZA" pred="_oEO40cuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_wx_BMMuDEeS8KpeSn38UZA" guid="_wx_BMMuDEeS8KpeSn38UZA" pred="_oEO40cuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_yWzp8MuDEeS8KpeSn38UZA" guid="_yWzp8MuDEeS8KpeSn38UZA" pred="_oEO40cuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_zWkd0MuDEeS8KpeSn38UZA" guid="_zWkd0MuDEeS8KpeSn38UZA" pred="_oEO40cuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_45y10MuDEeS8KpeSn38UZA" guid="_45y10MuDEeS8KpeSn38UZA" pred="_oEPf4MuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_86uUoMuDEeS8KpeSn38UZA" guid="_86uUoMuDEeS8KpeSn38UZA" pred="_oEPf4MuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_-B4J8MuDEeS8KpeSn38UZA" guid="_-B4J8MuDEeS8KpeSn38UZA" pred="_oEPf4MuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="__UC8cMuDEeS8KpeSn38UZA" guid="__UC8cMuDEeS8KpeSn38UZA" pred="_oEPf4MuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_IXvKgMuEEeS8KpeSn38UZA" guid="_IXvKgMuEEeS8KpeSn38UZA" pred="_oEORwcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_NFTF0MuEEeS8KpeSn38UZA" guid="_NFTF0MuEEeS8KpeSn38UZA" pred="_p6vHcMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Oq0SIMuEEeS8KpeSn38UZA" guid="_Oq0SIMuEEeS8KpeSn38UZA" pred="_p6vHcMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_QNipIMuEEeS8KpeSn38UZA" guid="_QNipIMuEEeS8KpeSn38UZA" pred="_p6vHcMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_S64ZIMuEEeS8KpeSn38UZA" guid="_S64ZIMuEEeS8KpeSn38UZA" pred="_p6vHccuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_TYuLsMuEEeS8KpeSn38UZA" guid="_TYuLsMuEEeS8KpeSn38UZA" pred="_p6vHccuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_T1tCoMuEEeS8KpeSn38UZA" guid="_T1tCoMuEEeS8KpeSn38UZA" pred="_p6vHccuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_UVZ2YMuEEeS8KpeSn38UZA" guid="_UVZ2YMuEEeS8KpeSn38UZA" pred="_p6vHccuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_VyW8kMuEEeS8KpeSn38UZA" guid="_VyW8kMuEEeS8KpeSn38UZA" pred="_p6vHccuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_XChj8MuEEeS8KpeSn38UZA" guid="_XChj8MuEEeS8KpeSn38UZA" pred="_p6vHccuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Z_S3EMuEEeS8KpeSn38UZA" guid="_Z_S3EMuEEeS8KpeSn38UZA" pred="_p6vHcsuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_bJgAYMuEEeS8KpeSn38UZA" guid="_bJgAYMuEEeS8KpeSn38UZA" pred="_p6vHcsuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_dAv14MuEEeS8KpeSn38UZA" guid="_dAv14MuEEeS8KpeSn38UZA" pred="_p6vHcsuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_eSIlQMuEEeS8KpeSn38UZA" guid="_eSIlQMuEEeS8KpeSn38UZA" pred="_p6vHcsuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_iKhMEMuEEeS8KpeSn38UZA" guid="_iKhMEMuEEeS8KpeSn38UZA" pred="_p6vugMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_lKI-4MuEEeS8KpeSn38UZA" guid="_lKI-4MuEEeS8KpeSn38UZA" pred="_p6vugMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_mUCmMMuEEeS8KpeSn38UZA" guid="_mUCmMMuEEeS8KpeSn38UZA" pred="_p6vugMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_nF454MuEEeS8KpeSn38UZA" guid="_nF454MuEEeS8KpeSn38UZA" pred="_p6vugMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_ptVdQMuEEeS8KpeSn38UZA" guid="_ptVdQMuEEeS8KpeSn38UZA" pred="_p6vugMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_sAGxIMuEEeS8KpeSn38UZA" guid="_sAGxIMuEEeS8KpeSn38UZA" pred="_p6vugMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_1jkEYMuEEeS8KpeSn38UZA" guid="_1jkEYMuEEeS8KpeSn38UZA" pred="_p6vugcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Aex0wMuFEeS8KpeSn38UZA" guid="_Aex0wMuFEeS8KpeSn38UZA" pred="_r95SAMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_BWEpIMuFEeS8KpeSn38UZA" guid="_BWEpIMuFEeS8KpeSn38UZA" pred="_r95SAMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_B5F2oMuFEeS8KpeSn38UZA" guid="_B5F2oMuFEeS8KpeSn38UZA" pred="_r95SAMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_EOWd0MuFEeS8KpeSn38UZA" guid="_EOWd0MuFEeS8KpeSn38UZA" pred="_r95SAMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_E2rCEMuFEeS8KpeSn38UZA" guid="_E2rCEMuFEeS8KpeSn38UZA" pred="_r95SAMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_GhgMMMuFEeS8KpeSn38UZA" guid="_GhgMMMuFEeS8KpeSn38UZA" pred="_r95SAMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_IC2qMMuFEeS8KpeSn38UZA" guid="_IC2qMMuFEeS8KpeSn38UZA" pred="_r95SAMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_L_RccMuFEeS8KpeSn38UZA" guid="_L_RccMuFEeS8KpeSn38UZA" pred="_r95SAcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Nprv0MuFEeS8KpeSn38UZA" guid="_Nprv0MuFEeS8KpeSn38UZA" pred="_r95SAcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_OMT7wMuFEeS8KpeSn38UZA" guid="_OMT7wMuFEeS8KpeSn38UZA" pred="_r95SAcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Pr_l0MuFEeS8KpeSn38UZA" guid="_Pr_l0MuFEeS8KpeSn38UZA" pred="_r95SAcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_TJnjQMuFEeS8KpeSn38UZA" guid="_TJnjQMuFEeS8KpeSn38UZA" pred="_r955EMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_W53hwMuFEeS8KpeSn38UZA" guid="_W53hwMuFEeS8KpeSn38UZA" pred="_r955EcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_YSWXoMuFEeS8KpeSn38UZA" guid="_YSWXoMuFEeS8KpeSn38UZA" pred="_r955EcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_ZJtdcMuFEeS8KpeSn38UZA" guid="_ZJtdcMuFEeS8KpeSn38UZA" pred="_r955EcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_anWgIMuFEeS8KpeSn38UZA" guid="_anWgIMuFEeS8KpeSn38UZA" pred="_r955EcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_dssgcMuFEeS8KpeSn38UZA" guid="_dssgcMuFEeS8KpeSn38UZA" pred="_r955EsuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_fm_C4MuFEeS8KpeSn38UZA" guid="_fm_C4MuFEeS8KpeSn38UZA" pred="_r955EsuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_iEUA8MuFEeS8KpeSn38UZA" guid="_iEUA8MuFEeS8KpeSn38UZA" pred="_r96gIMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_jUG04MuFEeS8KpeSn38UZA" guid="_jUG04MuFEeS8KpeSn38UZA" pred="_r96gIMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_kdHEUMuFEeS8KpeSn38UZA" guid="_kdHEUMuFEeS8KpeSn38UZA" pred="_r96gIMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_l_QMgMuFEeS8KpeSn38UZA" guid="_l_QMgMuFEeS8KpeSn38UZA" pred="_r96gIMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_x-e-oMuFEeS8KpeSn38UZA" guid="_x-e-oMuFEeS8KpeSn38UZA" pred="_tbClcMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_y_70kMuFEeS8KpeSn38UZA" guid="_y_70kMuFEeS8KpeSn38UZA" pred="_tbClcMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_1YjRwMuFEeS8KpeSn38UZA" guid="_1YjRwMuFEeS8KpeSn38UZA" pred="_tbClcMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_2zxSkMuFEeS8KpeSn38UZA" guid="_2zxSkMuFEeS8KpeSn38UZA" pred="_tbClcMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_7Ai1AMuFEeS8KpeSn38UZA" guid="_7Ai1AMuFEeS8KpeSn38UZA" pred="_tbDMgMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_AC4tgMuGEeS8KpeSn38UZA" guid="_AC4tgMuGEeS8KpeSn38UZA" pred="_tbDMgMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Bq6bQMuGEeS8KpeSn38UZA" guid="_Bq6bQMuGEeS8KpeSn38UZA" pred="_tbDMgMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_FIShEMuGEeS8KpeSn38UZA" guid="_FIShEMuGEeS8KpeSn38UZA" pred="_tbDMgcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_WfQz8MuGEeS8KpeSn38UZA" guid="_WfQz8MuGEeS8KpeSn38UZA" pred="_vYRHIMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_XNX3IMuGEeS8KpeSn38UZA" guid="_XNX3IMuGEeS8KpeSn38UZA" pred="_vYRHIMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_aFOOAMuGEeS8KpeSn38UZA" guid="_aFOOAMuGEeS8KpeSn38UZA" pred="_vYRHIMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_vZcqgMuPEeS8KpeSn38UZA" guid="_vZcqgMuPEeS8KpeSn38UZA" pred="_vYRuMMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_54L6QMuPEeS8KpeSn38UZA" guid="_54L6QMuPEeS8KpeSn38UZA" pred="_vYRuMcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_8vHEEMuPEeS8KpeSn38UZA" guid="_8vHEEMuPEeS8KpeSn38UZA" pred="_w0cxQMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_-DcZwMuPEeS8KpeSn38UZA" guid="_-DcZwMuPEeS8KpeSn38UZA" pred="_w0cxQMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_-8pSoMuPEeS8KpeSn38UZA" guid="_-8pSoMuPEeS8KpeSn38UZA" pred="_w0cxQMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_AEK7YMuQEeS8KpeSn38UZA" guid="_AEK7YMuQEeS8KpeSn38UZA" pred="_w0cxQMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_BOYrwMuQEeS8KpeSn38UZA" guid="_BOYrwMuQEeS8KpeSn38UZA" pred="_w0cxQMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_EiA_sMuQEeS8KpeSn38UZA" guid="_EiA_sMuQEeS8KpeSn38UZA" pred="_w0cxQcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_FIwPkMuQEeS8KpeSn38UZA" guid="_FIwPkMuQEeS8KpeSn38UZA" pred="_w0cxQcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_KAYF0MuQEeS8KpeSn38UZA" guid="_KAYF0MuQEeS8KpeSn38UZA" pred="_w0cxQcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_LLUO8MuQEeS8KpeSn38UZA" guid="_LLUO8MuQEeS8KpeSn38UZA" pred="_w0cxQcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_MaTxoMuQEeS8KpeSn38UZA" guid="_MaTxoMuQEeS8KpeSn38UZA" pred="_w0cxQcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_PeEdkMuQEeS8KpeSn38UZA" guid="_PeEdkMuQEeS8KpeSn38UZA" pred="_w0dYUMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_SwROIMuQEeS8KpeSn38UZA" guid="_SwROIMuQEeS8KpeSn38UZA" pred="_w0dYUcuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Wn9RYMuQEeS8KpeSn38UZA" guid="_Wn9RYMuQEeS8KpeSn38UZA" pred="_yGSzoMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_XvzDMMuQEeS8KpeSn38UZA" guid="_XvzDMMuQEeS8KpeSn38UZA" pred="_yGSzoMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_aqq44MuQEeS8KpeSn38UZA" guid="_aqq44MuQEeS8KpeSn38UZA" pred="_yGSzocuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_l0u9kMuQEeS8KpeSn38UZA" guid="_l0u9kMuQEeS8KpeSn38UZA" pred="_zawFIMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_mhXaEMuQEeS8KpeSn38UZA" guid="_mhXaEMuQEeS8KpeSn38UZA" pred="_zawFIMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_opZdkMuQEeS8KpeSn38UZA" guid="_opZdkMuQEeS8KpeSn38UZA" pred="_zawFIMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_pO1F4MuQEeS8KpeSn38UZA" guid="_pO1F4MuQEeS8KpeSn38UZA" pred="_zawFIMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_s6jJsMuQEeS8KpeSn38UZA" guid="_s6jJsMuQEeS8KpeSn38UZA" pred="_zawsMMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_tg27wMuQEeS8KpeSn38UZA" guid="_tg27wMuQEeS8KpeSn38UZA" pred="_zawsMMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_uIduUMuQEeS8KpeSn38UZA" guid="_uIduUMuQEeS8KpeSn38UZA" pred="_zawsMMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_uwU_kMuQEeS8KpeSn38UZA" guid="_uwU_kMuQEeS8KpeSn38UZA" pred="_zawsMMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_2aoY0MuQEeS8KpeSn38UZA" guid="_2aoY0MuQEeS8KpeSn38UZA" pred="_zawsMMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_698zAMuQEeS8KpeSn38UZA" guid="_698zAMuQEeS8KpeSn38UZA" pred="_zawsMMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_jgCpMMuzEeS8KpeSn38UZA" guid="_jgCpMMuzEeS8KpeSn38UZA" pred="_2WyYcMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_kgzioMuzEeS8KpeSn38UZA" guid="_kgzioMuzEeS8KpeSn38UZA" pred="_2WyYcMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_lS_NgMuzEeS8KpeSn38UZA" guid="_lS_NgMuzEeS8KpeSn38UZA" pred="_2WyYcMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_mvdykMuzEeS8KpeSn38UZA" guid="_mvdykMuzEeS8KpeSn38UZA" pred="_2WyYcMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_oiczIMuzEeS8KpeSn38UZA" guid="_oiczIMuzEeS8KpeSn38UZA" pred="_2WyYcMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_tRc44MuzEeS8KpeSn38UZA" guid="_tRc44MuzEeS8KpeSn38UZA" pred="_2Wy_gMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_1li2AMuzEeS8KpeSn38UZA" guid="_1li2AMuzEeS8KpeSn38UZA" pred="_2Wy_gMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_6xwcMMuzEeS8KpeSn38UZA" guid="_6xwcMMuzEeS8KpeSn38UZA" pred="_2Wy_gMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_8RV_oMuzEeS8KpeSn38UZA" guid="_8RV_oMuzEeS8KpeSn38UZA" pred="_2Wy_gMuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_FeUskMu0EeS8KpeSn38UZA" guid="_FeUskMu0EeS8KpeSn38UZA" pred="_33Iw4MuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_KCOVkMu0EeS8KpeSn38UZA" guid="_KCOVkMu0EeS8KpeSn38UZA" pred="_33Iw4MuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_SxjdMMu0EeS8KpeSn38UZA" guid="_SxjdMMu0EeS8KpeSn38UZA" pred="_33Iw4cuBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_U8CXwMu0EeS8KpeSn38UZA" guid="_U8CXwMu0EeS8KpeSn38UZA" pred="_33Iw4suBEeS8KpeSn38UZA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_avVMEMu0EeS8KpeSn38UZA" guid="_avVMEMu0EeS8KpeSn38UZA" pred="_33Iw4suBEeS8KpeSn38UZA"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_4zJioMuAEeS8KpeSn38UZA" name="プロジェクト・マネジメント・プロセス" guid="_4zJioMuAEeS8KpeSn38UZA" presentationName="プロジェクト・マネジメント・プロセス" breakdownElements="_oEORwMuBEeS8KpeSn38UZA _oEORwcuBEeS8KpeSn38UZA _oEO40MuBEeS8KpeSn38UZA _oEO40cuBEeS8KpeSn38UZA _oEPf4MuBEeS8KpeSn38UZA _oEPf4cuBEeS8KpeSn38UZA _p6vHcMuBEeS8KpeSn38UZA _p6vHccuBEeS8KpeSn38UZA _p6vHcsuBEeS8KpeSn38UZA _p6vugMuBEeS8KpeSn38UZA _p6vugcuBEeS8KpeSn38UZA _p6vugsuBEeS8KpeSn38UZA _r95SAMuBEeS8KpeSn38UZA _r95SAcuBEeS8KpeSn38UZA _r955EMuBEeS8KpeSn38UZA _r955EcuBEeS8KpeSn38UZA _r955EsuBEeS8KpeSn38UZA _r96gIMuBEeS8KpeSn38UZA _r96gIcuBEeS8KpeSn38UZA _tbClcMuBEeS8KpeSn38UZA _tbDMgMuBEeS8KpeSn38UZA _tbDMgcuBEeS8KpeSn38UZA _tbDMgsuBEeS8KpeSn38UZA _vYRHIMuBEeS8KpeSn38UZA _vYRuMMuBEeS8KpeSn38UZA _vYRuMcuBEeS8KpeSn38UZA _w0cxQMuBEeS8KpeSn38UZA _w0cxQcuBEeS8KpeSn38UZA _w0dYUMuBEeS8KpeSn38UZA _w0dYUcuBEeS8KpeSn38UZA _yGSzoMuBEeS8KpeSn38UZA _yGSzocuBEeS8KpeSn38UZA _yGSzosuBEeS8KpeSn38UZA _zawFIMuBEeS8KpeSn38UZA _zawsMMuBEeS8KpeSn38UZA _zawsMcuBEeS8KpeSn38UZA _zawsMsuBEeS8KpeSn38UZA _zaxTQMuBEeS8KpeSn38UZA _zaxTQcuBEeS8KpeSn38UZA _2WyYcMuBEeS8KpeSn38UZA _2Wy_gMuBEeS8KpeSn38UZA _2Wy_gcuBEeS8KpeSn38UZA _2Wy_gsuBEeS8KpeSn38UZA _33Iw4MuBEeS8KpeSn38UZA _33Iw4cuBEeS8KpeSn38UZA _33Iw4suBEeS8KpeSn38UZA _33Iw48uBEeS8KpeSn38UZA">
+      <presentation xmi:id="-nUQbmb3U5J2jAXP-3fnz-w" href="uma://-nUQbmb3U5J2jAXP-3fnz-w#-nUQbmb3U5J2jAXP-3fnz-w"/>
+      <defaultContext href="uma://_2Pz30OGoEeS5HJiz83j5Fg#_pVoY8MeUEeS2DMw6uOlqsQ"/>
+      <validContext href="uma://_2Pz30OGoEeS5HJiz83j5Fg#_pVoY8MeUEeS2DMw6uOlqsQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

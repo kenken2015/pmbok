@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML">
+  <uml:Activity xmi:id="_D_wacMuAEeS8KpeSn38UZA" name="知識エリア">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_D_xokMuAEeS8KpeSn38UZA" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_D_xokcuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_IT8_Ect2EeS8KpeSn38UZA"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_D_xoksuAEeS8KpeSn38UZA" key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_ElC40MuAEeS8KpeSn38UZA" name="04．プロジェクト統合マネジメント">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ElC40cuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ElC40suAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_MdMFUMt2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ElC408uAEeS8KpeSn38UZA" key="type" value="Iteration"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_ElEG8MuAEeS8KpeSn38UZA" name="05．プロジェクト・スコープ・マネジメント">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ElEG8cuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ElEG8suAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_P5M5Mct2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ElEG88uAEeS8KpeSn38UZA" key="type" value="Iteration"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_ElEG9MuAEeS8KpeSn38UZA" name="06．プロジェクト・タイム・マネジメント">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ElEG9cuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ElEG9suAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_S6xMwMt2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ElEG98uAEeS8KpeSn38UZA" key="type" value="Iteration"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_ElEG-MuAEeS8KpeSn38UZA" name="07．プロジェクト・コスト・マネジメント">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ElEG-cuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ElEG-suAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_U7B0Uct2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ElEG-8uAEeS8KpeSn38UZA" key="type" value="Iteration"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_ElEG_MuAEeS8KpeSn38UZA" name="08．プロジェクト品質マネジメント">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ElEuAMuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ElEuAcuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_ZotEYct2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ElEuAsuAEeS8KpeSn38UZA" key="type" value="Iteration"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_ElEuA8uAEeS8KpeSn38UZA" name="09．プロジェクト人的資源マネジメント">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ElEuBMuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ElEuBcuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_b7MEYct2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ElEuBsuAEeS8KpeSn38UZA" key="type" value="Iteration"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_ElEuB8uAEeS8KpeSn38UZA" name="10．プロジェクト・コミュニケーション・マネジメント">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ElEuCMuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ElEuCcuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_ebfd8Mt2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ElEuCsuAEeS8KpeSn38UZA" key="type" value="Iteration"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_ElEuC8uAEeS8KpeSn38UZA" name="11．プロジェクト・リスク・マネジメント">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ElEuDMuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ElEuDcuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_hRwgcct2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ElEuDsuAEeS8KpeSn38UZA" key="type" value="Iteration"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_ElEuD8uAEeS8KpeSn38UZA" name="12．プロジェクト調達マネジメント">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ElEuEMuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ElEuEcuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_lRg6kct2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ElEuEsuAEeS8KpeSn38UZA" key="type" value="Iteration"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_ElEuE8uAEeS8KpeSn38UZA" name="13．プロジェクト・ステークホルダー・マネジメント">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ElEuFMuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ElEuFcuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_qpwxoct2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ElEuFsuAEeS8KpeSn38UZA" key="type" value="Iteration"/>
+      </eAnnotations>
+    </node>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_EAJcAMuAEeS8KpeSn38UZA" type="AD" element="_D_wacMuAEeS8KpeSn38UZA" name="知識エリア" measurementUnit="Pixel">
+    <children xmi:type="notation:Node" xmi:id="_T1gLIMuAEeS8KpeSn38UZA" type="1011" element="_ElC40MuAEeS8KpeSn38UZA">
+      <children xmi:type="notation:Node" xmi:id="_T1inYMuAEeS8KpeSn38UZA" type="4010"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_T1gLIcuAEeS8KpeSn38UZA" fontName="Arial" fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_T1gLIsuAEeS8KpeSn38UZA"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_T1gLI8uAEeS8KpeSn38UZA"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_T1gLJMuAEeS8KpeSn38UZA" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_T1gLJcuAEeS8KpeSn38UZA"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_T1inYcuAEeS8KpeSn38UZA" type="1011" element="_ElEG8MuAEeS8KpeSn38UZA">
+      <children xmi:type="notation:Node" xmi:id="_T1inZ8uAEeS8KpeSn38UZA" type="4010"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_T1inYsuAEeS8KpeSn38UZA" fontName="Arial" fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_T1inY8uAEeS8KpeSn38UZA"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_T1inZMuAEeS8KpeSn38UZA"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_T1inZcuAEeS8KpeSn38UZA" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_T1inZsuAEeS8KpeSn38UZA" x="-15" y="65"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_T1jOcMuAEeS8KpeSn38UZA" type="1011" element="_ElEG9MuAEeS8KpeSn38UZA">
+      <children xmi:type="notation:Node" xmi:id="_T1jOdsuAEeS8KpeSn38UZA" type="4010"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_T1jOccuAEeS8KpeSn38UZA" fontName="Arial" fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_T1jOcsuAEeS8KpeSn38UZA"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_T1jOc8uAEeS8KpeSn38UZA"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_T1jOdMuAEeS8KpeSn38UZA" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_T1jOdcuAEeS8KpeSn38UZA" y="140"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_T1jOd8uAEeS8KpeSn38UZA" type="1011" element="_ElEG-MuAEeS8KpeSn38UZA">
+      <children xmi:type="notation:Node" xmi:id="_T1j1gMuAEeS8KpeSn38UZA" type="4010"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_T1jOeMuAEeS8KpeSn38UZA" fontName="Arial" fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_T1jOecuAEeS8KpeSn38UZA"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_T1jOesuAEeS8KpeSn38UZA"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_T1jOe8uAEeS8KpeSn38UZA" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_T1jOfMuAEeS8KpeSn38UZA" x="-5" y="210"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_T1j1gcuAEeS8KpeSn38UZA" type="1011" element="_ElEG_MuAEeS8KpeSn38UZA">
+      <children xmi:type="notation:Node" xmi:id="_T1j1h8uAEeS8KpeSn38UZA" type="4010"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_T1j1gsuAEeS8KpeSn38UZA" fontName="Arial" fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_T1j1g8uAEeS8KpeSn38UZA"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_T1j1hMuAEeS8KpeSn38UZA"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_T1j1hcuAEeS8KpeSn38UZA" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_T1j1hsuAEeS8KpeSn38UZA" y="285"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_T1kckMuAEeS8KpeSn38UZA" type="1011" element="_ElEuA8uAEeS8KpeSn38UZA">
+      <children xmi:type="notation:Node" xmi:id="_T1kclsuAEeS8KpeSn38UZA" type="4010"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_T1kckcuAEeS8KpeSn38UZA" fontName="Arial" fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_T1kcksuAEeS8KpeSn38UZA"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_T1kck8uAEeS8KpeSn38UZA"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_T1kclMuAEeS8KpeSn38UZA" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_T1kclcuAEeS8KpeSn38UZA" x="-15" y="360"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_T1lDoMuAEeS8KpeSn38UZA" type="1011" element="_ElEuB8uAEeS8KpeSn38UZA">
+      <children xmi:type="notation:Node" xmi:id="_T1lDpsuAEeS8KpeSn38UZA" type="4010"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_T1lDocuAEeS8KpeSn38UZA" fontName="Arial" fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_T1lDosuAEeS8KpeSn38UZA"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_T1lDo8uAEeS8KpeSn38UZA"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_T1lDpMuAEeS8KpeSn38UZA" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_T1lDpcuAEeS8KpeSn38UZA" x="-25" y="440"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_T1lDp8uAEeS8KpeSn38UZA" type="1011" element="_ElEuC8uAEeS8KpeSn38UZA">
+      <children xmi:type="notation:Node" xmi:id="_T1lqsMuAEeS8KpeSn38UZA" type="4010"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_T1lDqMuAEeS8KpeSn38UZA" fontName="Arial" fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_T1lDqcuAEeS8KpeSn38UZA"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_T1lDqsuAEeS8KpeSn38UZA"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_T1lDq8uAEeS8KpeSn38UZA" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_T1lDrMuAEeS8KpeSn38UZA" x="-5" y="515"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_T1lqscuAEeS8KpeSn38UZA" type="1011" element="_ElEuD8uAEeS8KpeSn38UZA">
+      <children xmi:type="notation:Node" xmi:id="_T1lqt8uAEeS8KpeSn38UZA" type="4010"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_T1lqssuAEeS8KpeSn38UZA" fontName="Arial" fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_T1lqs8uAEeS8KpeSn38UZA"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_T1lqtMuAEeS8KpeSn38UZA"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_T1lqtcuAEeS8KpeSn38UZA" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_T1lqtsuAEeS8KpeSn38UZA" y="575"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_T1lquMuAEeS8KpeSn38UZA" type="1011" element="_ElEuE8uAEeS8KpeSn38UZA">
+      <children xmi:type="notation:Node" xmi:id="_T1mRwMuAEeS8KpeSn38UZA" type="4010"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_T1lqucuAEeS8KpeSn38UZA" fontName="Arial" fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_T1lqusuAEeS8KpeSn38UZA"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_T1lqu8uAEeS8KpeSn38UZA"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_T1lqvMuAEeS8KpeSn38UZA" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_T1lqvcuAEeS8KpeSn38UZA" x="-25" y="655"/>
+    </children>
+    <styles xmi:type="notation:PageStyle" xmi:id="_EAJcAcuAEeS8KpeSn38UZA"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_EAJcAsuAEeS8KpeSn38UZA"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_EAJcA8uAEeS8KpeSn38UZA"/>
+  </notation:Diagram>
+  <uml:Activity xmi:id="_PHBCwMuAEeS8KpeSn38UZA" name="04．プロジェクト統合マネジメント">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_PHBCwcuAEeS8KpeSn38UZA" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PHBCwsuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_MdMFUMt2EeS8KpeSn38UZA"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PHBCw8uAEeS8KpeSn38UZA" key="type" value="Iteration"/>
+    </eAnnotations>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_PHlqgMuAEeS8KpeSn38UZA" name="04.1．プロジェクト憲章作成" outgoing="_PHm4ocuAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_PHlqgcuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PHlqgsuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_wGPBYMt2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PHlqg8uAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_PHlqhMuAEeS8KpeSn38UZA" name="04.2．プロジェクト・マネジメント計画書作成" outgoing="_PHmRkMuAEeS8KpeSn38UZA _PHm4oMuAEeS8KpeSn38UZA _PHm4osuAEeS8KpeSn38UZA _PHm4o8uAEeS8KpeSn38UZA" incoming="_PHm4ocuAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_PHlqhcuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PHlqhsuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_wGPBYct2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PHlqh8uAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_PHlqiMuAEeS8KpeSn38UZA" name="04.3．プロジェクト作業の指揮・マネジメント" incoming="_PHm4osuAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_PHlqicuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PHlqisuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_wGPBYst2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PHlqi8uAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_PHlqjMuAEeS8KpeSn38UZA" name="04.4．プロジェクト作業の監視・コントロール" outgoing="_PHmRkcuAEeS8KpeSn38UZA" incoming="_PHm4o8uAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_PHlqjcuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PHlqjsuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_wGPBY8t2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PHlqj8uAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_PHlqkMuAEeS8KpeSn38UZA" name="04.5．統合変更管理" incoming="_PHmRkMuAEeS8KpeSn38UZA _PHmRkcuAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_PHlqkcuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PHlqksuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_wGPBZMt2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PHlqk8uAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_PHlqlMuAEeS8KpeSn38UZA" name="04.6．プロジェクトやフェーズの終結" incoming="_PHm4oMuAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_PHlqlcuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PHlqlsuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_wGPBZct2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PHlql8uAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_PHmRkMuAEeS8KpeSn38UZA" source="_PHlqhMuAEeS8KpeSn38UZA" target="_PHlqkMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_PHmRkcuAEeS8KpeSn38UZA" source="_PHlqjMuAEeS8KpeSn38UZA" target="_PHlqkMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_PHm4oMuAEeS8KpeSn38UZA" source="_PHlqhMuAEeS8KpeSn38UZA" target="_PHlqlMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_PHm4ocuAEeS8KpeSn38UZA" source="_PHlqgMuAEeS8KpeSn38UZA" target="_PHlqhMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_PHm4osuAEeS8KpeSn38UZA" source="_PHlqhMuAEeS8KpeSn38UZA" target="_PHlqiMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_PHm4o8uAEeS8KpeSn38UZA" source="_PHlqhMuAEeS8KpeSn38UZA" target="_PHlqjMuAEeS8KpeSn38UZA"/>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_PHBp0MuAEeS8KpeSn38UZA" type="AD" element="_PHBCwMuAEeS8KpeSn38UZA" name="04．プロジェクト統合マネジメント" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_PHBp0cuAEeS8KpeSn38UZA"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_PHBp0suAEeS8KpeSn38UZA"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_PHBp08uAEeS8KpeSn38UZA"/>
+  </notation:Diagram>
+  <uml:Activity xmi:id="_RRn5IMuAEeS8KpeSn38UZA" name="05．プロジェクト・スコープ・マネジメント">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_RRn5IcuAEeS8KpeSn38UZA" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_RRn5IsuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_P5M5Mct2EeS8KpeSn38UZA"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_RRogMMuAEeS8KpeSn38UZA" key="type" value="Iteration"/>
+    </eAnnotations>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_RSHoYMuAEeS8KpeSn38UZA" name="05.1．スコープ・マネジメント計画" outgoing="_RSI2gcuAEeS8KpeSn38UZA _RSI2hMuAEeS8KpeSn38UZA _RSJdkcuAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_RSHoYcuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_RSHoYsuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_w96QQMt2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_RSHoY8uAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_RSHoZMuAEeS8KpeSn38UZA" name="05.2．要求事項収集" outgoing="_RSIPcsuAEeS8KpeSn38UZA _RSI2gsuAEeS8KpeSn38UZA _RSI2hcuAEeS8KpeSn38UZA _RSJdkMuAEeS8KpeSn38UZA" incoming="_RSJdkcuAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_RSHoZcuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_RSHoZsuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_w96QQct2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_RSHoZ8uAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_RSHoaMuAEeS8KpeSn38UZA" name="05.3．スコープ定義" outgoing="_RSI2g8uAEeS8KpeSn38UZA" incoming="_RSI2hMuAEeS8KpeSn38UZA _RSI2hcuAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_RSHoacuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_RSHoasuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_w96QQst2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_RSHoa8uAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_RSHobMuAEeS8KpeSn38UZA" name="05.4．WBS作成" outgoing="_RSI2gMuAEeS8KpeSn38UZA" incoming="_RSI2gcuAEeS8KpeSn38UZA _RSI2gsuAEeS8KpeSn38UZA _RSI2g8uAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_RSHobcuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_RSHobsuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_w96QQ8t2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_RSHob8uAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_RSHocMuAEeS8KpeSn38UZA" name="05.5．スコープ妥当性確認" incoming="_RSIPcsuAEeS8KpeSn38UZA _RSI2gMuAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_RSHoccuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_RSHocsuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_w96QRMt2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_RSHoc8uAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_RSHodMuAEeS8KpeSn38UZA" name="05.6．スコープ・コントロール" incoming="_RSJdkMuAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_RSHodcuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_RSIPcMuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_w96QRct2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_RSIPccuAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_RSIPcsuAEeS8KpeSn38UZA" source="_RSHoZMuAEeS8KpeSn38UZA" target="_RSHocMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_RSI2gMuAEeS8KpeSn38UZA" source="_RSHobMuAEeS8KpeSn38UZA" target="_RSHocMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_RSI2gcuAEeS8KpeSn38UZA" source="_RSHoYMuAEeS8KpeSn38UZA" target="_RSHobMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_RSI2gsuAEeS8KpeSn38UZA" source="_RSHoZMuAEeS8KpeSn38UZA" target="_RSHobMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_RSI2g8uAEeS8KpeSn38UZA" source="_RSHoaMuAEeS8KpeSn38UZA" target="_RSHobMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_RSI2hMuAEeS8KpeSn38UZA" source="_RSHoYMuAEeS8KpeSn38UZA" target="_RSHoaMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_RSI2hcuAEeS8KpeSn38UZA" source="_RSHoZMuAEeS8KpeSn38UZA" target="_RSHoaMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_RSJdkMuAEeS8KpeSn38UZA" source="_RSHoZMuAEeS8KpeSn38UZA" target="_RSHodMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_RSJdkcuAEeS8KpeSn38UZA" source="_RSHoYMuAEeS8KpeSn38UZA" target="_RSHoZMuAEeS8KpeSn38UZA"/>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_RRogMcuAEeS8KpeSn38UZA" type="AD" element="_RRn5IMuAEeS8KpeSn38UZA" name="05．プロジェクト・スコープ・マネジメント" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_RRogMsuAEeS8KpeSn38UZA"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_RRogM8uAEeS8KpeSn38UZA"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_RRogNMuAEeS8KpeSn38UZA"/>
+  </notation:Diagram>
+  <uml:Activity xmi:id="_VHILEMuAEeS8KpeSn38UZA" name="06．プロジェクト・タイム・マネジメント">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_VHILEcuAEeS8KpeSn38UZA" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VHILEsuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_S6xMwMt2EeS8KpeSn38UZA"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VHILE8uAEeS8KpeSn38UZA" key="type" value="Iteration"/>
+    </eAnnotations>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_VHbGAMuAEeS8KpeSn38UZA" name="06.1．スケジュール・マネジメント計画" outgoing="_VHbtG8uAEeS8KpeSn38UZA _VHcUJMuAEeS8KpeSn38UZA _VHcUJsuAEeS8KpeSn38UZA _VHcUKMuAEeS8KpeSn38UZA _VHc7McuAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_VHbGAcuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VHbGAsuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_ym8qoMt2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VHbGA8uAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_VHbGBMuAEeS8KpeSn38UZA" name="06.2．アクティビティ定義" outgoing="_VHcUIMuAEeS8KpeSn38UZA _VHcUJcuAEeS8KpeSn38UZA _VHc7MMuAEeS8KpeSn38UZA _VHc7MsuAEeS8KpeSn38UZA" incoming="_VHcUJsuAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_VHbGBcuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VHbGBsuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_ym8qoct2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VHbGB8uAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_VHbGCMuAEeS8KpeSn38UZA" name="06.3．アクティビティ順序設定" outgoing="_VHcUIcuAEeS8KpeSn38UZA" incoming="_VHcUJMuAEeS8KpeSn38UZA _VHcUJcuAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_VHbGCcuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VHbGCsuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_ym8qost2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VHbGC8uAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_VHbGDMuAEeS8KpeSn38UZA" name="06.4．アクティビティ資源見積り" outgoing="_VHcUIsuAEeS8KpeSn38UZA _VHc7M8uAEeS8KpeSn38UZA" incoming="_VHcUKMuAEeS8KpeSn38UZA _VHc7MMuAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_VHbGDcuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VHbGDsuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_ym8qo8t2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VHbGD8uAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_VHbGEMuAEeS8KpeSn38UZA" name="06.5．アクティビティ所要期間見積り" outgoing="_VHcUI8uAEeS8KpeSn38UZA" incoming="_VHc7McuAEeS8KpeSn38UZA _VHc7MsuAEeS8KpeSn38UZA _VHc7M8uAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_VHbtEMuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VHbtEcuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_ym8qpMt2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VHbtEsuAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_VHbtE8uAEeS8KpeSn38UZA" name="06.6．スケジュール作成" outgoing="_VHcUJ8uAEeS8KpeSn38UZA" incoming="_VHbtG8uAEeS8KpeSn38UZA _VHcUIMuAEeS8KpeSn38UZA _VHcUIcuAEeS8KpeSn38UZA _VHcUIsuAEeS8KpeSn38UZA _VHcUI8uAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_VHbtFMuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VHbtFcuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_ym8qpct2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VHbtFsuAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_VHbtF8uAEeS8KpeSn38UZA" name="06.7．スケジュール・コントロール" incoming="_VHcUJ8uAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_VHbtGMuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VHbtGcuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_ym8qpst2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VHbtGsuAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_VHbtG8uAEeS8KpeSn38UZA" source="_VHbGAMuAEeS8KpeSn38UZA" target="_VHbtE8uAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_VHcUIMuAEeS8KpeSn38UZA" source="_VHbGBMuAEeS8KpeSn38UZA" target="_VHbtE8uAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_VHcUIcuAEeS8KpeSn38UZA" source="_VHbGCMuAEeS8KpeSn38UZA" target="_VHbtE8uAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_VHcUIsuAEeS8KpeSn38UZA" source="_VHbGDMuAEeS8KpeSn38UZA" target="_VHbtE8uAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_VHcUI8uAEeS8KpeSn38UZA" source="_VHbGEMuAEeS8KpeSn38UZA" target="_VHbtE8uAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_VHcUJMuAEeS8KpeSn38UZA" source="_VHbGAMuAEeS8KpeSn38UZA" target="_VHbGCMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_VHcUJcuAEeS8KpeSn38UZA" source="_VHbGBMuAEeS8KpeSn38UZA" target="_VHbGCMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_VHcUJsuAEeS8KpeSn38UZA" source="_VHbGAMuAEeS8KpeSn38UZA" target="_VHbGBMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_VHcUJ8uAEeS8KpeSn38UZA" source="_VHbtE8uAEeS8KpeSn38UZA" target="_VHbtF8uAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_VHcUKMuAEeS8KpeSn38UZA" source="_VHbGAMuAEeS8KpeSn38UZA" target="_VHbGDMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_VHc7MMuAEeS8KpeSn38UZA" source="_VHbGBMuAEeS8KpeSn38UZA" target="_VHbGDMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_VHc7McuAEeS8KpeSn38UZA" source="_VHbGAMuAEeS8KpeSn38UZA" target="_VHbGEMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_VHc7MsuAEeS8KpeSn38UZA" source="_VHbGBMuAEeS8KpeSn38UZA" target="_VHbGEMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_VHc7M8uAEeS8KpeSn38UZA" source="_VHbGDMuAEeS8KpeSn38UZA" target="_VHbGEMuAEeS8KpeSn38UZA"/>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_VHILFMuAEeS8KpeSn38UZA" type="AD" element="_VHILEMuAEeS8KpeSn38UZA" name="06．プロジェクト・タイム・マネジメント" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_VHILFcuAEeS8KpeSn38UZA"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_VHILFsuAEeS8KpeSn38UZA"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_VHILF8uAEeS8KpeSn38UZA"/>
+  </notation:Diagram>
+  <uml:Activity xmi:id="_bZgIEMuAEeS8KpeSn38UZA" name="07．プロジェクト・コスト・マネジメント">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_bZgIEcuAEeS8KpeSn38UZA" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_bZgIEsuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_U7B0Uct2EeS8KpeSn38UZA"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_bZgIE8uAEeS8KpeSn38UZA" key="type" value="Iteration"/>
+    </eAnnotations>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_baMroMuAEeS8KpeSn38UZA" name="07.1．コスト・マネジメント計画" outgoing="_baNSsMuAEeS8KpeSn38UZA _baNSs8uAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_baMrocuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_baMrosuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_zWrecMt2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_baMro8uAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_baMrpMuAEeS8KpeSn38UZA" name="07.2．コスト見積り" outgoing="_baNSscuAEeS8KpeSn38UZA" incoming="_baNSs8uAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_baMrpcuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_baMrpsuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_zWrecct2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_baMrp8uAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_baMrqMuAEeS8KpeSn38UZA" name="07.3．予算設定" outgoing="_baNSssuAEeS8KpeSn38UZA" incoming="_baNSsMuAEeS8KpeSn38UZA _baNSscuAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_baMrqcuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_baMrqsuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_zWrecst2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_baMrq8uAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_baMrrMuAEeS8KpeSn38UZA" name="07.4．コスト・コントロール" incoming="_baNSssuAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_baMrrcuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_baMrrsuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_zWrec8t2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_baMrr8uAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_baNSsMuAEeS8KpeSn38UZA" source="_baMroMuAEeS8KpeSn38UZA" target="_baMrqMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_baNSscuAEeS8KpeSn38UZA" source="_baMrpMuAEeS8KpeSn38UZA" target="_baMrqMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_baNSssuAEeS8KpeSn38UZA" source="_baMrqMuAEeS8KpeSn38UZA" target="_baMrrMuAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_baNSs8uAEeS8KpeSn38UZA" source="_baMroMuAEeS8KpeSn38UZA" target="_baMrpMuAEeS8KpeSn38UZA"/>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_bZgvIMuAEeS8KpeSn38UZA" type="AD" element="_bZgIEMuAEeS8KpeSn38UZA" name="07．プロジェクト・コスト・マネジメント" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_bZgvIcuAEeS8KpeSn38UZA"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_bZgvIsuAEeS8KpeSn38UZA"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_bZgvI8uAEeS8KpeSn38UZA"/>
+  </notation:Diagram>
+  <uml:Activity xmi:id="_eu-PEMuAEeS8KpeSn38UZA" name="08．プロジェクト品質マネジメント">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_eu-PEcuAEeS8KpeSn38UZA" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_eu-PEsuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_ZotEYct2EeS8KpeSn38UZA"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_eu-PE8uAEeS8KpeSn38UZA" key="type" value="Iteration"/>
+    </eAnnotations>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_evhosMuAEeS8KpeSn38UZA" name="08.1．品質マネジメント計画" outgoing="_eviPx8uAEeS8KpeSn38UZA _eviPyMuAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_evhoscuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_evhossuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_0hd2kMt2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_evhos8uAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_evhotMuAEeS8KpeSn38UZA" name="08.2．品質保証" incoming="_eviPyMuAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_eviPwMuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_eviPwcuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_0hd2kct2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_eviPwsuAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_eviPw8uAEeS8KpeSn38UZA" name="08.3．品質コントロール" incoming="_eviPx8uAEeS8KpeSn38UZA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_eviPxMuAEeS8KpeSn38UZA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_eviPxcuAEeS8KpeSn38UZA" key="uri" value="uma://_IT8_EMt2EeS8KpeSn38UZA#_0hd2kst2EeS8KpeSn38UZA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_eviPxsuAEeS8KpeSn38UZA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_eviPx8uAEeS8KpeSn38UZA" source="_evhosMuAEeS8KpeSn38UZA" target="_eviPw8uAEeS8KpeSn38UZA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_eviPyMuAEeS8KpeSn38UZA" source="_evhosMuAEeS8KpeSn38UZA" target="_evhotMuAEeS8KpeSn38UZA"/>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_eu-PFMuAEeS8KpeSn38UZA" type="AD" element="_eu-PEMuAEeS8KpeSn38UZA" name="08．プロジェクト品質マネジメント" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_eu-PFcuAEeS8KpeSn38UZA"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_eu-PFsuAEeS8KpeSn38UZA"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_eu-PF8uAEeS8KpeSn38UZA"/>
+  </notation:Diagram>
+</xmi:XMI>

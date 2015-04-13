@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-t_ykJqD5Nkt8n-W0Vi7P6A" name="作業パフォーマンス情報,_bO6vYMe0EeS2DMw6uOlqsQ" guid="-t_ykJqD5Nkt8n-W0Vi7P6A" changeDate="2015-03-19T08:44:03.446+0900">
+  <mainDescription>情報の内容は、分析され、複数エリアに渡った関係に基づいて統合される。パフォーマンス情報の例には、成果物の状況、変更要求の実施状況、および残作業見積の予測などがある。</mainDescription>
+</org.eclipse.epf.uma:DeliverableDescription>

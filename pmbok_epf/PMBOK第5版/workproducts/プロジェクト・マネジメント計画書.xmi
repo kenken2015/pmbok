@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5xjM5X2yeYIn86ARZfhKBA" name="プロジェクト・マネジメント計画書,_CggrAMerEeS2DMw6uOlqsQ" guid="-5xjM5X2yeYIn86ARZfhKBA" changeDate="2015-03-18T16:53:08.328+0900">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        プロジェクト向けに選択されたライフサイクルと各フェーズに適用されるプロセス&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        プロジェクト・マネジメント・チームにより決定されたテーラリング結果の詳細な具体例には以下のものがある。&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;list-style: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                プロジェクト・マネジメント・チームが選択したプロジェクト・マネジメント・プロセス&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                選択した各プロセスの遂行レベル&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                これらのプロセスを実現するために使用するツールと技法の記述&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                そのプロジェクトをマネジメントするために選択したプロセスをどう使用するのかの記述。それらのプロセス間の依存関係や相互作用、および主なインプットとアウトプットの記述を含む。&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        プロジェクトの目標を達成するための作業の実践方法の記述&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        変更の監視とコントロールの方法を定義した変更マネジメント計画書&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        コンフィギュレーション・マネジメントの実施内容を文書化したコンフィギュレーション・マネジメント計画書&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        プロジェクト・ベースラインの完全性を保つ方法の記述&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        ステークホルダー間のコミュニケーションを図るための要求事項と技法&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        未解決課題と決定保留事項の内容、範囲、および対応処置の時期に関する主要なマネジメント・レビュー&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:DeliverableDescription>

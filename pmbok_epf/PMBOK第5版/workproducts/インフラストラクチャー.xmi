@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-60zCluk8MrYzIM16_8QlQQ" name="new_artifact,_WRhD8M3YEeS3G82aSffQPw" guid="-60zCluk8MrYzIM16_8QlQQ">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        既存の施設&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        資本設備&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

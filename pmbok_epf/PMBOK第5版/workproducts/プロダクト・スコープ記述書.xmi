@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-smB4G1t-K5NYvh8U_H3S1w" name="new_artifact,_Yb_iQM06EeS3G82aSffQPw" guid="-smB4G1t-K5NYvh8U_H3S1w" changeDate="2015-03-19T08:59:36.244+0900">
+  <mainDescription>生成するプロダクト、サービス、または所産と、プロジェクトが取り組むビジネス・ニーズとの関係も記述すべきである。</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

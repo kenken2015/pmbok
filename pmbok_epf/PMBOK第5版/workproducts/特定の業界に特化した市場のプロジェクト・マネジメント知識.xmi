@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-j5ehBKUan1i6dNwrLY9nvA" name="new_artifact,_LeW9AM3QEeS3G82aSffQPw" guid="-j5ehBKUan1i6dNwrLY9nvA" changeDate="2015-03-19T09:39:30.078+0900">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        環境&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        安全&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        リスク&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        アジャイル・ソフトウェア開発&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

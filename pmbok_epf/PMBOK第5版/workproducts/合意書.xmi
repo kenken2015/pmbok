@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tbfgglyHPfPFKdy20aReqA" name="合意書,_RHtaYMeqEeS2DMw6uOlqsQ" guid="-tbfgglyHPfPFKdy20aReqA" changeDate="2015-03-18T15:56:40.198+0900">
+  <mainDescription>合意の携帯には契約書、了解覚書事項(MOU)、サービス・レベル合意書(SLA)、約定書、口頭での合意、電子メール、または、そのほかの文書での合意がある。通常、契約書は外部顧客のためにプロジェクトを実施する場合に使用される。</mainDescription>
+</org.eclipse.epf.uma:DeliverableDescription>

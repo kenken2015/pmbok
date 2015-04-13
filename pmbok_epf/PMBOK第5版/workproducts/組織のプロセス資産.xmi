@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-P8W670kagikv25fp5Zdu3A" name="組織のプロセス資産,_b__ykMeqEeS2DMw6uOlqsQ" guid="-P8W670kagikv25fp5Zdu3A" changeDate="2015-03-18T16:02:44.006+0900">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        組織の標準プロセス、ポリシー、およびプロセスの定義&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        テンプレート&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        過去の情報と教訓の知識ベース&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:DeliverableDescription>

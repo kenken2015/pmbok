@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5Rs0GKGH0QwZ_IzREAfHzg" name="作業パフォーマンス報告書,_h5KZ0Me0EeS2DMw6uOlqsQ" guid="-5Rs0GKGH0QwZ_IzREAfHzg" changeDate="2015-03-19T08:41:20.077+0900">
+  <mainDescription>状況報告書、メモ、情報ノート、電子ダッシュボード、推奨さん、および更新</mainDescription>
+  <purpose>意思決定、問題提起、対策、あるいは認識を引き出すために用いる。</purpose>
+</org.eclipse.epf.uma:DeliverableDescription>

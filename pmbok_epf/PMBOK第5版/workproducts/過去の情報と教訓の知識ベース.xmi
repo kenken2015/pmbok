@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5xFEPocQuN3Xqe9VOI8aXQ" name="new_deliverable,_-sxLwM3NEeS3G82aSffQPw" guid="-5xFEPocQuN3Xqe9VOI8aXQ" changeDate="2015-03-19T09:24:31.873+0900">
+  <mainDescription>プロジェクトの記録と文書、宇部手のプロジェクトの有欠情報と文書、以前のプロジェクト選択に関する判断と以前に行ったプロジェクトのパフォーマンス情報の結果に関する情報、リスク・マネジメント活動の情報</mainDescription>
+</org.eclipse.epf.uma:DeliverableDescription>

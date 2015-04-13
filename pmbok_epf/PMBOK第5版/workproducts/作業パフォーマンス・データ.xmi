@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XVeIvOd6OB6zkUyCRbM3Mw" name="作業パフォーマンス・データ,_w8u8IMezEeS2DMw6uOlqsQ" guid="-XVeIvOd6OB6zkUyCRbM3Mw" changeDate="2015-03-19T08:45:59.425+0900">
+  <mainDescription>例としては、実際に終了したとして報告された作業の割合、品質と技術的パフォーマンス測定値、スケジュール・アクティビティの開始日と終了日、変更要求数、欠陥数、実コスト、実所要期間などが挙げられる。</mainDescription>
+</org.eclipse.epf.uma:DeliverableDescription>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-lB1O5ObQDEh5HC9a1R6Gfg" name="new_artifact,_jWI7oM06EeS3G82aSffQPw" guid="-lB1O5ObQDEh5HC9a1R6Gfg" changeDate="2015-03-19T09:01:05.000+0900">
+  <mainDescription>すべてのプロジェクトは、組織の戦略計画と整合性を取るべきである。戦略計画と整合性を取ることにより、各プロジェクトが組織全体の全体戦略目標に貢献していることを確実にする。</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

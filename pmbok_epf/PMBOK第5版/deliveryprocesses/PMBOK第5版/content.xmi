@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-bOg8AIMZeQh1YJWF_lR2qA" name="組織体の環境要因,_wGQ2mMt2EeS8KpeSn38UZA" guid="-bOg8AIMZeQh1YJWF_lR2qA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-jAANbWh8N1hpfVhfSjkkHw" name="組織体の環境要因,_w963Vst2EeS8KpeSn38UZA" guid="-jAANbWh8N1hpfVhfSjkkHw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-8x8azkPwCuuuUyuZIRLslA" name="組織体の環境要因,_ym94xst2EeS8KpeSn38UZA" guid="-8x8azkPwCuuuUyuZIRLslA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-9DrB6Xzft1yzAB8yvW8F_w" name="組織体の環境要因,_zWsFhst2EeS8KpeSn38UZA" guid="-9DrB6Xzft1yzAB8yvW8F_w"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-QutCXXOAQ9om9iP30Bfu0Q" name="組織体の環境要因,_0hfEuMt2EeS8KpeSn38UZA" guid="-QutCXXOAQ9om9iP30Bfu0Q"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-hVj6wEjQDe4xWm8tyAQZzw" name="組織体の環境要因,_1aX0hst2EeS8KpeSn38UZA" guid="-hVj6wEjQDe4xWm8tyAQZzw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-uU_D0woYgqbb952aieIkEA" name="組織体の環境要因,_2C8QZst2EeS8KpeSn38UZA" guid="-uU_D0woYgqbb952aieIkEA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-n-O86Q9AXsNuuv1RDyxcvw" name="組織体の環境要因,_3J5RYst2EeS8KpeSn38UZA" guid="-n-O86Q9AXsNuuv1RDyxcvw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-W9P_uOU1YQ7JJA8T_bo3JQ" name="組織体の環境要因,_50nyUMt2EeS8KpeSn38UZA" guid="-W9P_uOU1YQ7JJA8T_bo3JQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-VIf6Dp7yo2kdhRcRs57KkQ" name="組織体の環境要因,_6eLsost2EeS8KpeSn38UZA" guid="-VIf6Dp7yo2kdhRcRs57KkQ"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-DUOjeyehr4ibbv_XdK473Q" name="知識エリア,_IT8_Ect2EeS8KpeSn38UZA" guid="-DUOjeyehr4ibbv_XdK473Q"/>
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-yUBErKG2Hs8Eku69mvYQjg" name="PMBOK第5版,_hayzoc0WEeS3G82aSffQPw" guid="-yUBErKG2Hs8Eku69mvYQjg"/>
+</xmi:XMI>

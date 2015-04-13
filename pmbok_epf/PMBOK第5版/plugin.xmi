@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_0IFO8OGrEeSYuMZdHnYbhQ" guid="_0IFO8OGrEeSYuMZdHnYbhQ">
+    <subManagers xmi:id="_0JVzMOGrEeSYuMZdHnYbhQ" href="uma://_1Em50MeaEeS2DMw6uOlqsQ#_0JVzMOGrEeSYuMZdHnYbhQ"/>
+    <subManagers xmi:id="_0J7CAOGrEeSYuMZdHnYbhQ" href="uma://_IT8_EMt2EeS8KpeSn38UZA#_0J7CAOGrEeSYuMZdHnYbhQ"/>
+    <subManagers xmi:id="_0KIdYOGrEeSYuMZdHnYbhQ" href="uma://_4zEqIMuAEeS8KpeSn38UZA#_0KIdYOGrEeSYuMZdHnYbhQ"/>
+    <subManagers xmi:id="_0KTcgOGrEeSYuMZdHnYbhQ" href="uma://_hayzoM0WEeS3G82aSffQPw#_0KTcgOGrEeSYuMZdHnYbhQ"/>
+    <resourceDescriptors xmi:id="_0IKugOGrEeSYuMZdHnYbhQ" id="-DBZQswMO3JWc55TGr2xD6Q" uri="tasks/04.2．プロジェクト・マネジメント計画書作成.xmi"/>
+    <resourceDescriptors xmi:id="_0IXi0OGrEeSYuMZdHnYbhQ" id="-slPnKqJeJ7D03KBZ1tZ9Jg" uri="workproducts/ビジネス・ケース.xmi"/>
+    <resourceDescriptors xmi:id="_0IbNMOGrEeSYuMZdHnYbhQ" id="-tbfgglyHPfPFKdy20aReqA" uri="workproducts/合意書.xmi"/>
+    <resourceDescriptors xmi:id="_0IdCYOGrEeSYuMZdHnYbhQ" id="-HwlbdGcXSKs8-m72vo_fpw" uri="workproducts/組織体の環境要因.xmi"/>
+    <resourceDescriptors xmi:id="_0Ie3kOGrEeSYuMZdHnYbhQ" id="-P8W670kagikv25fp5Zdu3A" uri="workproducts/組織のプロセス資産.xmi"/>
+    <resourceDescriptors xmi:id="_0IhT0OGrEeSYuMZdHnYbhQ" id="-X00ADP9LNaNJkqhH7rGqPA" uri="guidances/toolmentors/専門家の判断.xmi"/>
+    <resourceDescriptors xmi:id="_0Ik-MOGrEeSYuMZdHnYbhQ" id="-kz5PjElN9ctR6vkeqygu_A" uri="guidances/toolmentors/ファシリテーション技法.xmi"/>
+    <resourceDescriptors xmi:id="_0InacOGrEeSYuMZdHnYbhQ" id="-Lk4_srV4O-P_RwN1TvvxcA" uri="workproducts/プロジェクト憲章.xmi"/>
+    <resourceDescriptors xmi:id="_0Ip2sOGrEeSYuMZdHnYbhQ" id="-5xjM5X2yeYIn86ARZfhKBA" uri="workproducts/プロジェクト・マネジメント計画書.xmi"/>
+    <resourceDescriptors xmi:id="_0IsS8OGrEeSYuMZdHnYbhQ" id="-XVeIvOd6OB6zkUyCRbM3Mw" uri="workproducts/作業パフォーマンス・データ.xmi"/>
+    <resourceDescriptors xmi:id="_0IvWQOGrEeSYuMZdHnYbhQ" id="-t_ykJqD5Nkt8n-W0Vi7P6A" uri="workproducts/作業パフォーマンス情報.xmi"/>
+    <resourceDescriptors xmi:id="_0IxygOGrEeSYuMZdHnYbhQ" id="-5Rs0GKGH0QwZ_IzREAfHzg" uri="workproducts/作業パフォーマンス報告書.xmi"/>
+    <resourceDescriptors xmi:id="_0I5HQOGrEeSYuMZdHnYbhQ" id="-LrGvKzDsefCfegn2nknYvw" uri="guidances/guidelines/プロセスと手順.xmi"/>
+    <resourceDescriptors xmi:id="_0I8KkOGrEeSYuMZdHnYbhQ" id="-NBnQVoZXSzxPLlyAhpaaSw" uri="guidances/guidelines/企業の知識ベース.xmi"/>
+    <resourceDescriptors xmi:id="_0I-m0OGrEeSYuMZdHnYbhQ" id="-M3XV07j2Lw6kNkKu6uYn9A" uri="workproducts/ビジネス・ニーズ.xmi"/>
+    <resourceDescriptors xmi:id="_0JAcAOGrEeSYuMZdHnYbhQ" id="-smB4G1t-K5NYvh8U_H3S1w" uri="workproducts/プロダクト・スコープ記述書.xmi"/>
+    <resourceDescriptors xmi:id="_0JDfUOGrEeSYuMZdHnYbhQ" id="-lB1O5ObQDEh5HC9a1R6Gfg" uri="workproducts/戦略計画書.xmi"/>
+    <resourceDescriptors xmi:id="_0JGioOGrEeSYuMZdHnYbhQ" id="-5xFEPocQuN3Xqe9VOI8aXQ" uri="workproducts/過去の情報と教訓の知識ベース.xmi"/>
+    <resourceDescriptors xmi:id="_0JI-4OGrEeSYuMZdHnYbhQ" id="-j5ehBKUan1i6dNwrLY9nvA" uri="workproducts/特定の業界に特化した市場のプロジェクト・マネジメント知識.xmi"/>
+    <resourceDescriptors xmi:id="_0JMCMOGrEeSYuMZdHnYbhQ" id="-60zCluk8MrYzIM16_8QlQQ" uri="workproducts/インフラストラクチャー.xmi"/>
+    <resourceDescriptors xmi:id="_0JPFgOGrEeSYuMZdHnYbhQ" id="-cVqOEOUkICkbbMTXiUjFmw" uri="workproducts/人事管理.xmi"/>
+    <resourceDescriptors xmi:id="_0JSv4OGrEeSYuMZdHnYbhQ" id="_1Em50MeaEeS2DMw6uOlqsQ" uri="capabilitypatterns/プロジェクト・マネジメント・プロセス群/model.xmi"/>
+    <resourceDescriptors xmi:id="_0JuNsOGrEeSYuMZdHnYbhQ" id="_IT8_EMt2EeS8KpeSn38UZA" uri="capabilitypatterns/知識エリア/model.xmi"/>
+    <resourceDescriptors xmi:id="_0KBvsOGrEeSYuMZdHnYbhQ" id="_4zEqIMuAEeS8KpeSn38UZA" uri="capabilitypatterns/プロジェクト・マネジメント・プロセス/model.xmi"/>
+    <resourceDescriptors xmi:id="_0KSOYOGrEeSYuMZdHnYbhQ" id="_hayzoM0WEeS3G82aSffQPw" uri="deliveryprocesses/PMBOK第5版/model.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_gKffEMeUEeS2DMw6uOlqsQ" name="PMBOK第5版" guid="_gKffEMeUEeS2DMw6uOlqsQ">
+    <methodElementProperty xmi:id="_0HpxIOGrEeSYuMZdHnYbhQ" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffEceUEeS2DMw6uOlqsQ" name="Content" guid="_gKffEceUEeS2DMw6uOlqsQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffEseUEeS2DMw6uOlqsQ" name="Categories" guid="_gKffEseUEeS2DMw6uOlqsQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffE8eUEeS2DMw6uOlqsQ" name="Domains" guid="_gKffE8eUEeS2DMw6uOlqsQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffFMeUEeS2DMw6uOlqsQ" name="Disciplines" guid="_gKffFMeUEeS2DMw6uOlqsQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_zcTG8MeUEeS2DMw6uOlqsQ" name="04．プロジェクト統合マネジメント" guid="_zcTG8MeUEeS2DMw6uOlqsQ" presentationName="04．プロジェクト統合マネジメント" tasks="_h-eTQMeWEeS2DMw6uOlqsQ _mhlAIMeYEeS2DMw6uOlqsQ _2wzyYMeZEeS2DMw6uOlqsQ _dv4ZoMebEeS2DMw6uOlqsQ _i1hdwMebEeS2DMw6uOlqsQ _mt7SsMebEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HpxIeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_5tnUAMeUEeS2DMw6uOlqsQ" name="05．プロジェクト・スコープ・マネジメント" guid="_5tnUAMeUEeS2DMw6uOlqsQ" presentationName="05．プロジェクト・スコープ・マネジメント" tasks="_z-uaYMebEeS2DMw6uOlqsQ _5xg4YMebEeS2DMw6uOlqsQ _-BYyIMebEeS2DMw6uOlqsQ _BPlzgMecEeS2DMw6uOlqsQ _GTZroMecEeS2DMw6uOlqsQ _KhCwwMecEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HpxIuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_BDvNAMeVEeS2DMw6uOlqsQ" name="01．知識エリア" guid="_BDvNAMeVEeS2DMw6uOlqsQ" presentationName="01．知識エリア" disciplines="_zcTG8MeUEeS2DMw6uOlqsQ _5tnUAMeUEeS2DMw6uOlqsQ _FkI2EMeVEeS2DMw6uOlqsQ _J9gDAMeVEeS2DMw6uOlqsQ _Oxf9gMeVEeS2DMw6uOlqsQ _S_tqYMeVEeS2DMw6uOlqsQ _XJcf4MeVEeS2DMw6uOlqsQ _cM7A0MeVEeS2DMw6uOlqsQ _i5LdcMeVEeS2DMw6uOlqsQ _mQLOcMeVEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HpxI-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_FkI2EMeVEeS2DMw6uOlqsQ" name="06．プロジェクト・タイム・マネジメント" guid="_FkI2EMeVEeS2DMw6uOlqsQ" presentationName="06．プロジェクト・タイム・マネジメント" tasks="_yuZwEMedEeS2DMw6uOlqsQ _4grQsMedEeS2DMw6uOlqsQ _AOMWAMeeEeS2DMw6uOlqsQ _KbFAwMeeEeS2DMw6uOlqsQ _SiCg0MeeEeS2DMw6uOlqsQ _XJemAMeeEeS2DMw6uOlqsQ _bdq_EMeeEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HpxJOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_J9gDAMeVEeS2DMw6uOlqsQ" name="07．プロジェクト・コスト・マネジメント" guid="_J9gDAMeVEeS2DMw6uOlqsQ" presentationName="07．プロジェクト・コスト・マネジメント" tasks="_tP98AMeeEeS2DMw6uOlqsQ _3s28MMefEeS2DMw6uOlqsQ _8qvygMefEeS2DMw6uOlqsQ _CUV4QMegEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HpxJeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_Oxf9gMeVEeS2DMw6uOlqsQ" name="08．プロジェクト品質マネジメント" guid="_Oxf9gMeVEeS2DMw6uOlqsQ" presentationName="08．プロジェクト品質マネジメント" tasks="_GuuY4MegEeS2DMw6uOlqsQ _NgPI8MegEeS2DMw6uOlqsQ _TdaSAMegEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HpxJuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_S_tqYMeVEeS2DMw6uOlqsQ" name="09．プロジェクト人的資源マネジメント" guid="_S_tqYMeVEeS2DMw6uOlqsQ" presentationName="09．プロジェクト人的資源マネジメント" tasks="_Yow8kMegEeS2DMw6uOlqsQ _dhxS4MegEeS2DMw6uOlqsQ _jNCMkMegEeS2DMw6uOlqsQ _ocod8MegEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HpxJ-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_XJcf4MeVEeS2DMw6uOlqsQ" name="10．プロジェクト・コミュニケーション・マネジメント" guid="_XJcf4MeVEeS2DMw6uOlqsQ" presentationName="10．プロジェクト・コミュニケーション・マネジメント" tasks="_4rbn0MegEeS2DMw6uOlqsQ _-tvIgMegEeS2DMw6uOlqsQ _GVrKQMehEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HpxKOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_cM7A0MeVEeS2DMw6uOlqsQ" name="11．プロジェクト・リスク・マネジメント" guid="_cM7A0MeVEeS2DMw6uOlqsQ" presentationName="11．プロジェクト・リスク・マネジメント" tasks="_Oa3vwMehEeS2DMw6uOlqsQ _SmPkAMehEeS2DMw6uOlqsQ _W4n_MMehEeS2DMw6uOlqsQ _cBunAMehEeS2DMw6uOlqsQ _f53WMMehEeS2DMw6uOlqsQ _jlsHsMehEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HpxKeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_i5LdcMeVEeS2DMw6uOlqsQ" name="12．プロジェクト調達マネジメント" guid="_i5LdcMeVEeS2DMw6uOlqsQ" presentationName="12．プロジェクト調達マネジメント" tasks="_n1M1EMehEeS2DMw6uOlqsQ _sxDrEMehEeS2DMw6uOlqsQ _xiTzkMehEeS2DMw6uOlqsQ _3WagMMehEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HpxKuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_mQLOcMeVEeS2DMw6uOlqsQ" name="13．プロジェクト・ステークホルダー・マネジメント" guid="_mQLOcMeVEeS2DMw6uOlqsQ" presentationName="13．プロジェクト・ステークホルダー・マネジメント" tasks="_679qkMehEeS2DMw6uOlqsQ __GcuAMehEeS2DMw6uOlqsQ _EFwgoMeiEeS2DMw6uOlqsQ _K-RQkMeiEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HpxK-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_km1EEM0REeSUqsQ9cDMSxA" name="02．プロジェクト・マネジメント・プロセス群" guid="_km1EEM0REeSUqsQ9cDMSxA" presentationName="02．プロジェクト・マネジメント・プロセス群" disciplines="_puYzwM0REeSUqsQ9cDMSxA _ufaSwM0REeSUqsQ9cDMSxA _y4aTUM0REeSUqsQ9cDMSxA _11zRgM0REeSUqsQ9cDMSxA _7dkyUM0REeSUqsQ9cDMSxA">
+            <methodElementProperty xmi:id="_0HpxLOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_puYzwM0REeSUqsQ9cDMSxA" name="01．立上げプロセス群" guid="_puYzwM0REeSUqsQ9cDMSxA" presentationName="01．立上げプロセス群" tasks="_h-eTQMeWEeS2DMw6uOlqsQ _679qkMehEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HpxLeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_ufaSwM0REeSUqsQ9cDMSxA" name="02．計画プロセス群" guid="_ufaSwM0REeSUqsQ9cDMSxA" presentationName="02．計画プロセス群" tasks="_mhlAIMeYEeS2DMw6uOlqsQ _z-uaYMebEeS2DMw6uOlqsQ _5xg4YMebEeS2DMw6uOlqsQ _-BYyIMebEeS2DMw6uOlqsQ _BPlzgMecEeS2DMw6uOlqsQ _yuZwEMedEeS2DMw6uOlqsQ _4grQsMedEeS2DMw6uOlqsQ _AOMWAMeeEeS2DMw6uOlqsQ _KbFAwMeeEeS2DMw6uOlqsQ _SiCg0MeeEeS2DMw6uOlqsQ _XJemAMeeEeS2DMw6uOlqsQ _tP98AMeeEeS2DMw6uOlqsQ _3s28MMefEeS2DMw6uOlqsQ _8qvygMefEeS2DMw6uOlqsQ _GuuY4MegEeS2DMw6uOlqsQ _Yow8kMegEeS2DMw6uOlqsQ _4rbn0MegEeS2DMw6uOlqsQ _Oa3vwMehEeS2DMw6uOlqsQ _SmPkAMehEeS2DMw6uOlqsQ _W4n_MMehEeS2DMw6uOlqsQ _cBunAMehEeS2DMw6uOlqsQ _f53WMMehEeS2DMw6uOlqsQ _n1M1EMehEeS2DMw6uOlqsQ __GcuAMehEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HpxLuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_y4aTUM0REeSUqsQ9cDMSxA" name="03．実行プロセス群" guid="_y4aTUM0REeSUqsQ9cDMSxA" presentationName="03．実行プロセス群" tasks="_2wzyYMeZEeS2DMw6uOlqsQ _NgPI8MegEeS2DMw6uOlqsQ _dhxS4MegEeS2DMw6uOlqsQ _jNCMkMegEeS2DMw6uOlqsQ _ocod8MegEeS2DMw6uOlqsQ _-tvIgMegEeS2DMw6uOlqsQ _sxDrEMehEeS2DMw6uOlqsQ _EFwgoMeiEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HpxL-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_11zRgM0REeSUqsQ9cDMSxA" name="04．監視・コントロール・プロセス群" guid="_11zRgM0REeSUqsQ9cDMSxA" presentationName="04．監視・コントロール・プロセス群" tasks="_dv4ZoMebEeS2DMw6uOlqsQ _i1hdwMebEeS2DMw6uOlqsQ _KhCwwMecEeS2DMw6uOlqsQ _bdq_EMeeEeS2DMw6uOlqsQ _CUV4QMegEeS2DMw6uOlqsQ _TdaSAMegEeS2DMw6uOlqsQ _GVrKQMehEeS2DMw6uOlqsQ _jlsHsMehEeS2DMw6uOlqsQ _xiTzkMehEeS2DMw6uOlqsQ _K-RQkMeiEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HpxMOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_7dkyUM0REeSUqsQ9cDMSxA" name="05．終結プロセス群" guid="_7dkyUM0REeSUqsQ9cDMSxA" presentationName="05．終結プロセス群" tasks="_mt7SsMebEeS2DMw6uOlqsQ _3WagMMehEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HpxMeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffFceUEeS2DMw6uOlqsQ" name="RoleSets" guid="_gKffFceUEeS2DMw6uOlqsQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffFseUEeS2DMw6uOlqsQ" name="WP Types" guid="_gKffFseUEeS2DMw6uOlqsQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffF8eUEeS2DMw6uOlqsQ" name="Tools" guid="_gKffF8eUEeS2DMw6uOlqsQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffGMeUEeS2DMw6uOlqsQ" name="StandardCategories" guid="_gKffGMeUEeS2DMw6uOlqsQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffGceUEeS2DMw6uOlqsQ" name="CustomCategories" guid="_gKffGceUEeS2DMw6uOlqsQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffGseUEeS2DMw6uOlqsQ" name="Hidden" guid="_gKffGseUEeS2DMw6uOlqsQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_gKffG8eUEeS2DMw6uOlqsQ" name="カスタム・カテゴリー" guid="_gKffG8eUEeS2DMw6uOlqsQ" categorizedElements="_p1dREMerEeS2DMw6uOlqsQ"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_p1dREMerEeS2DMw6uOlqsQ" name="プロジェクト・マネジメント・プロセス群" guid="_p1dREMerEeS2DMw6uOlqsQ" presentationName="プロジェクト・マネジメント・プロセス群" categorizedElements="_xyuCkMerEeS2DMw6uOlqsQ _0Ynt0MerEeS2DMw6uOlqsQ _YrUD0MesEeS2DMw6uOlqsQ _cJtdUMesEeS2DMw6uOlqsQ _g0-SkMesEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HpxMuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_xyuCkMerEeS2DMw6uOlqsQ" name="01．立上げプロセス群" guid="_xyuCkMerEeS2DMw6uOlqsQ" presentationName="01．立上げプロセス群" categorizedElements="_h-eTQMeWEeS2DMw6uOlqsQ _679qkMehEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HpxM-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_0Ynt0MerEeS2DMw6uOlqsQ" name="02．計画プロセス群" guid="_0Ynt0MerEeS2DMw6uOlqsQ" presentationName="02．計画プロセス群" categorizedElements="_mhlAIMeYEeS2DMw6uOlqsQ _z-uaYMebEeS2DMw6uOlqsQ _5xg4YMebEeS2DMw6uOlqsQ _-BYyIMebEeS2DMw6uOlqsQ _BPlzgMecEeS2DMw6uOlqsQ _yuZwEMedEeS2DMw6uOlqsQ _4grQsMedEeS2DMw6uOlqsQ _AOMWAMeeEeS2DMw6uOlqsQ _KbFAwMeeEeS2DMw6uOlqsQ _SiCg0MeeEeS2DMw6uOlqsQ _XJemAMeeEeS2DMw6uOlqsQ _tP98AMeeEeS2DMw6uOlqsQ _3s28MMefEeS2DMw6uOlqsQ _8qvygMefEeS2DMw6uOlqsQ _GuuY4MegEeS2DMw6uOlqsQ _Yow8kMegEeS2DMw6uOlqsQ _4rbn0MegEeS2DMw6uOlqsQ _Oa3vwMehEeS2DMw6uOlqsQ _SmPkAMehEeS2DMw6uOlqsQ _W4n_MMehEeS2DMw6uOlqsQ _cBunAMehEeS2DMw6uOlqsQ _f53WMMehEeS2DMw6uOlqsQ _n1M1EMehEeS2DMw6uOlqsQ __GcuAMehEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HpxNOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_YrUD0MesEeS2DMw6uOlqsQ" name="03．実行プロセス群" guid="_YrUD0MesEeS2DMw6uOlqsQ" presentationName="03．実行プロセス群" categorizedElements="_2wzyYMeZEeS2DMw6uOlqsQ _NgPI8MegEeS2DMw6uOlqsQ _dhxS4MegEeS2DMw6uOlqsQ _jNCMkMegEeS2DMw6uOlqsQ _ocod8MegEeS2DMw6uOlqsQ _sxDrEMehEeS2DMw6uOlqsQ _EFwgoMeiEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HpxNeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_cJtdUMesEeS2DMw6uOlqsQ" name="04．監視・コントロール・プロセス群" guid="_cJtdUMesEeS2DMw6uOlqsQ" presentationName="04．監視・コントロール・プロセス群" categorizedElements="_dv4ZoMebEeS2DMw6uOlqsQ _i1hdwMebEeS2DMw6uOlqsQ _KhCwwMecEeS2DMw6uOlqsQ _CUV4QMegEeS2DMw6uOlqsQ _TdaSAMegEeS2DMw6uOlqsQ _GVrKQMehEeS2DMw6uOlqsQ _jlsHsMehEeS2DMw6uOlqsQ _xiTzkMehEeS2DMw6uOlqsQ _K-RQkMeiEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HpxNuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_g0-SkMesEeS2DMw6uOlqsQ" name="05．終結プロセス群" guid="_g0-SkMesEeS2DMw6uOlqsQ" presentationName="05．終結プロセス群" categorizedElements="_mt7SsMebEeS2DMw6uOlqsQ _3WagMMehEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HpxN-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffHMeUEeS2DMw6uOlqsQ" name="CoreContent" guid="_gKffHMeUEeS2DMw6uOlqsQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_dxBbYMeWEeS2DMw6uOlqsQ" name="PMBOK第5版" guid="_dxBbYMeWEeS2DMw6uOlqsQ" presentationName="PMBOK第5版">
+          <methodElementProperty xmi:id="_0HqYMOGrEeSYuMZdHnYbhQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_0HqYMeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_h-eTQMeWEeS2DMw6uOlqsQ" name="04.1．プロジェクト憲章作成" guid="_h-eTQMeWEeS2DMw6uOlqsQ" presentationName="04.1．プロジェクト憲章作成" briefDescription="プロジェクトの存在を公式に認可し、プロジェクト活動に組織の資源を適用する権限を与えるための文書を作成するプロセス" mandatoryInput="_NPxfgMeqEeS2DMw6uOlqsQ _GB48gMeqEeS2DMw6uOlqsQ _RHtaYMeqEeS2DMw6uOlqsQ _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ" output="_vLHjoMeqEeS2DMw6uOlqsQ" toolMentors="_sAVpsMeqEeS2DMw6uOlqsQ _oRPhwMeqEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqYMuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mhlAIMeYEeS2DMw6uOlqsQ" name="04.2．プロジェクト・マネジメント計画書作成" guid="_mhlAIMeYEeS2DMw6uOlqsQ" presentationName="04.2．プロジェクト・マネジメント計画書作成" briefDescription="すべての補助計画書を定義し、作成し、調整し、それらを包括的なプロジェクト・マネジメント計画書へ統合するプロセス&#xD;&#xA;" mandatoryInput="_vLHjoMeqEeS2DMw6uOlqsQ _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ _7VsqIMeqEeS2DMw6uOlqsQ" output="_CggrAMerEeS2DMw6uOlqsQ" toolMentors="_sAVpsMeqEeS2DMw6uOlqsQ _oRPhwMeqEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqYM-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-DBZQswMO3JWc55TGr2xD6Q" href="uma://-DBZQswMO3JWc55TGr2xD6Q#-DBZQswMO3JWc55TGr2xD6Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2wzyYMeZEeS2DMw6uOlqsQ" name="04.3．プロジェクト作業の指揮・マネジメント" guid="_2wzyYMeZEeS2DMw6uOlqsQ" presentationName="04.3．プロジェクト作業の指揮・マネジメント" briefDescription="プロジェクトの目標を達成するために、プロジェクト・マネジメント計画書で定義された作業をリードし、遂行し、また承認済み変更を適用するプロセス" mandatoryInput="_CggrAMerEeS2DMw6uOlqsQ _fbEcMMezEeS2DMw6uOlqsQ _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ" output="_0b6YwMezEeS2DMw6uOlqsQ _EuYhsMe0EeS2DMw6uOlqsQ _w8u8IMezEeS2DMw6uOlqsQ _vJgrAMezEeS2DMw6uOlqsQ _evaaoMe0EeS2DMw6uOlqsQ" toolMentors="_lFXskMezEeS2DMw6uOlqsQ _sm3IEMezEeS2DMw6uOlqsQ _oRPhwMeqEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqYNOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_dv4ZoMebEeS2DMw6uOlqsQ" name="04.4．プロジェクト作業の監視・コントロール" guid="_dv4ZoMebEeS2DMw6uOlqsQ" presentationName="04.4．プロジェクト作業の監視・コントロール" briefDescription="プロジェクト・マネジメント計画書に定義されたパフォーマンス目標を達成するため、進捗を追跡し、レビューし、かつ報告するプロセス&#xD;&#xA;" mandatoryInput="_U8knkMe0EeS2DMw6uOlqsQ _MefA8Me0EeS2DMw6uOlqsQ _CggrAMerEeS2DMw6uOlqsQ _bO6vYMe0EeS2DMw6uOlqsQ _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ _XxatwMe0EeS2DMw6uOlqsQ" output="_EuYhsMe0EeS2DMw6uOlqsQ _0b6YwMezEeS2DMw6uOlqsQ _h5KZ0Me0EeS2DMw6uOlqsQ _evaaoMe0EeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqYNeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_i1hdwMebEeS2DMw6uOlqsQ" name="04.5．統合変更管理" guid="_i1hdwMebEeS2DMw6uOlqsQ" presentationName="04.5．統合変更管理" briefDescription="すべての変更要求をレビューし、変更を承認して、成果物、組織のプロセス資産、プロジェクト文書、プロジェクト・マネジメント計画書などへの変更をマネジメントし、それらの最終的な処置を伝達するプロセス" mandatoryInput="_CggrAMerEeS2DMw6uOlqsQ _h5KZ0Me0EeS2DMw6uOlqsQ _evaaoMe0EeS2DMw6uOlqsQ _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ" output="_fbEcMMezEeS2DMw6uOlqsQ _l4RTsMe0EeS2DMw6uOlqsQ _0b6YwMezEeS2DMw6uOlqsQ _EuYhsMe0EeS2DMw6uOlqsQ" toolMentors="_sm3IEMezEeS2DMw6uOlqsQ _oRPhwMeqEeS2DMw6uOlqsQ _u9rZAMe0EeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqYNuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mt7SsMebEeS2DMw6uOlqsQ" name="04.6．プロジェクトやフェーズの終結" guid="_mt7SsMebEeS2DMw6uOlqsQ" presentationName="04.6．プロジェクトやフェーズの終結" briefDescription="プロジェクトやフェーズを公式に終了するために、すべてのプロジェクト・マネジメント・プロセス群のすべての活動を完結するプロセス&#xD;&#xA;" mandatoryInput="_CggrAMerEeS2DMw6uOlqsQ _xE6V0Me1EeS2DMw6uOlqsQ _b__ykMeqEeS2DMw6uOlqsQ" output="_3tXQgMe1EeS2DMw6uOlqsQ _AX4woMe2EeS2DMw6uOlqsQ" toolMentors="_sm3IEMezEeS2DMw6uOlqsQ _oRPhwMeqEeS2DMw6uOlqsQ _rVApMMe0EeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqYN-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_z-uaYMebEeS2DMw6uOlqsQ" name="05.1．スコープ・マネジメント計画" guid="_z-uaYMebEeS2DMw6uOlqsQ" presentationName="05.1．スコープ・マネジメント計画" briefDescription="プロジェクト・スコープの定義、妥当性確認、およびコントロールする方法を文書化したスコープ・マネジメント計画書を作成するプロセス&#xD;&#xA;" mandatoryInput="_CggrAMerEeS2DMw6uOlqsQ _vLHjoMeqEeS2DMw6uOlqsQ _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ" output="_WZTZYMe2EeS2DMw6uOlqsQ _ayzJMMe2EeS2DMw6uOlqsQ" toolMentors="_sm3IEMezEeS2DMw6uOlqsQ _oRPhwMeqEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqYOOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_5xg4YMebEeS2DMw6uOlqsQ" name="05.2．要求事項収集" guid="_5xg4YMebEeS2DMw6uOlqsQ" presentationName="05.2．要求事項収集" briefDescription="プロジェクト目標を達成するためにステークホルダーのニーズや要求事項を特定し文書化するプロセス" mandatoryInput="_WZTZYMe2EeS2DMw6uOlqsQ _h7XuYMe2EeS2DMw6uOlqsQ _dhsUMMe9EeSx8tY0xxnZyg _vLHjoMeqEeS2DMw6uOlqsQ _ayzJMMe2EeS2DMw6uOlqsQ" output="_La1nEMe-EeSx8tY0xxnZyg _IkfFAMe-EeSx8tY0xxnZyg" toolMentors="_120sAMe9EeSx8tY0xxnZyg _EikBUMe2EeS2DMw6uOlqsQ _yPNFEMe9EeSx8tY0xxnZyg _tbXioMe9EeSx8tY0xxnZyg _Ac6g8Me-EeSx8tY0xxnZyg _o8uNEMe9EeSx8tY0xxnZyg _l86NAMe9EeSx8tY0xxnZyg _7H8AUMe9EeSx8tY0xxnZyg _-IXEYMe9EeSx8tY0xxnZyg _5IlXsMe9EeSx8tY0xxnZyg _EQYLgMe-EeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYOeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-BYyIMebEeS2DMw6uOlqsQ" name="05.3．スコープ定義" guid="_-BYyIMebEeS2DMw6uOlqsQ" presentationName="05.3．スコープ定義" briefDescription="プロジェクトおよびプロダクトに関する詳細な記述書を作成するプロセス" mandatoryInput="_WZTZYMe2EeS2DMw6uOlqsQ _vLHjoMeqEeS2DMw6uOlqsQ _b__ykMeqEeS2DMw6uOlqsQ _IkfFAMe-EeSx8tY0xxnZyg" output="_VEGnYMe-EeSx8tY0xxnZyg _EuYhsMe0EeS2DMw6uOlqsQ" toolMentors="_oRPhwMeqEeS2DMw6uOlqsQ _o8uNEMe9EeSx8tY0xxnZyg _Z6_BUMe_EeSx8tY0xxnZyg _dJu1QMe_EeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYOuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_BPlzgMecEeS2DMw6uOlqsQ" name="05.4．WBS作成" guid="_BPlzgMecEeS2DMw6uOlqsQ" presentationName="05.4．WBS作成" briefDescription="プロジェクトの成果物およびプロジェクトの作業をより細かく、マネジメントしやすい構成要素に分解するプロセス" mandatoryInput="_WZTZYMe2EeS2DMw6uOlqsQ _VEGnYMe-EeSx8tY0xxnZyg _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ _IkfFAMe-EeSx8tY0xxnZyg" output="_1XQlsMe-EeSx8tY0xxnZyg _EuYhsMe0EeS2DMw6uOlqsQ" toolMentors="_oRPhwMeqEeS2DMw6uOlqsQ _Gl6fgMe-EeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYO-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_GTZroMecEeS2DMw6uOlqsQ" name="05.5．スコープ妥当性確認" guid="_GTZroMecEeS2DMw6uOlqsQ" presentationName="05.5．スコープ妥当性確認" briefDescription="完成したプロジェクトの成果物を公式に受け入れるプロセス" mandatoryInput="_CggrAMerEeS2DMw6uOlqsQ _La1nEMe-EeSx8tY0xxnZyg _IkfFAMe-EeSx8tY0xxnZyg __Prm4Me_EeSx8tY0xxnZyg _w8u8IMezEeS2DMw6uOlqsQ" output="_EuYhsMe0EeS2DMw6uOlqsQ _bO6vYMe0EeS2DMw6uOlqsQ _xE6V0Me1EeS2DMw6uOlqsQ _evaaoMe0EeS2DMw6uOlqsQ" toolMentors="_yPNFEMe9EeSx8tY0xxnZyg _nbQk4Me-EeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYPOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_KhCwwMecEeS2DMw6uOlqsQ" name="05.6．スコープ・コントロール" guid="_KhCwwMecEeS2DMw6uOlqsQ" presentationName="05.6．スコープ・コントロール" briefDescription="プロジェクト・スコープとプロダクト・スコープの状況を監視し、スコープ・ベースラインに対する変更をマネジメントするプロセス" mandatoryInput="_CggrAMerEeS2DMw6uOlqsQ _w8u8IMezEeS2DMw6uOlqsQ _b__ykMeqEeS2DMw6uOlqsQ _La1nEMe-EeSx8tY0xxnZyg _IkfFAMe-EeSx8tY0xxnZyg" output="_0b6YwMezEeS2DMw6uOlqsQ _EuYhsMe0EeS2DMw6uOlqsQ _bO6vYMe0EeS2DMw6uOlqsQ _AX4woMe2EeS2DMw6uOlqsQ _evaaoMe0EeS2DMw6uOlqsQ" toolMentors="_x4_vEMe-EeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYPeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_yuZwEMedEeS2DMw6uOlqsQ" name="06.1．スケジュール・マネジメント計画" guid="_yuZwEMedEeS2DMw6uOlqsQ" presentationName="06.1．スケジュール・マネジメント計画" briefDescription="プロジェクト・スケジュールの計画、策定、マネジメント、実行およびコントロールをするための方針、手順および文書化を確立するプロセス" mandatoryInput="_CggrAMerEeS2DMw6uOlqsQ _vLHjoMeqEeS2DMw6uOlqsQ _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ" output="_Xd63EMfBEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYPuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_4grQsMedEeS2DMw6uOlqsQ" name="06.2．アクティビティ定義" guid="_4grQsMedEeS2DMw6uOlqsQ" presentationName="06.2．アクティビティ定義" briefDescription="プロジェクト成果物を生成するために遂行すべき具体的な行動を特定し、文書化するプロセス" mandatoryInput="_Xd63EMfBEeSx8tY0xxnZyg _1XQlsMe-EeSx8tY0xxnZyg _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ" output="_kyvYkMfAEeSx8tY0xxnZyg _oUEKQMfAEeSx8tY0xxnZyg _q-4KsMfAEeSx8tY0xxnZyg" toolMentors="_Gl6fgMe-EeSx8tY0xxnZyg _Ixwn0MfFEeSx8tY0xxnZyg _oRPhwMeqEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqYP-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_AOMWAMeeEeS2DMw6uOlqsQ" name="06.3．アクティビティ順序設定" guid="_AOMWAMeeEeS2DMw6uOlqsQ" presentationName="06.3．アクティビティ順序設定" briefDescription="プロジェクト・アクティビティ間の関係を特定し、文書化するプロセス" mandatoryInput="_kyvYkMfAEeSx8tY0xxnZyg _oUEKQMfAEeSx8tY0xxnZyg _Xd63EMfBEeSx8tY0xxnZyg _VEGnYMe-EeSx8tY0xxnZyg _q-4KsMfAEeSx8tY0xxnZyg _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ" output="_uYnGoMfAEeSx8tY0xxnZyg _EuYhsMe0EeS2DMw6uOlqsQ" toolMentors="_yGfRIMfBEeSx8tY0xxnZyg _9VKwEMfBEeSx8tY0xxnZyg _6CeQQMfBEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYQOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_KbFAwMeeEeS2DMw6uOlqsQ" name="06.4．アクティビティ資源見積り" guid="_KbFAwMeeEeS2DMw6uOlqsQ" presentationName="06.4．アクティビティ資源見積り" briefDescription="各アクティビティを遂行するために必要な物資、人的資源、機材、消耗品などの種類と量を見積もるプロセス" mandatoryInput="_kyvYkMfAEeSx8tY0xxnZyg _zA5gYMfAEeSx8tY0xxnZyg _oUEKQMfAEeSx8tY0xxnZyg _Xd63EMfBEeSx8tY0xxnZyg _VEGnYMe-EeSx8tY0xxnZyg _QQYyAMfEEeSx8tY0xxnZyg _6KxlwMfDEeSx8tY0xxnZyg _22wXoMfAEeSx8tY0xxnZyg _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ" toolMentors="_MFkCQMfCEeSx8tY0xxnZyg _JEOYMMfCEeSx8tY0xxnZyg _FnwRUMfCEeSx8tY0xxnZyg _oRPhwMeqEeS2DMw6uOlqsQ _DHNnMMfCEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYQeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_SiCg0MeeEeS2DMw6uOlqsQ" name="06.5．アクティビティ所要期間見積り" guid="_SiCg0MeeEeS2DMw6uOlqsQ" presentationName="06.5．アクティビティ所要期間見積り" briefDescription="想定した資源もをって個々のアクティビティを完了するために必要な作業期間を見積もるプロセス" mandatoryInput="_kyvYkMfAEeSx8tY0xxnZyg _zA5gYMfAEeSx8tY0xxnZyg _oUEKQMfAEeSx8tY0xxnZyg _Xd63EMfBEeSx8tY0xxnZyg _VEGnYMe-EeSx8tY0xxnZyg _6KxlwMfDEeSx8tY0xxnZyg _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ" output="_7trqUMfAEeSx8tY0xxnZyg _EuYhsMe0EeS2DMw6uOlqsQ" toolMentors="_yPNFEMe9EeSx8tY0xxnZyg _VI2AoMfCEeSx8tY0xxnZyg _ZOhckMfCEeSx8tY0xxnZyg _oRPhwMeqEeS2DMw6uOlqsQ _cxmhwMfCEeSx8tY0xxnZyg _Ro69IMfCEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYQuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_XJemAMeeEeS2DMw6uOlqsQ" name="06.6．スケジュール作成" guid="_XJemAMeeEeS2DMw6uOlqsQ" presentationName="06.6．スケジュール作成" briefDescription="アクティビティ順序、所要期間、資源に対する要求事項、スケジュールに対する制約事項などを分析し、プロジェクト・スケジュールモデルを作成するプロセス" mandatoryInput="_kyvYkMfAEeSx8tY0xxnZyg _zA5gYMfAEeSx8tY0xxnZyg _7trqUMfAEeSx8tY0xxnZyg _oUEKQMfAEeSx8tY0xxnZyg _BdqkkMfEEeSx8tY0xxnZyg _uYnGoMfAEeSx8tY0xxnZyg _VEGnYMe-EeSx8tY0xxnZyg _2pXUgMfDEeSx8tY0xxnZyg _QQYyAMfEEeSx8tY0xxnZyg _6KxlwMfDEeSx8tY0xxnZyg _22wXoMfAEeSx8tY0xxnZyg _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ" output="_HCtB0MfBEeSx8tY0xxnZyg _AiD_UMfBEeSx8tY0xxnZyg _JopwYMfBEeSx8tY0xxnZyg _DjMOAMfBEeSx8tY0xxnZyg _0b6YwMezEeS2DMw6uOlqsQ _EuYhsMe0EeS2DMw6uOlqsQ" toolMentors="_pqXj8MfCEeSx8tY0xxnZyg _lhfqEMfCEeSx8tY0xxnZyg _4yUagMfCEeSx8tY0xxnZyg _gZWrkMfCEeSx8tY0xxnZyg _1Nzx8MfCEeSx8tY0xxnZyg _x-VlQMfCEeSx8tY0xxnZyg _9VKwEMfBEeSx8tY0xxnZyg _tkTp8MfCEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYQ-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_bdq_EMeeEeS2DMw6uOlqsQ" name="06.7．スケジュール・コントロール" guid="_bdq_EMeeEeS2DMw6uOlqsQ" presentationName="06.7．スケジュール・コントロール" briefDescription="プロジェクトの進捗を更新するためにプロジェクトの状況を監視し、計画を達成するためにスケジュール・ベースラインに対する変更をマネジメントするプロセス" mandatoryInput="_HCtB0MfBEeSx8tY0xxnZyg _JopwYMfBEeSx8tY0xxnZyg _DjMOAMfBEeSx8tY0xxnZyg _CggrAMerEeS2DMw6uOlqsQ _w8u8IMezEeS2DMw6uOlqsQ _b__ykMeqEeS2DMw6uOlqsQ" output="_0b6YwMezEeS2DMw6uOlqsQ _EuYhsMe0EeS2DMw6uOlqsQ _bO6vYMe0EeS2DMw6uOlqsQ _AX4woMe2EeS2DMw6uOlqsQ _evaaoMe0EeS2DMw6uOlqsQ _MefA8Me0EeS2DMw6uOlqsQ" toolMentors="_4yUagMfCEeSx8tY0xxnZyg _1Nzx8MfCEeSx8tY0xxnZyg _8HEIwMfCEeSx8tY0xxnZyg _MFkCQMfCEeSx8tY0xxnZyg _x-VlQMfCEeSx8tY0xxnZyg _9VKwEMfBEeSx8tY0xxnZyg _tkTp8MfCEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYROGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_tP98AMeeEeS2DMw6uOlqsQ" name="07.1．コスト・マネジメント計画" guid="_tP98AMeeEeS2DMw6uOlqsQ" presentationName="07.1．コスト・マネジメント計画" briefDescription="プロジェクト・コストを計画し、マネジメントし、支出し、コントロールするための方針、手順、および文書化を確立するプロセス&#xD;&#xA;" mandatoryInput="_CggrAMerEeS2DMw6uOlqsQ _vLHjoMeqEeS2DMw6uOlqsQ _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ" output="_ENZWsMfDEeSx8tY0xxnZyg" toolMentors="_sm3IEMezEeS2DMw6uOlqsQ _oRPhwMeqEeS2DMw6uOlqsQ _rVApMMe0EeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqYReGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_3s28MMefEeS2DMw6uOlqsQ" name="07.2．コスト見積り" guid="_3s28MMefEeS2DMw6uOlqsQ" presentationName="07.2．コスト見積り" briefDescription="プロジェクト・アクティビティを完了するために必要な資源の概算金額を算出するプロセス" mandatoryInput="_ENZWsMfDEeSx8tY0xxnZyg _1XQlsMe-EeSx8tY0xxnZyg _DjMOAMfBEeSx8tY0xxnZyg _QQYyAMfEEeSx8tY0xxnZyg _b__ykMeqEeS2DMw6uOlqsQ _udamwMfDEeSx8tY0xxnZyg _YbctwMeqEeS2DMw6uOlqsQ" output="_JIuBMMfDEeSx8tY0xxnZyg _EuYhsMe0EeS2DMw6uOlqsQ _N4VK8MfDEeSx8tY0xxnZyg" toolMentors="_yPNFEMe9EeSx8tY0xxnZyg _VI2AoMfCEeSx8tY0xxnZyg _MFkCQMfCEeSx8tY0xxnZyg _X1u9UMfFEeSx8tY0xxnZyg _JEOYMMfCEeSx8tY0xxnZyg _ZOhckMfCEeSx8tY0xxnZyg _oRPhwMeqEeS2DMw6uOlqsQ _NR2H0MfFEeSx8tY0xxnZyg _cxmhwMfCEeSx8tY0xxnZyg _Ro69IMfCEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYRuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_8qvygMefEeS2DMw6uOlqsQ" name="07.3．予算設定" guid="_8qvygMefEeS2DMw6uOlqsQ" presentationName="07.3．予算設定" briefDescription="コスト・ベースラインを作成し認可を得るために個々のアクティビティやワーク・パッケージのコスト見積りを積算するプロセス" mandatoryInput="_JIuBMMfDEeSx8tY0xxnZyg _ENZWsMfDEeSx8tY0xxnZyg _1XQlsMe-EeSx8tY0xxnZyg _DjMOAMfBEeSx8tY0xxnZyg _QQYyAMfEEeSx8tY0xxnZyg _N4VK8MfDEeSx8tY0xxnZyg _RHtaYMeqEeS2DMw6uOlqsQ _6KxlwMfDEeSx8tY0xxnZyg _b__ykMeqEeS2DMw6uOlqsQ" output="_SD-E8MfDEeSx8tY0xxnZyg _vBRgwMfOEeSx8tY0xxnZyg _EuYhsMe0EeS2DMw6uOlqsQ" toolMentors="_blMRoMfFEeSx8tY0xxnZyg _fZtsIMfFEeSx8tY0xxnZyg _h-mqwMfFEeSx8tY0xxnZyg _oRPhwMeqEeS2DMw6uOlqsQ _cxmhwMfCEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYR-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CUV4QMegEeS2DMw6uOlqsQ" name="07.4．コスト・コントロール" guid="_CUV4QMegEeS2DMw6uOlqsQ" presentationName="07.4．コスト・コントロール" briefDescription="プロジェクト・コストを更新するためにプロジェクトの状況を監視し、コスト・ベースラインの変更をマネジメントするプロセス&#xD;&#xA;" mandatoryInput="_CggrAMerEeS2DMw6uOlqsQ _vBRgwMfOEeSx8tY0xxnZyg _w8u8IMezEeS2DMw6uOlqsQ _b__ykMeqEeS2DMw6uOlqsQ" output="_U8knkMe0EeS2DMw6uOlqsQ _0b6YwMezEeS2DMw6uOlqsQ _EuYhsMe0EeS2DMw6uOlqsQ _bO6vYMe0EeS2DMw6uOlqsQ _AX4woMe2EeS2DMw6uOlqsQ _evaaoMe0EeS2DMw6uOlqsQ" toolMentors="_m5DLgMfFEeSx8tY0xxnZyg _8HEIwMfCEeSx8tY0xxnZyg _MFkCQMfCEeSx8tY0xxnZyg _s9VCIMfFEeSx8tY0xxnZyg _qixrQMfFEeSx8tY0xxnZyg _cxmhwMfCEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYSOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_GuuY4MegEeS2DMw6uOlqsQ" name="08.1．品質マネジメント計画" guid="_GuuY4MegEeS2DMw6uOlqsQ" presentationName="08.1．品質マネジメント計画" briefDescription="プロジェクトおよびその成果物の品質要求事項または品質基準、あるいはその両方を定め、プロジェクトで品質要求事項または品質基準、あるいはその両方を順守するための方法を文書化するプロセス" mandatoryInput="_dhsUMMe9EeSx8tY0xxnZyg _CggrAMerEeS2DMw6uOlqsQ _QQYyAMfEEeSx8tY0xxnZyg _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ _IkfFAMe-EeSx8tY0xxnZyg" output="_EuYhsMe0EeS2DMw6uOlqsQ _cR__MMfDEeSx8tY0xxnZyg _mppIcMfDEeSx8tY0xxnZyg _UxvSwMfDEeSx8tY0xxnZyg _go1ckMfDEeSx8tY0xxnZyg" toolMentors="_9pqckMfFEeSx8tY0xxnZyg _ToAjMMfGEeSx8tY0xxnZyg _-IXEYMe9EeSx8tY0xxnZyg _sm3IEMezEeS2DMw6uOlqsQ _B6VnkMfGEeSx8tY0xxnZyg _E82WUMfGEeSx8tY0xxnZyg _1zPS4MfFEeSx8tY0xxnZyg _NR2H0MfFEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYSeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NgPI8MegEeS2DMw6uOlqsQ" name="08.2．品質保証" guid="_NgPI8MegEeS2DMw6uOlqsQ" presentationName="08.2．品質保証" briefDescription="適切な品質基準と運用基準の適用を確実に行うために、品質の要求事項と品質コントロール測定結果を監査するプロセス" mandatoryInput="_cR__MMfDEeSx8tY0xxnZyg _p_PLQMfDEeSx8tY0xxnZyg _UxvSwMfDEeSx8tY0xxnZyg _go1ckMfDEeSx8tY0xxnZyg _KV2PwMfQEeSx8tY0xxnZyg" output="_0b6YwMezEeS2DMw6uOlqsQ _EuYhsMe0EeS2DMw6uOlqsQ _AX4woMe2EeS2DMw6uOlqsQ _evaaoMe0EeS2DMw6uOlqsQ" toolMentors="_f_CKQMfGEeSx8tY0xxnZyg _WydtAMfGEeSx8tY0xxnZyg _dEBKoMfGEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYSuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_TdaSAMegEeS2DMw6uOlqsQ" name="08.3．品質コントロール" guid="_TdaSAMegEeS2DMw6uOlqsQ" presentationName="08.3．品質コントロール" briefDescription="パフォーマンスを査定し、必要な変更を提案するために品質活動の実行結果を監視し、記録するプロセス" mandatoryInput="_CggrAMerEeS2DMw6uOlqsQ _KV2PwMfQEeSx8tY0xxnZyg _w8u8IMezEeS2DMw6uOlqsQ _fbEcMMezEeS2DMw6uOlqsQ _vJgrAMezEeS2DMw6uOlqsQ _b__ykMeqEeS2DMw6uOlqsQ _mppIcMfDEeSx8tY0xxnZyg _go1ckMfDEeSx8tY0xxnZyg" output="_0b6YwMezEeS2DMw6uOlqsQ _EuYhsMe0EeS2DMw6uOlqsQ __Prm4Me_EeSx8tY0xxnZyg _bO6vYMe0EeS2DMw6uOlqsQ _AX4woMe2EeS2DMw6uOlqsQ _XxatwMe0EeS2DMw6uOlqsQ _p_PLQMfDEeSx8tY0xxnZyg _evaaoMe0EeS2DMw6uOlqsQ" toolMentors="_9pqckMfFEeSx8tY0xxnZyg _nbQk4Me-EeSx8tY0xxnZyg _iUHyUMfGEeSx8tY0xxnZyg _E82WUMfGEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYS-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Yow8kMegEeS2DMw6uOlqsQ" name="09.1．人的資源マネジメント計画" guid="_Yow8kMegEeS2DMw6uOlqsQ" presentationName="09.1．人的資源マネジメント計画" briefDescription="プロジェクトにおける役割、責任、必要なスキル、報告関係を特定し、文書化し、さらに要員マネジメント計画書を作成するプロセス" mandatoryInput="_zA5gYMfAEeSx8tY0xxnZyg _CggrAMerEeS2DMw6uOlqsQ _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ" output="_udamwMfDEeSx8tY0xxnZyg" toolMentors="_ufEFMMfGEeSx8tY0xxnZyg _sm3IEMezEeS2DMw6uOlqsQ _oRPhwMeqEeS2DMw6uOlqsQ _nzgzMMfGEeSx8tY0xxnZyg _xX9k8MfGEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYTOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_dhxS4MegEeS2DMw6uOlqsQ" name="09.2．プロジェクト・チーム編成" guid="_dhxS4MegEeS2DMw6uOlqsQ" presentationName="09.2．プロジェクト・チーム編成" briefDescription="人的資源の可用性を確認し、プロジェクト・アクティビティを完了するために必要なチームを確保するプロセス&#xD;&#xA;" mandatoryInput="_b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ _udamwMfDEeSx8tY0xxnZyg" output="_2pXUgMfDEeSx8tY0xxnZyg _6KxlwMfDEeSx8tY0xxnZyg _0b6YwMezEeS2DMw6uOlqsQ" toolMentors="_zvk8kMfGEeSx8tY0xxnZyg _2fMkgMfGEeSx8tY0xxnZyg _40JCoMfGEeSx8tY0xxnZyg _64wlwMfGEeSx8tY0xxnZyg _9nv7kMfGEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYTeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_jNCMkMegEeS2DMw6uOlqsQ" name="09.3．プロジェクト・チームの育成" guid="_jNCMkMegEeS2DMw6uOlqsQ" presentationName="09.3．プロジェクト・チームの育成" briefDescription="プロジェクトのパフォーマンスを高めるために、コンピテンシー、チーム・メンバー間の交流、チーム環境全体を改善するプロセス" mandatoryInput="_udamwMfDEeSx8tY0xxnZyg _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ" output="_9ldj8MfDEeSx8tY0xxnZyg _KFnJcMfSEeSx8tY0xxnZyg" toolMentors="_CV3QgMfHEeSx8tY0xxnZyg _FIqIQMfHEeSx8tY0xxnZyg _HTgPMMfHEeSx8tY0xxnZyg _J_O1oMfHEeSx8tY0xxnZyg _MhqWIMfHEeSx8tY0xxnZyg _PDrm8MfHEeSx8tY0xxnZyg _TQx5gMfHEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYTuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ocod8MegEeS2DMw6uOlqsQ" name="09.4．プロジェクト・チームのマネジメント" guid="_ocod8MegEeS2DMw6uOlqsQ" presentationName="09.4．プロジェクト・チームのマネジメント" briefDescription="プロジェクトのパフォーマンスを最適化するために、チーム・メンバーのパフォーマンスを追跡し、フィードバックを行うほか、課題を解決し、さらにチームにおける変更を管理するプロセス" mandatoryInput="_udamwMfDEeSx8tY0xxnZyg _2pXUgMfDEeSx8tY0xxnZyg _9ldj8MfDEeSx8tY0xxnZyg _xJZ2cMfEEeSx8tY0xxnZyg _h5KZ0Me0EeS2DMw6uOlqsQ _b__ykMeqEeS2DMw6uOlqsQ" output="_evaaoMe0EeS2DMw6uOlqsQ _0b6YwMezEeS2DMw6uOlqsQ _EuYhsMe0EeS2DMw6uOlqsQ _AX4woMe2EeS2DMw6uOlqsQ _KFnJcMfSEeSx8tY0xxnZyg" toolMentors="_V6siEMfHEeSx8tY0xxnZyg _ZRA9oMfHEeSx8tY0xxnZyg _cl2ygMfHEeSx8tY0xxnZyg _CV3QgMfHEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYT-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_4rbn0MegEeS2DMw6uOlqsQ" name="10.1．コミュニケーション・マネジメント計画" guid="_4rbn0MegEeS2DMw6uOlqsQ" presentationName="10.1．コミュニケーション・マネジメント計画" briefDescription="ステークホルダーが求める情報ニーズや要求事項、および使用可能な組織の資産に基づいて、プロジェクト・コミュニケーションへの適切な取り組み方と計画を策定するプロセス" mandatoryInput="_CggrAMerEeS2DMw6uOlqsQ _dhsUMMe9EeSx8tY0xxnZyg _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ" output="_BdqkkMfEEeSx8tY0xxnZyg _ULNrAMfTEeSx8tY0xxnZyg" toolMentors="_ow5MAMfHEeSx8tY0xxnZyg _l9kIwMfHEeSx8tY0xxnZyg _sE2QEMfHEeSx8tY0xxnZyg _gNSMMMfHEeSx8tY0xxnZyg _sm3IEMezEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqYUOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-tvIgMegEeS2DMw6uOlqsQ" name="10.2．コミュニケーション・マネジメント" guid="_-tvIgMegEeS2DMw6uOlqsQ" presentationName="10.2．コミュニケーション・マネジメント" briefDescription="コミュニケーション・マネジメント計画に従ってプロジェクト情報を生成、収集、配布、保管、検索、および最終的な廃棄を行うプロセス" mandatoryInput="_BdqkkMfEEeSx8tY0xxnZyg _h5KZ0Me0EeS2DMw6uOlqsQ _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ" output="_0b6YwMezEeS2DMw6uOlqsQ _ULNrAMfTEeSx8tY0xxnZyg _HH908MfEEeSx8tY0xxnZyg _AX4woMe2EeS2DMw6uOlqsQ" toolMentors="_ow5MAMfHEeSx8tY0xxnZyg _l9kIwMfHEeSx8tY0xxnZyg _sE2QEMfHEeSx8tY0xxnZyg _Sw2m0MfIEeSx8tY0xxnZyg _W_VHgMfKEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYUeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_GVrKQMehEeS2DMw6uOlqsQ" name="10.3．コミュニケーション・コントロール" guid="_GVrKQMehEeS2DMw6uOlqsQ" presentationName="10.3．コミュニケーション・コントロール" briefDescription="プロジェクトのライフサイクルを通して、プロジェクト・ステークホルダーの情報ニーズを満たすためにコミュニケーションを監視し、コントロールするプロセス" mandatoryInput="_CggrAMerEeS2DMw6uOlqsQ _HH908MfEEeSx8tY0xxnZyg _xJZ2cMfEEeSx8tY0xxnZyg _w8u8IMezEeS2DMw6uOlqsQ _b__ykMeqEeS2DMw6uOlqsQ" output="_bO6vYMe0EeS2DMw6uOlqsQ _evaaoMe0EeS2DMw6uOlqsQ _0b6YwMezEeS2DMw6uOlqsQ _ULNrAMfTEeSx8tY0xxnZyg _AX4woMe2EeS2DMw6uOlqsQ" toolMentors="_Sw2m0MfIEeSx8tY0xxnZyg _oRPhwMeqEeS2DMw6uOlqsQ _sm3IEMezEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqYUuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Oa3vwMehEeS2DMw6uOlqsQ" name="11.1．リスク・マネジメント計画" guid="_Oa3vwMehEeS2DMw6uOlqsQ" presentationName="11.1．リスク・マネジメント計画" briefDescription="プロジェクトのリスク・マネジメント活動を行う方法を定義するプロセス" mandatoryInput="_b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ _CggrAMerEeS2DMw6uOlqsQ _vLHjoMeqEeS2DMw6uOlqsQ _dhsUMMe9EeSx8tY0xxnZyg" output="_Ka6zcMfEEeSx8tY0xxnZyg" toolMentors="_rVApMMe0EeS2DMw6uOlqsQ _oRPhwMeqEeS2DMw6uOlqsQ _sm3IEMezEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqYU-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_SmPkAMehEeS2DMw6uOlqsQ" name="11.2．リスク特定" guid="_SmPkAMehEeS2DMw6uOlqsQ" presentationName="11.2．リスク特定" briefDescription="どのリスクがプロジェクトに影響を与えるかを見定め、その特性を文書化するプロセス" mandatoryInput="_Ka6zcMfEEeSx8tY0xxnZyg _ENZWsMfDEeSx8tY0xxnZyg _Xd63EMfBEeSx8tY0xxnZyg _UxvSwMfDEeSx8tY0xxnZyg _udamwMfDEeSx8tY0xxnZyg _1XQlsMe-EeSx8tY0xxnZyg _JIuBMMfDEeSx8tY0xxnZyg _7trqUMfAEeSx8tY0xxnZyg _dhsUMMe9EeSx8tY0xxnZyg _KV2PwMfQEeSx8tY0xxnZyg _d557sMfEEeSx8tY0xxnZyg _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ" output="_QQYyAMfEEeSx8tY0xxnZyg" toolMentors="_a7uWgMfIEeSx8tY0xxnZyg _hDg0IMfIEeSx8tY0xxnZyg _kx9b0MfIEeSx8tY0xxnZyg _oWM-oMfIEeSx8tY0xxnZyg _sKz4sMfIEeSx8tY0xxnZyg _vHDAUMfIEeSx8tY0xxnZyg _oRPhwMeqEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqYVOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_W4n_MMehEeS2DMw6uOlqsQ" name="11.3．定性的リスク分析" guid="_W4n_MMehEeS2DMw6uOlqsQ" presentationName="11.3．定性的リスク分析" briefDescription="リスクの発生確率と影響度の査定とその組み合わせによって、その後の分析や処置のためにリスクの優先順位付けを行うプロセス" mandatoryInput="_Ka6zcMfEEeSx8tY0xxnZyg _QQYyAMfEEeSx8tY0xxnZyg _1XQlsMe-EeSx8tY0xxnZyg _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ" output="_EuYhsMe0EeS2DMw6uOlqsQ" toolMentors="_8LqtMMfIEeSx8tY0xxnZyg _DzJb8MfJEeSx8tY0xxnZyg _At3tEMfJEeSx8tY0xxnZyg _x6tawMfIEeSx8tY0xxnZyg _3Ar2EMfIEeSx8tY0xxnZyg _oRPhwMeqEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqYVeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_cBunAMehEeS2DMw6uOlqsQ" name="11.4．定量的リスク分析" guid="_cBunAMehEeS2DMw6uOlqsQ" presentationName="11.4．定量的リスク分析" briefDescription="特定したリスクがプロジェクト目標全体に与える影響を数量的に分析するプロセス" mandatoryInput="_ENZWsMfDEeSx8tY0xxnZyg _Xd63EMfBEeSx8tY0xxnZyg _Ka6zcMfEEeSx8tY0xxnZyg _QQYyAMfEEeSx8tY0xxnZyg _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ" output="_EuYhsMe0EeS2DMw6uOlqsQ" toolMentors="_oRPhwMeqEeS2DMw6uOlqsQ _He9mYMfJEeSx8tY0xxnZyg _M7_20MfJEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYVuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_f53WMMehEeS2DMw6uOlqsQ" name="11.5．リスク対応計画" guid="_f53WMMehEeS2DMw6uOlqsQ" presentationName="11.5．リスク対応計画" briefDescription="プロジェクト目標に対する好機を高め、脅威を減少させるための選択肢と方策を策定するプロセス&#xD;&#xA;" mandatoryInput="_Ka6zcMfEEeSx8tY0xxnZyg _QQYyAMfEEeSx8tY0xxnZyg" output="_0b6YwMezEeS2DMw6uOlqsQ _EuYhsMe0EeS2DMw6uOlqsQ" toolMentors="_dt34kMfJEeSx8tY0xxnZyg _YBngYMfJEeSx8tY0xxnZyg _TCgiEMfJEeSx8tY0xxnZyg _oRPhwMeqEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqYV-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_jlsHsMehEeS2DMw6uOlqsQ" name="11.6．リスク・コントロール" guid="_jlsHsMehEeS2DMw6uOlqsQ" presentationName="11.6．リスク・コントロール" briefDescription="プロジェクト全期間にわたりリスク対応計画を実施し、特定したリスクを追跡し、残存リスクを監視し、新しいリスクを特定し、さらにリスク・プロセスの有効性評価などを行うプロセス" mandatoryInput="_QQYyAMfEEeSx8tY0xxnZyg _w8u8IMezEeS2DMw6uOlqsQ _h5KZ0Me0EeS2DMw6uOlqsQ" output="_bO6vYMe0EeS2DMw6uOlqsQ _evaaoMe0EeS2DMw6uOlqsQ _0b6YwMezEeS2DMw6uOlqsQ _EuYhsMe0EeS2DMw6uOlqsQ _AX4woMe2EeS2DMw6uOlqsQ" toolMentors="_lQDQkMfJEeSx8tY0xxnZyg _ii01UMfJEeSx8tY0xxnZyg _nXPmkMfJEeSx8tY0xxnZyg _rRywkMfJEeSx8tY0xxnZyg _cxmhwMfCEeSx8tY0xxnZyg _sm3IEMezEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqYWOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_n1M1EMehEeS2DMw6uOlqsQ" name="12.1．調達マネジメント計画" guid="_n1M1EMehEeS2DMw6uOlqsQ" presentationName="12.1．調達マネジメント計画" briefDescription="プロジェクトの調達に関する意思決定を文書化し、取り組み方を明確にし、納入候補を特定するプロセス" mandatoryInput="_CggrAMerEeS2DMw6uOlqsQ _IkfFAMe-EeSx8tY0xxnZyg _QQYyAMfEEeSx8tY0xxnZyg _zA5gYMfAEeSx8tY0xxnZyg _DjMOAMfBEeSx8tY0xxnZyg _JIuBMMfDEeSx8tY0xxnZyg _dhsUMMe9EeSx8tY0xxnZyg _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ" output="_TIYS0MfEEeSx8tY0xxnZyg _Z13egMfEEeSx8tY0xxnZyg _d557sMfEEeSx8tY0xxnZyg _ghELMMfEEeSx8tY0xxnZyg _kZIo8MfEEeSx8tY0xxnZyg _evaaoMe0EeS2DMw6uOlqsQ _EuYhsMe0EeS2DMw6uOlqsQ" toolMentors="_vkwakMfJEeSx8tY0xxnZyg _oRPhwMeqEeS2DMw6uOlqsQ _5e2sMMfJEeSx8tY0xxnZyg _sm3IEMezEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqYWeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_sxDrEMehEeS2DMw6uOlqsQ" name="12.2．調達実行" guid="_sxDrEMehEeS2DMw6uOlqsQ" presentationName="12.2．調達実行" briefDescription="納入候補から回答を得て、納入者を選定し、契約を締結するプロセス" mandatoryInput="_CggrAMerEeS2DMw6uOlqsQ _KV2PwMfQEeSx8tY0xxnZyg _d557sMfEEeSx8tY0xxnZyg _ghELMMfEEeSx8tY0xxnZyg _hFvgYMfWEeSx8tY0xxnZyg _kZIo8MfEEeSx8tY0xxnZyg _Z13egMfEEeSx8tY0xxnZyg _b__ykMeqEeS2DMw6uOlqsQ" output="_n9_20MfEEeSx8tY0xxnZyg _RHtaYMeqEeS2DMw6uOlqsQ _6KxlwMfDEeSx8tY0xxnZyg _evaaoMe0EeS2DMw6uOlqsQ _0b6YwMezEeS2DMw6uOlqsQ _EuYhsMe0EeS2DMw6uOlqsQ" toolMentors="_7_nYwMfJEeSx8tY0xxnZyg _-91dYMfJEeSx8tY0xxnZyg _Cv4ysMfKEeSx8tY0xxnZyg _oRPhwMeqEeS2DMw6uOlqsQ _Fx3V8MfKEeSx8tY0xxnZyg _rVApMMe0EeS2DMw6uOlqsQ _IP10QMfKEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYWuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_xiTzkMehEeS2DMw6uOlqsQ" name="12.3．調達コントロール" guid="_xiTzkMehEeS2DMw6uOlqsQ" presentationName="12.3．調達コントロール" briefDescription="調達先との関係をマネジメントし、契約上のパフォーマンスを監視し、適切な変更と是正を行うプロセス" mandatoryInput="_CggrAMerEeS2DMw6uOlqsQ _d557sMfEEeSx8tY0xxnZyg _RHtaYMeqEeS2DMw6uOlqsQ _fbEcMMezEeS2DMw6uOlqsQ _w8u8IMezEeS2DMw6uOlqsQ _h5KZ0Me0EeS2DMw6uOlqsQ" output="_bO6vYMe0EeS2DMw6uOlqsQ _evaaoMe0EeS2DMw6uOlqsQ _0b6YwMezEeS2DMw6uOlqsQ _EuYhsMe0EeS2DMw6uOlqsQ _AX4woMe2EeS2DMw6uOlqsQ" toolMentors="_RRM0IMfXEeSx8tY0xxnZyg _QVwLcMfKEeSx8tY0xxnZyg _UeIWEMfKEeSx8tY0xxnZyg _W_VHgMfKEeSx8tY0xxnZyg _Z2zq8MfKEeSx8tY0xxnZyg _c8mXMMfKEeSx8tY0xxnZyg _gSOPMMfKEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYW-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_3WagMMehEeS2DMw6uOlqsQ" name="12.4．調達終結" guid="_3WagMMehEeS2DMw6uOlqsQ" presentationName="12.4．調達終結" briefDescription="プロジェクトにおける個々の調達を完結するプロセス" mandatoryInput="_CggrAMerEeS2DMw6uOlqsQ _d557sMfEEeSx8tY0xxnZyg" output="_rwhGMMfEEeSx8tY0xxnZyg _AX4woMe2EeS2DMw6uOlqsQ" toolMentors="_lJk_sMfKEeSx8tY0xxnZyg _IP10QMfKEeSx8tY0xxnZyg _gSOPMMfKEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYXOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_679qkMehEeS2DMw6uOlqsQ" name="13.1．ステークホルダー特定" guid="_679qkMehEeS2DMw6uOlqsQ" presentationName="13.1．ステークホルダー特定" briefDescription="プロジェクトの決定、活動、あるいは成果に影響を与えるかを影響を受ける個人、グループ、あるいは組織を特定し、プロジェクトの成功に対する利害、関与、相互依存、影響、および潜在的影響力に関する適切な情報を分析し文書化するプロセス" mandatoryInput="_b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ _vLHjoMeqEeS2DMw6uOlqsQ _d557sMfEEeSx8tY0xxnZyg" output="_dhsUMMe9EeSx8tY0xxnZyg" toolMentors="_n3diQMfKEeSx8tY0xxnZyg _oRPhwMeqEeS2DMw6uOlqsQ _sm3IEMezEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqYXeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__GcuAMehEeS2DMw6uOlqsQ" name="13.2．ステークホルダー・マネジメント計画" guid="__GcuAMehEeS2DMw6uOlqsQ" presentationName="13.2．ステークホルダー・マネジメント計画" briefDescription="ステークホルダーのニーズ、利害、プロジェクトの成功に影響を与える可能性に基づき、プロジェクトのライフサイクルを通して、ステークホルダーを効果的に関与させるために、適切なマネジメント戦略を策定するプロセス" mandatoryInput="_dhsUMMe9EeSx8tY0xxnZyg _CggrAMerEeS2DMw6uOlqsQ _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ" output="_h7XuYMe2EeS2DMw6uOlqsQ _EuYhsMe0EeS2DMw6uOlqsQ" toolMentors="_sm3IEMezEeS2DMw6uOlqsQ _oRPhwMeqEeS2DMw6uOlqsQ _rVApMMe0EeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqYXuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_EFwgoMeiEeS2DMw6uOlqsQ" name="13.3．ステークホルダー・エンゲージメント・マネジメント" guid="_EFwgoMeiEeS2DMw6uOlqsQ" presentationName="13.3．ステークホルダー・エンゲージメント・マネジメント" briefDescription="ステークホルダーのニーズや期待を満足させるために、プロジェクト・ライフサイクルを通してコミュニケーションし、共に働き、課題の発生に対処し、プロジェクト活動についてステークホルダーの適切な関与を強化するプロセス" mandatoryInput="_h7XuYMe2EeS2DMw6uOlqsQ _BdqkkMfEEeSx8tY0xxnZyg _l4RTsMe0EeS2DMw6uOlqsQ _b__ykMeqEeS2DMw6uOlqsQ" output="_xJZ2cMfEEeSx8tY0xxnZyg _evaaoMe0EeS2DMw6uOlqsQ _0b6YwMezEeS2DMw6uOlqsQ _EuYhsMe0EeS2DMw6uOlqsQ _AX4woMe2EeS2DMw6uOlqsQ" toolMentors="_sE2QEMfHEeSx8tY0xxnZyg _CV3QgMfHEeSx8tY0xxnZyg _sdkKsMfKEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYX-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_K-RQkMeiEeS2DMw6uOlqsQ" name="13.4．ステークホルダー・エンゲージメント・コントロール" guid="_K-RQkMeiEeS2DMw6uOlqsQ" presentationName="13.4．ステークホルダー・エンゲージメント・コントロール" briefDescription="プロジェクト・ステークホルダーの総合的な関係を監視し、ステークホルダーの関与を得るために戦略と計画を調整するプロセス" mandatoryInput="_CggrAMerEeS2DMw6uOlqsQ _KV2PwMfQEeSx8tY0xxnZyg _xJZ2cMfEEeSx8tY0xxnZyg _w8u8IMezEeS2DMw6uOlqsQ" output="_bO6vYMe0EeS2DMw6uOlqsQ _evaaoMe0EeS2DMw6uOlqsQ _0b6YwMezEeS2DMw6uOlqsQ _EuYhsMe0EeS2DMw6uOlqsQ _AX4woMe2EeS2DMw6uOlqsQ" toolMentors="_Sw2m0MfIEeSx8tY0xxnZyg _oRPhwMeqEeS2DMw6uOlqsQ _sm3IEMezEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqYYOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_GB48gMeqEeS2DMw6uOlqsQ" name="プロジェクト作業範囲記述書(SOW)" guid="_GB48gMeqEeS2DMw6uOlqsQ" presentationName="プロジェクト作業範囲記述書(SOW)" briefDescription="プロジェクトが提供するプロダクト、サービス、または所産を記述した文書" deliveredWorkProducts="_B_L-AM06EeS3G82aSffQPw _Yb_iQM06EeS3G82aSffQPw _jWI7oM06EeS3G82aSffQPw">
+            <methodElementProperty xmi:id="_0HqYYeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_NPxfgMeqEeS2DMw6uOlqsQ" name="ビジネス・ケース" guid="_NPxfgMeqEeS2DMw6uOlqsQ" presentationName="ビジネス・ケース" briefDescription="プロジェクトに要する投資を行う価値がるかどうかを決めるために、ビジネス上の観点から必要な情報を記述する。通常プロジェクトより上位レベルのマネジャーや責任者が意思決定に使用する文書である。" deliveredWorkProducts="_B_L-AM06EeS3G82aSffQPw _lNte0M3KEeS3G82aSffQPw">
+            <methodElementProperty xmi:id="_0HqYYuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-slPnKqJeJ7D03KBZ1tZ9Jg" href="uma://-slPnKqJeJ7D03KBZ1tZ9Jg#-slPnKqJeJ7D03KBZ1tZ9Jg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_RHtaYMeqEeS2DMw6uOlqsQ" name="合意書" guid="_RHtaYMeqEeS2DMw6uOlqsQ" presentationName="合意書" briefDescription="プロジェクトの当初の意図を定義するために使用される。" deliveredWorkProducts="_f0lBgM3LEeS3G82aSffQPw _k0XVQM3LEeS3G82aSffQPw _vGV7YM3LEeS3G82aSffQPw __3XokM3LEeS3G82aSffQPw _GggfwM3MEeS3G82aSffQPw _Lwa6MM3MEeS3G82aSffQPw _SltXAM3MEeS3G82aSffQPw _VppCEM3MEeS3G82aSffQPw">
+            <methodElementProperty xmi:id="_0HqYY-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-tbfgglyHPfPFKdy20aReqA" href="uma://-tbfgglyHPfPFKdy20aReqA#-tbfgglyHPfPFKdy20aReqA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_YbctwMeqEeS2DMw6uOlqsQ" name="組織体の環境要因" guid="_YbctwMeqEeS2DMw6uOlqsQ" presentationName="組織体の環境要因" briefDescription="プロジェクト・チームのコントロールが及ばない、プロジェクトに対して影響、制約、もしくは指示を与える事情" deliveredWorkProducts="_IwJKoM3NEeS3G82aSffQPw _NvZ58M3NEeS3G82aSffQPw _SYiBMM3NEeS3G82aSffQPw _Xe3o4M3NEeS3G82aSffQPw _dCj68M3NEeS3G82aSffQPw _LeW9AM3QEeS3G82aSffQPw _gQyqIM3QEeS3G82aSffQPw _GPE7EM3YEeS3G82aSffQPw _MIuPAM3YEeS3G82aSffQPw _Q1dD4M3YEeS3G82aSffQPw _WRhD8M3YEeS3G82aSffQPw _bWUakM3YEeS3G82aSffQPw">
+            <methodElementProperty xmi:id="_0HqYZOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-HwlbdGcXSKs8-m72vo_fpw" href="uma://-HwlbdGcXSKs8-m72vo_fpw#-HwlbdGcXSKs8-m72vo_fpw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_b__ykMeqEeS2DMw6uOlqsQ" name="組織のプロセス資産" guid="_b__ykMeqEeS2DMw6uOlqsQ" presentationName="組織のプロセス資産" briefDescription="母体組織によって使われる特有の計画書、プロセス、方針書、手順書および知識ベース&#xD;&#xA;" guidelines="_txXbsMw6EeSUqsQ9cDMSxA _JT-cIMw7EeSUqsQ9cDMSxA" deliveredWorkProducts="_rzQIEM3NEeS3G82aSffQPw _3muWIM3NEeS3G82aSffQPw _-sxLwM3NEeS3G82aSffQPw">
+            <methodElementProperty xmi:id="_0HqYZeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-P8W670kagikv25fp5Zdu3A" href="uma://-P8W670kagikv25fp5Zdu3A#-P8W670kagikv25fp5Zdu3A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_oRPhwMeqEeS2DMw6uOlqsQ" name="専門家の判断" guid="_oRPhwMeqEeS2DMw6uOlqsQ" presentationName="専門家の判断" briefDescription="プロジェクト憲章の作成に必要なインプットを評価する際によく用いられる。プロジェクト憲章作成のプロセスを通して、技術やマネジメントに関わる詳細な全ての事項についての専門家の判断と専門知識が用いられる。そのような専門知識は、分野特有の知識を持っているグループや個人、あるいはトレーニングを受けたグループや個人から得られる。">
+            <methodElementProperty xmi:id="_0HqYZuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-X00ADP9LNaNJkqhH7rGqPA" href="uma://-X00ADP9LNaNJkqhH7rGqPA#-X00ADP9LNaNJkqhH7rGqPA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_sAVpsMeqEeS2DMw6uOlqsQ" name="ファシリテーション技法" guid="_sAVpsMeqEeS2DMw6uOlqsQ" presentationName="ファシリテーション技法" briefDescription="プロジェクト・マネジメント・プロセスで広範囲に適用でき、プロジェクト憲章の作成にも役立つ。">
+            <methodElementProperty xmi:id="_0HqYZ-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-kz5PjElN9ctR6vkeqygu_A" href="uma://-kz5PjElN9ctR6vkeqygu_A#-kz5PjElN9ctR6vkeqygu_A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_vLHjoMeqEeS2DMw6uOlqsQ" name="プロジェクト憲章" guid="_vLHjoMeqEeS2DMw6uOlqsQ" presentationName="プロジェクト憲章" briefDescription="プロジェクトの存在を正式に認可する文書であり、プロジェクトのイニシエーターまたはスポンサーが発行する。プロジェクト憲章は、プロジェクト・マネジャーが母体組織の資源をプロジェクト活動のために使用する権限を与える。" templates="_m38G4M0YEeS3G82aSffQPw">
+            <methodElementProperty xmi:id="_0HqYaOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Lk4_srV4O-P_RwN1TvvxcA" href="uma://-Lk4_srV4O-P_RwN1TvvxcA#-Lk4_srV4O-P_RwN1TvvxcA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_7VsqIMeqEeS2DMw6uOlqsQ" name="他のプロセスからのアウトプット" guid="_7VsqIMeqEeS2DMw6uOlqsQ" presentationName="他のプロセスからのアウトプット">
+            <methodElementProperty xmi:id="_0HqYaeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_CggrAMerEeS2DMw6uOlqsQ" name="プロジェクト・マネジメント計画書" guid="_CggrAMerEeS2DMw6uOlqsQ" presentationName="プロジェクト・マネジメント計画書" briefDescription="プロジェクトの実行、監視・コントロール、および終結の方法を規定する。" deliveredWorkProducts="__IqtwM1CEeS3G82aSffQPw _HXzSYM1DEeS3G82aSffQPw">
+            <methodElementProperty xmi:id="_0HqYauGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-5xjM5X2yeYIn86ARZfhKBA" href="uma://-5xjM5X2yeYIn86ARZfhKBA#-5xjM5X2yeYIn86ARZfhKBA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_fbEcMMezEeS2DMw6uOlqsQ" name="承認済み変更要求" guid="_fbEcMMezEeS2DMw6uOlqsQ" presentationName="承認済み変更要求">
+            <methodElementProperty xmi:id="_0HqYa-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_lFXskMezEeS2DMw6uOlqsQ" name="プロジェクト・マネジメント情報システム" guid="_lFXskMezEeS2DMw6uOlqsQ" presentationName="プロジェクト・マネジメント情報システム">
+            <methodElementProperty xmi:id="_0HqYbOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_sm3IEMezEeS2DMw6uOlqsQ" name="会議" guid="_sm3IEMezEeS2DMw6uOlqsQ" presentationName="会議">
+            <methodElementProperty xmi:id="_0HqYbeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_vJgrAMezEeS2DMw6uOlqsQ" name="成果物" guid="_vJgrAMezEeS2DMw6uOlqsQ" presentationName="成果物">
+            <methodElementProperty xmi:id="_0HqYbuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_w8u8IMezEeS2DMw6uOlqsQ" name="作業パフォーマンス・データ" guid="_w8u8IMezEeS2DMw6uOlqsQ" presentationName="作業パフォーマンス・データ" briefDescription="プロジェクト作業に取り組む上で、アクティビティの実行中に把握した生の観測値または測定値">
+            <methodElementProperty xmi:id="_0HqYb-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-XVeIvOd6OB6zkUyCRbM3Mw" href="uma://-XVeIvOd6OB6zkUyCRbM3Mw#-XVeIvOd6OB6zkUyCRbM3Mw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_0b6YwMezEeS2DMw6uOlqsQ" name="プロジェクト・マネジメント計画書更新版" guid="_0b6YwMezEeS2DMw6uOlqsQ" presentationName="プロジェクト・マネジメント計画書更新版" deliveredWorkProducts="_CggrAMerEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqYcOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_EuYhsMe0EeS2DMw6uOlqsQ" name="プロジェクト文書更新版" guid="_EuYhsMe0EeS2DMw6uOlqsQ" presentationName="プロジェクト文書更新版" deliveredWorkProducts="_KV2PwMfQEeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYceGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_MefA8Me0EeS2DMw6uOlqsQ" name="スケジュール予測" guid="_MefA8Me0EeS2DMw6uOlqsQ" presentationName="スケジュール予測">
+            <methodElementProperty xmi:id="_0HqYcuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_U8knkMe0EeS2DMw6uOlqsQ" name="コスト予測" guid="_U8knkMe0EeS2DMw6uOlqsQ" presentationName="コスト予測">
+            <methodElementProperty xmi:id="_0HqYc-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_XxatwMe0EeS2DMw6uOlqsQ" name="妥当性確認済み変更" guid="_XxatwMe0EeS2DMw6uOlqsQ" presentationName="妥当性確認済み変更">
+            <methodElementProperty xmi:id="_0HqYdOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_bO6vYMe0EeS2DMw6uOlqsQ" name="作業パフォーマンス情報" guid="_bO6vYMe0EeS2DMw6uOlqsQ" presentationName="作業パフォーマンス情報" briefDescription="さまざまなコントロール・プロセスから収集したパフォーマンス・データ">
+            <methodElementProperty xmi:id="_0HqYdeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-t_ykJqD5Nkt8n-W0Vi7P6A" href="uma://-t_ykJqD5Nkt8n-W0Vi7P6A#-t_ykJqD5Nkt8n-W0Vi7P6A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_evaaoMe0EeS2DMw6uOlqsQ" name="変更要求" guid="_evaaoMe0EeS2DMw6uOlqsQ" presentationName="変更要求">
+            <methodElementProperty xmi:id="_0HqYduGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_h5KZ0Me0EeS2DMw6uOlqsQ" name="作業パフォーマンス報告書" guid="_h5KZ0Me0EeS2DMw6uOlqsQ" presentationName="作業パフォーマンス報告書" briefDescription="作業パフォーマンス情報を物理的または電子的にまとめたプロジェクト文書">
+            <methodElementProperty xmi:id="_0HqYd-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-5Rs0GKGH0QwZ_IzREAfHzg" href="uma://-5Rs0GKGH0QwZ_IzREAfHzg#-5Rs0GKGH0QwZ_IzREAfHzg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_l4RTsMe0EeS2DMw6uOlqsQ" name="変更ログ" guid="_l4RTsMe0EeS2DMw6uOlqsQ" presentationName="変更ログ">
+            <methodElementProperty xmi:id="_0HqYeOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_rVApMMe0EeS2DMw6uOlqsQ" name="分析技法" guid="_rVApMMe0EeS2DMw6uOlqsQ" presentationName="分析技法">
+            <methodElementProperty xmi:id="_0HqYeeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_u9rZAMe0EeS2DMw6uOlqsQ" name="変更管理ツール" guid="_u9rZAMe0EeS2DMw6uOlqsQ" presentationName="変更管理ツール">
+            <methodElementProperty xmi:id="_0HqYeuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_xE6V0Me1EeS2DMw6uOlqsQ" name="受入れ済み成果物" guid="_xE6V0Me1EeS2DMw6uOlqsQ" presentationName="受入れ済み成果物">
+            <methodElementProperty xmi:id="_0HqYe-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_3tXQgMe1EeS2DMw6uOlqsQ" name="最終プロダクト、サービス、所産の移管" guid="_3tXQgMe1EeS2DMw6uOlqsQ" presentationName="最終プロダクト、サービス、所管の移管">
+            <methodElementProperty xmi:id="_0HqYfOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_AX4woMe2EeS2DMw6uOlqsQ" name="組織のプロセス資産更新版" guid="_AX4woMe2EeS2DMw6uOlqsQ" presentationName="組織のプロセス資産更新版" deliveredWorkProducts="_YbctwMeqEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqYfeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_EikBUMe2EeS2DMw6uOlqsQ" name="インタビュー" guid="_EikBUMe2EeS2DMw6uOlqsQ" presentationName="インタビュー">
+            <methodElementProperty xmi:id="_0HqYfuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_WZTZYMe2EeS2DMw6uOlqsQ" name="スコープ・マネジメント計画書" guid="_WZTZYMe2EeS2DMw6uOlqsQ" presentationName="スコープ・マネジメント計画書">
+            <methodElementProperty xmi:id="_0HqYf-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_ayzJMMe2EeS2DMw6uOlqsQ" name="要求事項マネジメント計画書" guid="_ayzJMMe2EeS2DMw6uOlqsQ" presentationName="要求事項マネジメント計画書">
+            <methodElementProperty xmi:id="_0HqYgOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_h7XuYMe2EeS2DMw6uOlqsQ" name="ステークホルダー・マネジメント計画書" guid="_h7XuYMe2EeS2DMw6uOlqsQ" presentationName="ステークホルダー・マネジメント計画書">
+            <methodElementProperty xmi:id="_0HqYgeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_dhsUMMe9EeSx8tY0xxnZyg" name="ステークホルダー登録簿" guid="_dhsUMMe9EeSx8tY0xxnZyg" presentationName="ステークホルダー登録簿">
+            <methodElementProperty xmi:id="_0HqYguGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_l86NAMe9EeSx8tY0xxnZyg" name="フォーカス・グループ" guid="_l86NAMe9EeSx8tY0xxnZyg" presentationName="フォーカス・グループ">
+            <methodElementProperty xmi:id="_0HqYg-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_o8uNEMe9EeSx8tY0xxnZyg" name="ファシリテーション型ワークショップ" guid="_o8uNEMe9EeSx8tY0xxnZyg" presentationName="ファシリテーション型ワークショップ">
+            <methodElementProperty xmi:id="_0HqYhOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_tbXioMe9EeSx8tY0xxnZyg" name="グループ発想技法" guid="_tbXioMe9EeSx8tY0xxnZyg" presentationName="グループ発想技法">
+            <methodElementProperty xmi:id="_0HqYheGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_yPNFEMe9EeSx8tY0xxnZyg" name="グループ意思決定技法" guid="_yPNFEMe9EeSx8tY0xxnZyg" presentationName="グループ意思決定技法">
+            <methodElementProperty xmi:id="_0HqYhuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_120sAMe9EeSx8tY0xxnZyg" name="アンケートと調査" guid="_120sAMe9EeSx8tY0xxnZyg" presentationName="アンケートと調査">
+            <methodElementProperty xmi:id="_0HqYh-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_5IlXsMe9EeSx8tY0xxnZyg" name="観察" guid="_5IlXsMe9EeSx8tY0xxnZyg" presentationName="観察">
+            <methodElementProperty xmi:id="_0HqYiOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_7H8AUMe9EeSx8tY0xxnZyg" name="プロトタイプ" guid="_7H8AUMe9EeSx8tY0xxnZyg" presentationName="プロトタイプ">
+            <methodElementProperty xmi:id="_0HqYieGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_-IXEYMe9EeSx8tY0xxnZyg" name="ベンチマーキング" guid="_-IXEYMe9EeSx8tY0xxnZyg" presentationName="ベンチマーキング">
+            <methodElementProperty xmi:id="_0HqYiuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_Ac6g8Me-EeSx8tY0xxnZyg" name="コンテキスト・ダイアグラム" guid="_Ac6g8Me-EeSx8tY0xxnZyg" presentationName="コンテキスト・ダイアグラム">
+            <methodElementProperty xmi:id="_0HqYi-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_EQYLgMe-EeSx8tY0xxnZyg" name="文書分析" guid="_EQYLgMe-EeSx8tY0xxnZyg" presentationName="文書分析">
+            <methodElementProperty xmi:id="_0HqYjOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_Gl6fgMe-EeSx8tY0xxnZyg" name="要素分解" guid="_Gl6fgMe-EeSx8tY0xxnZyg" presentationName="要素分解">
+            <methodElementProperty xmi:id="_0HqYjeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_IkfFAMe-EeSx8tY0xxnZyg" name="要求事項文書" guid="_IkfFAMe-EeSx8tY0xxnZyg" presentationName="要求事項文書">
+            <methodElementProperty xmi:id="_0HqYjuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_La1nEMe-EeSx8tY0xxnZyg" name="要求事項トレーサビリティ・マトリックス" guid="_La1nEMe-EeSx8tY0xxnZyg" presentationName="要求事項トレーサビリティ・マトリックス">
+            <methodElementProperty xmi:id="_0HqYj-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_VEGnYMe-EeSx8tY0xxnZyg" name="プロジェクト・スコープ記述書" guid="_VEGnYMe-EeSx8tY0xxnZyg" presentationName="プロジェクト・スコープ記述書">
+            <methodElementProperty xmi:id="_0HqYkOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_nbQk4Me-EeSx8tY0xxnZyg" name="検査" guid="_nbQk4Me-EeSx8tY0xxnZyg" presentationName="検査">
+            <methodElementProperty xmi:id="_0HqYkeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_x4_vEMe-EeSx8tY0xxnZyg" name="差異分析" guid="_x4_vEMe-EeSx8tY0xxnZyg" presentationName="差異分析">
+            <methodElementProperty xmi:id="_0HqYkuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_1XQlsMe-EeSx8tY0xxnZyg" name="スコープ・ベースライン" guid="_1XQlsMe-EeSx8tY0xxnZyg" presentationName="スコープ・ベースライン" deliveredWorkProducts="_Jha_YM1FEeS3G82aSffQPw _PNHW4M1FEeS3G82aSffQPw _VEGnYMe-EeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0HqYk-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_Z6_BUMe_EeSx8tY0xxnZyg" name="プロダクト分析" guid="_Z6_BUMe_EeSx8tY0xxnZyg" presentationName="プロダクト分析">
+            <methodElementProperty xmi:id="_0HqYlOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_dJu1QMe_EeSx8tY0xxnZyg" name="代替案生成" guid="_dJu1QMe_EeSx8tY0xxnZyg" presentationName="代替案生成">
+            <methodElementProperty xmi:id="_0HqYleGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="__Prm4Me_EeSx8tY0xxnZyg" name="検証済み成果物" guid="__Prm4Me_EeSx8tY0xxnZyg" presentationName="検証済み成果物">
+            <methodElementProperty xmi:id="_0HqYluGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_kyvYkMfAEeSx8tY0xxnZyg" name="アクティビティ・リスト" guid="_kyvYkMfAEeSx8tY0xxnZyg" presentationName="アクティビティ・リスト">
+            <methodElementProperty xmi:id="_0HqYl-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_oUEKQMfAEeSx8tY0xxnZyg" name="アクティビティ属性" guid="_oUEKQMfAEeSx8tY0xxnZyg" presentationName="アクティビティ属性">
+            <methodElementProperty xmi:id="_0HqYmOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_q-4KsMfAEeSx8tY0xxnZyg" name="マイルストーン・リスト" guid="_q-4KsMfAEeSx8tY0xxnZyg" presentationName="マイルストーン・リスト">
+            <methodElementProperty xmi:id="_0HqYmeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_uYnGoMfAEeSx8tY0xxnZyg" name="プロジェクト・スケジュール・ネットワーク図" guid="_uYnGoMfAEeSx8tY0xxnZyg" presentationName="プロジェクト・スケジュールネットワーク図">
+            <methodElementProperty xmi:id="_0HqYmuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_zA5gYMfAEeSx8tY0xxnZyg" name="アクティビティ資源要求事項" guid="_zA5gYMfAEeSx8tY0xxnZyg" presentationName="アクティビティ資源要求事項">
+            <methodElementProperty xmi:id="_0HqYm-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_22wXoMfAEeSx8tY0xxnZyg" name="資源ブレークダウン・ストラクチャー" guid="_22wXoMfAEeSx8tY0xxnZyg" presentationName="資源ブレークダウン・ストラクチャー">
+            <methodElementProperty xmi:id="_0HqYnOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_7trqUMfAEeSx8tY0xxnZyg" name="アクティビティ所要期間見積り" guid="_7trqUMfAEeSx8tY0xxnZyg" presentationName="アクティビティ所要期間見積り">
+            <methodElementProperty xmi:id="_0HqYneGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_AiD_UMfBEeSx8tY0xxnZyg" name="スケジュール・ベースライン" guid="_AiD_UMfBEeSx8tY0xxnZyg" presentationName="スケジュール・ベースライン">
+            <methodElementProperty xmi:id="_0HqYnuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_DjMOAMfBEeSx8tY0xxnZyg" name="プロジェクト・スケジュール" guid="_DjMOAMfBEeSx8tY0xxnZyg" presentationName="プロジェクト・スケジュール">
+            <methodElementProperty xmi:id="_0HqYn-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_HCtB0MfBEeSx8tY0xxnZyg" name="スケジュール・データ" guid="_HCtB0MfBEeSx8tY0xxnZyg" presentationName="スケジュール・データ">
+            <methodElementProperty xmi:id="_0HqYoOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_JopwYMfBEeSx8tY0xxnZyg" name="プロジェクト・カレンダー" guid="_JopwYMfBEeSx8tY0xxnZyg" presentationName="プロジェクト・カレンダー">
+            <methodElementProperty xmi:id="_0HqYoeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_Xd63EMfBEeSx8tY0xxnZyg" name="スケジュール・マネジメント計画書" guid="_Xd63EMfBEeSx8tY0xxnZyg" presentationName="スケジュール・マネジメント計画書">
+            <methodElementProperty xmi:id="_0HqYouGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_yGfRIMfBEeSx8tY0xxnZyg" name="プレシデンス・ダイアグラム法（PDM）" guid="_yGfRIMfBEeSx8tY0xxnZyg" presentationName="プレシデンス・ダイアグラム法（PDM）">
+            <methodElementProperty xmi:id="_0HqYo-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_6CeQQMfBEeSx8tY0xxnZyg" name="依存関係の決定" guid="_6CeQQMfBEeSx8tY0xxnZyg" presentationName="依存関係の決定">
+            <methodElementProperty xmi:id="_0HqYpOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_9VKwEMfBEeSx8tY0xxnZyg" name="リードとラグ" guid="_9VKwEMfBEeSx8tY0xxnZyg" presentationName="リードとラグ">
+            <methodElementProperty xmi:id="_0HqYpeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_DHNnMMfCEeSx8tY0xxnZyg" name="代替案分析" guid="_DHNnMMfCEeSx8tY0xxnZyg" presentationName="代替案分析">
+            <methodElementProperty xmi:id="_0HqYpuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_FnwRUMfCEeSx8tY0xxnZyg" name="公開見積りデータ" guid="_FnwRUMfCEeSx8tY0xxnZyg" presentationName="公開見積りデータ">
+            <methodElementProperty xmi:id="_0HqYp-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_JEOYMMfCEeSx8tY0xxnZyg" name="ボトムアップ見積り" guid="_JEOYMMfCEeSx8tY0xxnZyg" presentationName="ボトムアップ見積り">
+            <methodElementProperty xmi:id="_0HqYqOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_MFkCQMfCEeSx8tY0xxnZyg" name="プロジェクト・マネジメント・ソフトウェア" guid="_MFkCQMfCEeSx8tY0xxnZyg" presentationName="プロジェクト・マネジメント・ソフトウェア">
+            <methodElementProperty xmi:id="_0HqYqeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_Ro69IMfCEeSx8tY0xxnZyg" name="類推見積り" guid="_Ro69IMfCEeSx8tY0xxnZyg" presentationName="類推見積り">
+            <methodElementProperty xmi:id="_0HqYquGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_VI2AoMfCEeSx8tY0xxnZyg" name="パラメトリック見積り" guid="_VI2AoMfCEeSx8tY0xxnZyg" presentationName="パラメトリック見積り">
+            <methodElementProperty xmi:id="_0HqYq-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_ZOhckMfCEeSx8tY0xxnZyg" name="三点見積り" guid="_ZOhckMfCEeSx8tY0xxnZyg" presentationName="三点見積り">
+            <methodElementProperty xmi:id="_0HqYrOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_cxmhwMfCEeSx8tY0xxnZyg" name="予備設定分析" guid="_cxmhwMfCEeSx8tY0xxnZyg" presentationName="予備設定分析">
+            <methodElementProperty xmi:id="_0HqYreGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_gZWrkMfCEeSx8tY0xxnZyg" name="スケジュール・ネットワーク分析" guid="_gZWrkMfCEeSx8tY0xxnZyg" presentationName="スケジュール・ネットワーク分析">
+            <methodElementProperty xmi:id="_0HqYruGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_lhfqEMfCEeSx8tY0xxnZyg" name="クリティカル・パス法" guid="_lhfqEMfCEeSx8tY0xxnZyg" presentationName="クリティカル・パス法">
+            <methodElementProperty xmi:id="_0HqYr-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_pqXj8MfCEeSx8tY0xxnZyg" name="クリティカル・チェーン法" guid="_pqXj8MfCEeSx8tY0xxnZyg" presentationName="クリティカル・チェーン法">
+            <methodElementProperty xmi:id="_0HqYsOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_tkTp8MfCEeSx8tY0xxnZyg" name="資源最適化技法" guid="_tkTp8MfCEeSx8tY0xxnZyg" presentationName="資源最適化技法">
+            <methodElementProperty xmi:id="_0HqYseGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_x-VlQMfCEeSx8tY0xxnZyg" name="モデリング技法" guid="_x-VlQMfCEeSx8tY0xxnZyg" presentationName="モデリング技法">
+            <methodElementProperty xmi:id="_0HqYsuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_1Nzx8MfCEeSx8tY0xxnZyg" name="スケジュール短縮" guid="_1Nzx8MfCEeSx8tY0xxnZyg" presentationName="スケジュール短縮">
+            <methodElementProperty xmi:id="_0HqYs-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_4yUagMfCEeSx8tY0xxnZyg" name="スケジューリング・ツール" guid="_4yUagMfCEeSx8tY0xxnZyg" presentationName="スケジューリング・ツール">
+            <methodElementProperty xmi:id="_0HqYtOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_8HEIwMfCEeSx8tY0xxnZyg" name="パフォーマンス・レビュー" guid="_8HEIwMfCEeSx8tY0xxnZyg" presentationName="パフォーマンス・レビュー">
+            <methodElementProperty xmi:id="_0HqYteGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_ENZWsMfDEeSx8tY0xxnZyg" name="コスト・マネジメント計画書" guid="_ENZWsMfDEeSx8tY0xxnZyg" presentationName="コスト・マネジメント計画書">
+            <methodElementProperty xmi:id="_0HqYtuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_JIuBMMfDEeSx8tY0xxnZyg" name="アクティビティ・コスト見積り" guid="_JIuBMMfDEeSx8tY0xxnZyg" presentationName="アクティビティ・コスト見積り">
+            <methodElementProperty xmi:id="_0HqYt-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_N4VK8MfDEeSx8tY0xxnZyg" name="見積りの根拠" guid="_N4VK8MfDEeSx8tY0xxnZyg" presentationName="見積りの根拠">
+            <methodElementProperty xmi:id="_0HqYuOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_SD-E8MfDEeSx8tY0xxnZyg" name="コスト・ベースライン" guid="_SD-E8MfDEeSx8tY0xxnZyg" presentationName="コスト・ベースライン">
+            <methodElementProperty xmi:id="_0HqYueGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_UxvSwMfDEeSx8tY0xxnZyg" name="品質マネジメント計画書" guid="_UxvSwMfDEeSx8tY0xxnZyg" presentationName="品質マネジメント計画書">
+            <methodElementProperty xmi:id="_0HqYuuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_cR__MMfDEeSx8tY0xxnZyg" name="プロセス改善計画書" guid="_cR__MMfDEeSx8tY0xxnZyg" presentationName="プロセス改善計画書">
+            <methodElementProperty xmi:id="_0HqYu-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_go1ckMfDEeSx8tY0xxnZyg" name="品質尺度" guid="_go1ckMfDEeSx8tY0xxnZyg" presentationName="品質尺度">
+            <methodElementProperty xmi:id="_0HqYvOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_mppIcMfDEeSx8tY0xxnZyg" name="品質チェックリスト" guid="_mppIcMfDEeSx8tY0xxnZyg" presentationName="品質チェックリスト">
+            <methodElementProperty xmi:id="_0HqYveGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_p_PLQMfDEeSx8tY0xxnZyg" name="品質コントロール測定結果" guid="_p_PLQMfDEeSx8tY0xxnZyg" presentationName="品質コントロール測定結果">
+            <methodElementProperty xmi:id="_0HqYvuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_udamwMfDEeSx8tY0xxnZyg" name="人的資源マネジメント計画書" guid="_udamwMfDEeSx8tY0xxnZyg" presentationName="人的資源マネジメント計画書">
+            <methodElementProperty xmi:id="_0HqYv-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_2pXUgMfDEeSx8tY0xxnZyg" name="プロジェクト要員任命" guid="_2pXUgMfDEeSx8tY0xxnZyg" presentationName="プロジェクト要員任命">
+            <methodElementProperty xmi:id="_0HqYwOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_6KxlwMfDEeSx8tY0xxnZyg" name="資源カレンダー" guid="_6KxlwMfDEeSx8tY0xxnZyg" presentationName="資源カレンダー">
+            <methodElementProperty xmi:id="_0HqYweGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_9ldj8MfDEeSx8tY0xxnZyg" name="チームのパフォーマンス評価" guid="_9ldj8MfDEeSx8tY0xxnZyg" presentationName="チームのパフォーマンス評価">
+            <methodElementProperty xmi:id="_0HqYwuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_BdqkkMfEEeSx8tY0xxnZyg" name="コミュニケーション・マネジメント計画書" guid="_BdqkkMfEEeSx8tY0xxnZyg" presentationName="コミュニケーション・マネジメント計画書">
+            <methodElementProperty xmi:id="_0HqYw-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_HH908MfEEeSx8tY0xxnZyg" name="プロジェクト伝達事項" guid="_HH908MfEEeSx8tY0xxnZyg" presentationName="プロジェクト伝達事項">
+            <methodElementProperty xmi:id="_0HqYxOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_Ka6zcMfEEeSx8tY0xxnZyg" name="リスク・マネジメント計画書" guid="_Ka6zcMfEEeSx8tY0xxnZyg" presentationName="リスク・マネジメント計画書">
+            <methodElementProperty xmi:id="_0HqYxeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_QQYyAMfEEeSx8tY0xxnZyg" name="リスク登録簿" guid="_QQYyAMfEEeSx8tY0xxnZyg" presentationName="リスク登録簿">
+            <methodElementProperty xmi:id="_0HqYxuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_TIYS0MfEEeSx8tY0xxnZyg" name="調達マネジメント計画書" guid="_TIYS0MfEEeSx8tY0xxnZyg" presentationName="調達マネジメント計画書">
+            <methodElementProperty xmi:id="_0HqYx-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_Z13egMfEEeSx8tY0xxnZyg" name="調達作業範囲記述書" guid="_Z13egMfEEeSx8tY0xxnZyg" presentationName="調達作業範囲記述書">
+            <methodElementProperty xmi:id="_0HqYyOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_d557sMfEEeSx8tY0xxnZyg" name="調達文書" guid="_d557sMfEEeSx8tY0xxnZyg" presentationName="調達文書">
+            <methodElementProperty xmi:id="_0HqYyeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_ghELMMfEEeSx8tY0xxnZyg" name="発注先選定基準" guid="_ghELMMfEEeSx8tY0xxnZyg" presentationName="発注先選定基準">
+            <methodElementProperty xmi:id="_0HqYyuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_kZIo8MfEEeSx8tY0xxnZyg" name="内外製決定" guid="_kZIo8MfEEeSx8tY0xxnZyg" presentationName="内外製決定">
+            <methodElementProperty xmi:id="_0HqYy-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_n9_20MfEEeSx8tY0xxnZyg" name="選定済み納入者" guid="_n9_20MfEEeSx8tY0xxnZyg" presentationName="選定済み納入者">
+            <methodElementProperty xmi:id="_0HqYzOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_rwhGMMfEEeSx8tY0xxnZyg" name="終結済み調達" guid="_rwhGMMfEEeSx8tY0xxnZyg" presentationName="終結済み調達">
+            <methodElementProperty xmi:id="_0HqYzeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_xJZ2cMfEEeSx8tY0xxnZyg" name="課題ログ" guid="_xJZ2cMfEEeSx8tY0xxnZyg" presentationName="課題ログ">
+            <methodElementProperty xmi:id="_0HqYzuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_Ixwn0MfFEeSx8tY0xxnZyg" name="ローリング・ウェーブ計画法" guid="_Ixwn0MfFEeSx8tY0xxnZyg" presentationName="ローリング・ウェーブ計画法">
+            <methodElementProperty xmi:id="_0HqYz-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_NR2H0MfFEeSx8tY0xxnZyg" name="品質コスト" guid="_NR2H0MfFEeSx8tY0xxnZyg" presentationName="品質コスト">
+            <methodElementProperty xmi:id="_0HqY0OGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_X1u9UMfFEeSx8tY0xxnZyg" name="ベンダー入札の分析" guid="_X1u9UMfFEeSx8tY0xxnZyg" presentationName="ベンダー入札の分析">
+            <methodElementProperty xmi:id="_0HqY0eGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_blMRoMfFEeSx8tY0xxnZyg" name="コスト集約" guid="_blMRoMfFEeSx8tY0xxnZyg" presentationName="コスト集約">
+            <methodElementProperty xmi:id="_0HqY0uGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_fZtsIMfFEeSx8tY0xxnZyg" name="過去の関連性" guid="_fZtsIMfFEeSx8tY0xxnZyg" presentationName="過去の関連性">
+            <methodElementProperty xmi:id="_0HqY0-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_h-mqwMfFEeSx8tY0xxnZyg" name="資金限度額による調整" guid="_h-mqwMfFEeSx8tY0xxnZyg" presentationName="資金限度額による調整">
+            <methodElementProperty xmi:id="_0HqY1OGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_m5DLgMfFEeSx8tY0xxnZyg" name="アーンド・バリュー・マネジメント" guid="_m5DLgMfFEeSx8tY0xxnZyg" presentationName="アーンド・バリュー・マネジメント">
+            <methodElementProperty xmi:id="_0HqY1eGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_qixrQMfFEeSx8tY0xxnZyg" name="予測" guid="_qixrQMfFEeSx8tY0xxnZyg" presentationName="予測">
+            <methodElementProperty xmi:id="_0HqY1uGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_s9VCIMfFEeSx8tY0xxnZyg" name="残作業効率指数（TCPI）" guid="_s9VCIMfFEeSx8tY0xxnZyg" presentationName="残作業効率指数（TCPI）">
+            <methodElementProperty xmi:id="_0HqY1-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_1zPS4MfFEeSx8tY0xxnZyg" name="費用便益分析" guid="_1zPS4MfFEeSx8tY0xxnZyg" presentationName="費用便益分析">
+            <methodElementProperty xmi:id="_0HqY2OGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_9pqckMfFEeSx8tY0xxnZyg" name="QC7つ道具" guid="_9pqckMfFEeSx8tY0xxnZyg" presentationName="QC7つ道具">
+            <methodElementProperty xmi:id="_0HqY2eGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_B6VnkMfGEeSx8tY0xxnZyg" name="実験計画法" guid="_B6VnkMfGEeSx8tY0xxnZyg" presentationName="実験計画法">
+            <methodElementProperty xmi:id="_0HqY2uGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_E82WUMfGEeSx8tY0xxnZyg" name="統計的サンプリング" guid="_E82WUMfGEeSx8tY0xxnZyg" presentationName="統計的サンプリング">
+            <methodElementProperty xmi:id="_0HqY2-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_ToAjMMfGEeSx8tY0xxnZyg" name="その他の品質計画ツール" guid="_ToAjMMfGEeSx8tY0xxnZyg" presentationName="その他の品質計画ツール">
+            <methodElementProperty xmi:id="_0HqY3OGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_WydtAMfGEeSx8tY0xxnZyg" name="品質マネジメントとコントロールのツール" guid="_WydtAMfGEeSx8tY0xxnZyg" presentationName="品質マネジメントとコントロールのツール">
+            <methodElementProperty xmi:id="_0HqY3eGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_dEBKoMfGEeSx8tY0xxnZyg" name="品質監査" guid="_dEBKoMfGEeSx8tY0xxnZyg" presentationName="品質監査">
+            <methodElementProperty xmi:id="_0HqY3uGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_f_CKQMfGEeSx8tY0xxnZyg" name="プロセス分析" guid="_f_CKQMfGEeSx8tY0xxnZyg" presentationName="プロセス分析">
+            <methodElementProperty xmi:id="_0HqY3-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_iUHyUMfGEeSx8tY0xxnZyg" name="承認済み変更要求のレビュー" guid="_iUHyUMfGEeSx8tY0xxnZyg" presentationName="承認済み変更要求のレビュー">
+            <methodElementProperty xmi:id="_0HqY4OGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_nzgzMMfGEeSx8tY0xxnZyg" name="組織図と職位記述書" guid="_nzgzMMfGEeSx8tY0xxnZyg" presentationName="組織図と職位記述書">
+            <methodElementProperty xmi:id="_0HqY4eGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_ufEFMMfGEeSx8tY0xxnZyg" name="ネットワーキング" guid="_ufEFMMfGEeSx8tY0xxnZyg" presentationName="ネットワーキング">
+            <methodElementProperty xmi:id="_0HqY4uGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_xX9k8MfGEeSx8tY0xxnZyg" name="組織論" guid="_xX9k8MfGEeSx8tY0xxnZyg" presentationName="組織論">
+            <methodElementProperty xmi:id="_0HqY4-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_zvk8kMfGEeSx8tY0xxnZyg" name="先行任命" guid="_zvk8kMfGEeSx8tY0xxnZyg" presentationName="先行任命">
+            <methodElementProperty xmi:id="_0HqY5OGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_2fMkgMfGEeSx8tY0xxnZyg" name="交渉" guid="_2fMkgMfGEeSx8tY0xxnZyg" presentationName="交渉">
+            <methodElementProperty xmi:id="_0HqY5eGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_40JCoMfGEeSx8tY0xxnZyg" name="獲得" guid="_40JCoMfGEeSx8tY0xxnZyg" presentationName="獲得">
+            <methodElementProperty xmi:id="_0HqY5uGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_64wlwMfGEeSx8tY0xxnZyg" name="バーチャル・チーム" guid="_64wlwMfGEeSx8tY0xxnZyg" presentationName="バーチャル・チーム">
+            <methodElementProperty xmi:id="_0HqY5-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_9nv7kMfGEeSx8tY0xxnZyg" name="多基準意思決定分析" guid="_9nv7kMfGEeSx8tY0xxnZyg" presentationName="多基準意思決定分析">
+            <methodElementProperty xmi:id="_0HqY6OGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_CV3QgMfHEeSx8tY0xxnZyg" name="人間関係のスキル" guid="_CV3QgMfHEeSx8tY0xxnZyg" presentationName="人間関係のスキル">
+            <methodElementProperty xmi:id="_0HqY6eGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_FIqIQMfHEeSx8tY0xxnZyg" name="トレーニング" guid="_FIqIQMfHEeSx8tY0xxnZyg" presentationName="トレーニング">
+            <methodElementProperty xmi:id="_0HqY6uGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_HTgPMMfHEeSx8tY0xxnZyg" name="チーム形成活動" guid="_HTgPMMfHEeSx8tY0xxnZyg" presentationName="チーム形成活動">
+            <methodElementProperty xmi:id="_0HqY6-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_J_O1oMfHEeSx8tY0xxnZyg" name="行動規範" guid="_J_O1oMfHEeSx8tY0xxnZyg" presentationName="行動規範">
+            <methodElementProperty xmi:id="_0HqY7OGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_MhqWIMfHEeSx8tY0xxnZyg" name="コロケーション" guid="_MhqWIMfHEeSx8tY0xxnZyg" presentationName="コロケーション">
+            <methodElementProperty xmi:id="_0HqY7eGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_PDrm8MfHEeSx8tY0xxnZyg" name="表彰と報奨" guid="_PDrm8MfHEeSx8tY0xxnZyg" presentationName="表彰と報奨">
+            <methodElementProperty xmi:id="_0HqY7uGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_TQx5gMfHEeSx8tY0xxnZyg" name="人事考課ツール" guid="_TQx5gMfHEeSx8tY0xxnZyg" presentationName="人事考課ツール">
+            <methodElementProperty xmi:id="_0HqY7-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_V6siEMfHEeSx8tY0xxnZyg" name="観察と対話" guid="_V6siEMfHEeSx8tY0xxnZyg" presentationName="観察と対話">
+            <methodElementProperty xmi:id="_0HqY8OGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_ZRA9oMfHEeSx8tY0xxnZyg" name="プロジェクトのパフォーマンス評価" guid="_ZRA9oMfHEeSx8tY0xxnZyg" presentationName="プロジェクトのパフォーマンス評価">
+            <methodElementProperty xmi:id="_0HqY8eGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_cl2ygMfHEeSx8tY0xxnZyg" name="コンフリクト・マネジメント" guid="_cl2ygMfHEeSx8tY0xxnZyg" presentationName="コンフリクト・マネジメント">
+            <methodElementProperty xmi:id="_0HqY8uGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_gNSMMMfHEeSx8tY0xxnZyg" name="コミュニケーション要求事項分析" guid="_gNSMMMfHEeSx8tY0xxnZyg" presentationName="コミュニケーション要求事項分析">
+            <methodElementProperty xmi:id="_0HqY8-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_l9kIwMfHEeSx8tY0xxnZyg" name="コミュニケーション技術" guid="_l9kIwMfHEeSx8tY0xxnZyg" presentationName="コミュニケーション技術">
+            <methodElementProperty xmi:id="_0HqY9OGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_ow5MAMfHEeSx8tY0xxnZyg" name="コミュニケーション・モデル" guid="_ow5MAMfHEeSx8tY0xxnZyg" presentationName="コミュニケーション・モデル">
+            <methodElementProperty xmi:id="_0HqY9eGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_sE2QEMfHEeSx8tY0xxnZyg" name="コミュニケーション方法" guid="_sE2QEMfHEeSx8tY0xxnZyg" presentationName="コミュニケーション方法">
+            <methodElementProperty xmi:id="_0HqY9uGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_Sw2m0MfIEeSx8tY0xxnZyg" name="情報マネジメント・システム" guid="_Sw2m0MfIEeSx8tY0xxnZyg" presentationName="情報マネジメント・システム">
+            <methodElementProperty xmi:id="_0HqY9-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_a7uWgMfIEeSx8tY0xxnZyg" name="文書レビュー" guid="_a7uWgMfIEeSx8tY0xxnZyg" presentationName="文書レビュー">
+            <methodElementProperty xmi:id="_0HqY-OGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_hDg0IMfIEeSx8tY0xxnZyg" name="情報収集技法" guid="_hDg0IMfIEeSx8tY0xxnZyg" presentationName="情報収集技法">
+            <methodElementProperty xmi:id="_0HqY-eGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_kx9b0MfIEeSx8tY0xxnZyg" name="チェックリスト分析" guid="_kx9b0MfIEeSx8tY0xxnZyg" presentationName="チェックリスト分析">
+            <methodElementProperty xmi:id="_0HqY-uGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_oWM-oMfIEeSx8tY0xxnZyg" name="前提条件分析" guid="_oWM-oMfIEeSx8tY0xxnZyg" presentationName="前提条件分析">
+            <methodElementProperty xmi:id="_0HqY--GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_sKz4sMfIEeSx8tY0xxnZyg" name="図解の技法" guid="_sKz4sMfIEeSx8tY0xxnZyg" presentationName="図解の技法">
+            <methodElementProperty xmi:id="_0HqY_OGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_vHDAUMfIEeSx8tY0xxnZyg" name="SWOT分析" guid="_vHDAUMfIEeSx8tY0xxnZyg" presentationName="SWOT分析">
+            <methodElementProperty xmi:id="_0HqY_eGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_x6tawMfIEeSx8tY0xxnZyg" name="リスク発生確率・影響度査定" guid="_x6tawMfIEeSx8tY0xxnZyg" presentationName="リスク発生確率・影響度査定">
+            <methodElementProperty xmi:id="_0HqY_uGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_3Ar2EMfIEeSx8tY0xxnZyg" name="発生確率・影響度マトリックス" guid="_3Ar2EMfIEeSx8tY0xxnZyg" presentationName="発生確率・影響度マトリックス">
+            <methodElementProperty xmi:id="_0HqY_-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_8LqtMMfIEeSx8tY0xxnZyg" name="リスク・データ品質査定" guid="_8LqtMMfIEeSx8tY0xxnZyg" presentationName="リスク・データ品質査定">
+            <methodElementProperty xmi:id="_0HqZAOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_At3tEMfJEeSx8tY0xxnZyg" name="リスク区分化" guid="_At3tEMfJEeSx8tY0xxnZyg" presentationName="リスク区分化">
+            <methodElementProperty xmi:id="_0HqZAeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_DzJb8MfJEeSx8tY0xxnZyg" name="リスク緊急度査定" guid="_DzJb8MfJEeSx8tY0xxnZyg" presentationName="リスク緊急度査定">
+            <methodElementProperty xmi:id="_0HqZAuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_He9mYMfJEeSx8tY0xxnZyg" name="データ収集・表現技法" guid="_He9mYMfJEeSx8tY0xxnZyg" presentationName="データ収集・表現技法">
+            <methodElementProperty xmi:id="_0HqZA-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_M7_20MfJEeSx8tY0xxnZyg" name="定量的分析とモデリング技法" guid="_M7_20MfJEeSx8tY0xxnZyg" presentationName="定量的分析とモデリング技法">
+            <methodElementProperty xmi:id="_0HqZBOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_TCgiEMfJEeSx8tY0xxnZyg" name="マイナスのリスクもしくは脅威に対する戦略" guid="_TCgiEMfJEeSx8tY0xxnZyg" presentationName="マイナスのリスクもしくは脅威に対する戦略">
+            <methodElementProperty xmi:id="_0HqZBeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_YBngYMfJEeSx8tY0xxnZyg" name="プラスのリスクもしくは好機に対する戦略" guid="_YBngYMfJEeSx8tY0xxnZyg" presentationName="プラスのリスクもしくは好機に対する戦略">
+            <methodElementProperty xmi:id="_0HqZBuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_dt34kMfJEeSx8tY0xxnZyg" name="コンティンジェンシー対応戦略" guid="_dt34kMfJEeSx8tY0xxnZyg" presentationName="コンティンジェンシー対応戦略">
+            <methodElementProperty xmi:id="_0HqZB-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_ii01UMfJEeSx8tY0xxnZyg" name="リスク再査定" guid="_ii01UMfJEeSx8tY0xxnZyg" presentationName="リスク再査定">
+            <methodElementProperty xmi:id="_0HqZCOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_lQDQkMfJEeSx8tY0xxnZyg" name="リスク監査" guid="_lQDQkMfJEeSx8tY0xxnZyg" presentationName="リスク監査">
+            <methodElementProperty xmi:id="_0HqZCeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_nXPmkMfJEeSx8tY0xxnZyg" name="差異と傾向分析" guid="_nXPmkMfJEeSx8tY0xxnZyg" presentationName="差異と傾向分析">
+            <methodElementProperty xmi:id="_0HqZCuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_rRywkMfJEeSx8tY0xxnZyg" name="技術的パフォーマンスの測定" guid="_rRywkMfJEeSx8tY0xxnZyg" presentationName="技術的パフォーマンスの測定">
+            <methodElementProperty xmi:id="_0HqZC-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_vkwakMfJEeSx8tY0xxnZyg" name="内外製分析" guid="_vkwakMfJEeSx8tY0xxnZyg" presentationName="内外製分析">
+            <methodElementProperty xmi:id="_0HqZDOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_5e2sMMfJEeSx8tY0xxnZyg" name="市場調査" guid="_5e2sMMfJEeSx8tY0xxnZyg" presentationName="市場調査">
+            <methodElementProperty xmi:id="_0HqZDeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_7_nYwMfJEeSx8tY0xxnZyg" name="入札説明会" guid="_7_nYwMfJEeSx8tY0xxnZyg" presentationName="入札説明会">
+            <methodElementProperty xmi:id="_0HqZDuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_-91dYMfJEeSx8tY0xxnZyg" name="プロポーザル評価法" guid="_-91dYMfJEeSx8tY0xxnZyg" presentationName="プロポーザル評価法">
+            <methodElementProperty xmi:id="_0HqZD-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_Cv4ysMfKEeSx8tY0xxnZyg" name="独自見積り" guid="_Cv4ysMfKEeSx8tY0xxnZyg" presentationName="独自見積り">
+            <methodElementProperty xmi:id="_0HqZEOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_Fx3V8MfKEeSx8tY0xxnZyg" name="公告" guid="_Fx3V8MfKEeSx8tY0xxnZyg" presentationName="公告">
+            <methodElementProperty xmi:id="_0HqZEeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_IP10QMfKEeSx8tY0xxnZyg" name="調達交渉" guid="_IP10QMfKEeSx8tY0xxnZyg" presentationName="調達交渉">
+            <methodElementProperty xmi:id="_0HqZEuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_QVwLcMfKEeSx8tY0xxnZyg" name="調達パフォーマンス・レビュー" guid="_QVwLcMfKEeSx8tY0xxnZyg" presentationName="調達パフォーマンス・レビュー">
+            <methodElementProperty xmi:id="_0HqZE-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_UeIWEMfKEeSx8tY0xxnZyg" name="検査と監査" guid="_UeIWEMfKEeSx8tY0xxnZyg" presentationName="検査と監査">
+            <methodElementProperty xmi:id="_0HqZFOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_W_VHgMfKEeSx8tY0xxnZyg" name="パフォーマンス報告" guid="_W_VHgMfKEeSx8tY0xxnZyg" presentationName="パフォーマンス報告">
+            <methodElementProperty xmi:id="_0HqZFeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_Z2zq8MfKEeSx8tY0xxnZyg" name="支払システム" guid="_Z2zq8MfKEeSx8tY0xxnZyg" presentationName="支払システム">
+            <methodElementProperty xmi:id="_0HqZFuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_c8mXMMfKEeSx8tY0xxnZyg" name="クレーム管理" guid="_c8mXMMfKEeSx8tY0xxnZyg" presentationName="クレーム管理">
+            <methodElementProperty xmi:id="_0HqZF-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_gSOPMMfKEeSx8tY0xxnZyg" name="記録マネジメント・システム" guid="_gSOPMMfKEeSx8tY0xxnZyg" presentationName="記録マネジメント・システム">
+            <methodElementProperty xmi:id="_0HqZGOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_lJk_sMfKEeSx8tY0xxnZyg" name="調達監査" guid="_lJk_sMfKEeSx8tY0xxnZyg" presentationName="調達監査">
+            <methodElementProperty xmi:id="_0HqZGeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_n3diQMfKEeSx8tY0xxnZyg" name="ステークホルダー分析" guid="_n3diQMfKEeSx8tY0xxnZyg" presentationName="ステークホルダー分析">
+            <methodElementProperty xmi:id="_0HqZGuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_sdkKsMfKEeSx8tY0xxnZyg" name="マネジメント・スキル" guid="_sdkKsMfKEeSx8tY0xxnZyg" presentationName="マネジメント・スキル">
+            <methodElementProperty xmi:id="_0HqZG-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_vBRgwMfOEeSx8tY0xxnZyg" name="プロジェクト資金要求事項" guid="_vBRgwMfOEeSx8tY0xxnZyg" presentationName="プロジェクト資金要求事項">
+            <methodElementProperty xmi:id="_0HqZHOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_KV2PwMfQEeSx8tY0xxnZyg" name="プロジェクト文書" guid="_KV2PwMfQEeSx8tY0xxnZyg" presentationName="プロジェクト文書" deliveredWorkProducts="_JIuBMMfDEeSx8tY0xxnZyg _kyvYkMfAEeSx8tY0xxnZyg _zA5gYMfAEeSx8tY0xxnZyg _7trqUMfAEeSx8tY0xxnZyg _oUEKQMfAEeSx8tY0xxnZyg _HCtB0MfBEeSx8tY0xxnZyg _dhsUMMe9EeSx8tY0xxnZyg _9ldj8MfDEeSx8tY0xxnZyg _JopwYMfBEeSx8tY0xxnZyg _DjMOAMfBEeSx8tY0xxnZyg _uYnGoMfAEeSx8tY0xxnZyg _vLHjoMeqEeS2DMw6uOlqsQ _GB48gMeqEeS2DMw6uOlqsQ _vBRgwMfOEeSx8tY0xxnZyg _2pXUgMfDEeSx8tY0xxnZyg _q-4KsMfAEeSx8tY0xxnZyg _QQYyAMfEEeSx8tY0xxnZyg _xJZ2cMfEEeSx8tY0xxnZyg _N4VK8MfDEeSx8tY0xxnZyg _RHtaYMeqEeS2DMw6uOlqsQ _6KxlwMfDEeSx8tY0xxnZyg _22wXoMfAEeSx8tY0xxnZyg _Z13egMfEEeSx8tY0xxnZyg _d557sMfEEeSx8tY0xxnZyg _hFvgYMfWEeSx8tY0xxnZyg _ghELMMfEEeSx8tY0xxnZyg _p_PLQMfDEeSx8tY0xxnZyg _mppIcMfDEeSx8tY0xxnZyg _go1ckMfDEeSx8tY0xxnZyg _l4RTsMe0EeS2DMw6uOlqsQ _evaaoMe0EeS2DMw6uOlqsQ _La1nEMe-EeSx8tY0xxnZyg _IkfFAMe-EeSx8tY0xxnZyg _LREeAM3HEeS3G82aSffQPw _1JmbIM3HEeS3G82aSffQPw">
+            <methodElementProperty xmi:id="_0HqZHeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_KFnJcMfSEeSx8tY0xxnZyg" name="組織体の環境要因更新版" guid="_KFnJcMfSEeSx8tY0xxnZyg" presentationName="組織体の環境要因更新版" deliveredWorkProducts="_YbctwMeqEeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0HqZHuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_ULNrAMfTEeSx8tY0xxnZyg" name="プロジェクト計画書更新版" guid="_ULNrAMfTEeSx8tY0xxnZyg" presentationName="プロジェクト計画書更新版">
+            <methodElementProperty xmi:id="_0HqZH-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_hFvgYMfWEeSx8tY0xxnZyg" name="納入候補のプロポーザル" guid="_hFvgYMfWEeSx8tY0xxnZyg" presentationName="納入候補のプロポーザル">
+            <methodElementProperty xmi:id="_0Hq_QOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_RRM0IMfXEeSx8tY0xxnZyg" name="契約変更管理システム" guid="_RRM0IMfXEeSx8tY0xxnZyg" presentationName="契約変更管理システム">
+            <methodElementProperty xmi:id="_0Hq_QeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_KkcCoMw0EeSUqsQ9cDMSxA" name="プロジェクト" guid="_KkcCoMw0EeSUqsQ9cDMSxA" presentationName="プロジェクト" briefDescription="独自のプロダクト、サービス、所産を創造するために実施する有期性のある業務">
+            <methodElementProperty xmi:id="_0Hq_QuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_nBKh8Mw0EeSUqsQ9cDMSxA" name="ポートフォリオ" guid="_nBKh8Mw0EeSUqsQ9cDMSxA" presentationName="ポートフォリオ">
+            <methodElementProperty xmi:id="_0Hq_Q-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_pgYWYMw0EeSUqsQ9cDMSxA" name="プログラム" guid="_pgYWYMw0EeSUqsQ9cDMSxA" presentationName="プログラム">
+            <methodElementProperty xmi:id="_0Hq_ROGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_67oFQMw0EeSUqsQ9cDMSxA" name="スポンサー" guid="_67oFQMw0EeSUqsQ9cDMSxA" presentationName="スポンサー">
+            <methodElementProperty xmi:id="_0Hq_ReGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_9iyUwMw0EeSUqsQ9cDMSxA" name="顧客およびユーザー" guid="_9iyUwMw0EeSUqsQ9cDMSxA" presentationName="顧客およびユーザー">
+            <methodElementProperty xmi:id="_0Hq_RuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_DOmBAMw1EeSUqsQ9cDMSxA" name="納入者" guid="_DOmBAMw1EeSUqsQ9cDMSxA" presentationName="納入者">
+            <methodElementProperty xmi:id="_0Hq_R-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_FcKEwMw1EeSUqsQ9cDMSxA" name="ビジネス・パートナー" guid="_FcKEwMw1EeSUqsQ9cDMSxA" presentationName="ビジネス・パートナー">
+            <methodElementProperty xmi:id="_0Hq_SOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Ig7dUMw1EeSUqsQ9cDMSxA" name="組織のグループ" guid="_Ig7dUMw1EeSUqsQ9cDMSxA" presentationName="組織のグループ">
+            <methodElementProperty xmi:id="_0Hq_SeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_LbcGoMw1EeSUqsQ9cDMSxA" name="機能部門マネジャー" guid="_LbcGoMw1EeSUqsQ9cDMSxA" presentationName="機能部門マネジャー">
+            <methodElementProperty xmi:id="_0Hq_SuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_PNWSAMw1EeSUqsQ9cDMSxA" name="その他のステークホルダー" guid="_PNWSAMw1EeSUqsQ9cDMSxA" presentationName="その他のステークホルダー">
+            <methodElementProperty xmi:id="_0Hq_S-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_txXbsMw6EeSUqsQ9cDMSxA" name="プロセスと手順" guid="_txXbsMw6EeSUqsQ9cDMSxA" presentationName="プロセスと手順">
+            <methodElementProperty xmi:id="_0Hq_TOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-LrGvKzDsefCfegn2nknYvw" href="uma://-LrGvKzDsefCfegn2nknYvw#-LrGvKzDsefCfegn2nknYvw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_JT-cIMw7EeSUqsQ9cDMSxA" name="企業の知識ベース" guid="_JT-cIMw7EeSUqsQ9cDMSxA" presentationName="企業の知識ベース">
+            <methodElementProperty xmi:id="_0Hq_TeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-NBnQVoZXSzxPLlyAhpaaSw" href="uma://-NBnQVoZXSzxPLlyAhpaaSw#-NBnQVoZXSzxPLlyAhpaaSw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_m38G4M0YEeS3G82aSffQPw" name="プロジェクト憲章" guid="_m38G4M0YEeS3G82aSffQPw" presentationName="プロジェクト憲章">
+            <methodElementProperty xmi:id="_0Hq_TuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_B_L-AM06EeS3G82aSffQPw" name="ビジネス・ニーズ" guid="_B_L-AM06EeS3G82aSffQPw" presentationName="ビジネス・ニーズ" briefDescription="組織のビジネス・ニーズは、市場の需要、技術的進歩、法的要件、国家の規制、環境要件などが基になっている。">
+            <methodElementProperty xmi:id="_0Hq_T-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-M3XV07j2Lw6kNkKu6uYn9A" href="uma://-M3XV07j2Lw6kNkKu6uYn9A#-M3XV07j2Lw6kNkKu6uYn9A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Yb_iQM06EeS3G82aSffQPw" name="プロダクト・スコープ記述書" guid="_Yb_iQM06EeS3G82aSffQPw" presentationName="プロダクト・スコープ記述書" briefDescription="プロジェクトが生成するプロダクト、サービス、所産の特性を文書化したもの">
+            <methodElementProperty xmi:id="_0Hq_UOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-smB4G1t-K5NYvh8U_H3S1w" href="uma://-smB4G1t-K5NYvh8U_H3S1w#-smB4G1t-K5NYvh8U_H3S1w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_jWI7oM06EeS3G82aSffQPw" name="戦略計画書" guid="_jWI7oM06EeS3G82aSffQPw" presentationName="戦略計画書" briefDescription="組織の戦略的なビジョン、ゴール、目標を文書化したもので、ハイレベルのミッション記述が含まれることもある。">
+            <methodElementProperty xmi:id="_0Hq_UeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-lB1O5ObQDEh5HC9a1R6Gfg" href="uma://-lB1O5ObQDEh5HC9a1R6Gfg#-lB1O5ObQDEh5HC9a1R6Gfg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_YJ7voM0_EeS3G82aSffQPw" name="変更管理委員会(CCB)" guid="_YJ7voM0_EeS3G82aSffQPw" presentationName="変更管理委員会(CCB)">
+            <methodElementProperty xmi:id="_0Hq_UuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="__IqtwM1CEeS3G82aSffQPw" name="プロジェクト・ベースライン" guid="__IqtwM1CEeS3G82aSffQPw" presentationName="プロジェクト・ベースライン" deliveredWorkProducts="_SD-E8MfDEeSx8tY0xxnZyg _AiD_UMfBEeSx8tY0xxnZyg _1XQlsMe-EeSx8tY0xxnZyg">
+            <methodElementProperty xmi:id="_0Hq_U-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_HXzSYM1DEeS3G82aSffQPw" name="補助計画書" guid="_HXzSYM1DEeS3G82aSffQPw" presentationName="補助計画書" deliveredWorkProducts="_ENZWsMfDEeSx8tY0xxnZyg _BdqkkMfEEeSx8tY0xxnZyg _Xd63EMfBEeSx8tY0xxnZyg _WZTZYMe2EeS2DMw6uOlqsQ _h7XuYMe2EeS2DMw6uOlqsQ _cR__MMfDEeSx8tY0xxnZyg _Ka6zcMfEEeSx8tY0xxnZyg _udamwMfDEeSx8tY0xxnZyg _TIYS0MfEEeSx8tY0xxnZyg _UxvSwMfDEeSx8tY0xxnZyg _ayzJMMe2EeS2DMw6uOlqsQ _zmTy8M1EEeS3G82aSffQPw _56XK8M1EEeS3G82aSffQPw">
+            <methodElementProperty xmi:id="_0Hq_VOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_zmTy8M1EEeS3G82aSffQPw" name="変更マネジメント計画書" guid="_zmTy8M1EEeS3G82aSffQPw" presentationName="変更マネジメント計画書">
+            <methodElementProperty xmi:id="_0Hq_VeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_56XK8M1EEeS3G82aSffQPw" name="コンフィギュレーション・マネジメント計画書" guid="_56XK8M1EEeS3G82aSffQPw" presentationName="コンフィギュレーション・マネジメント計画書">
+            <methodElementProperty xmi:id="_0Hq_VuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_Jha_YM1FEeS3G82aSffQPw" name="WBS" guid="_Jha_YM1FEeS3G82aSffQPw" presentationName="WBS">
+            <methodElementProperty xmi:id="_0Hq_V-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_PNHW4M1FEeS3G82aSffQPw" name="WBS辞書" guid="_PNHW4M1FEeS3G82aSffQPw" presentationName="WBS辞書">
+            <methodElementProperty xmi:id="_0Hq_WOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_LREeAM3HEeS3G82aSffQPw" name="予測" guid="_LREeAM3HEeS3G82aSffQPw" presentationName="予測" deliveredWorkProducts="_U8knkMe0EeS2DMw6uOlqsQ _MefA8Me0EeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0Hq_WeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_1JmbIM3HEeS3G82aSffQPw" name="プロジェクト情報" guid="_1JmbIM3HEeS3G82aSffQPw" presentationName="プロジェクト情報" deliveredWorkProducts="_w8u8IMezEeS2DMw6uOlqsQ _bO6vYMe0EeS2DMw6uOlqsQ _h5KZ0Me0EeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_0Hq_WuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_lNte0M3KEeS3G82aSffQPw" name="費用便益分析" guid="_lNte0M3KEeS3G82aSffQPw" presentationName="費用便益分析">
+            <methodElementProperty xmi:id="_0Hq_W-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_f0lBgM3LEeS3G82aSffQPw" name="契約書" guid="_f0lBgM3LEeS3G82aSffQPw" presentationName="契約書">
+            <methodElementProperty xmi:id="_0Hq_XOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_k0XVQM3LEeS3G82aSffQPw" name="了解覚書事項(MOU)" guid="_k0XVQM3LEeS3G82aSffQPw" presentationName="了解覚書事項(MOU)">
+            <methodElementProperty xmi:id="_0Hq_XeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_vGV7YM3LEeS3G82aSffQPw" name="サービス・レベル合意書(SLA)" guid="_vGV7YM3LEeS3G82aSffQPw" presentationName="サービス・レベル合意書(SLA)">
+            <methodElementProperty xmi:id="_0Hq_XuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="__3XokM3LEeS3G82aSffQPw" name="約定書" guid="__3XokM3LEeS3G82aSffQPw" presentationName="約定書">
+            <methodElementProperty xmi:id="_0Hq_X-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_GggfwM3MEeS3G82aSffQPw" name="同意書" guid="_GggfwM3MEeS3G82aSffQPw" presentationName="同意書">
+            <methodElementProperty xmi:id="_0Hq_YOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Lwa6MM3MEeS3G82aSffQPw" name="口頭での合意" guid="_Lwa6MM3MEeS3G82aSffQPw" presentationName="口頭での合意">
+            <methodElementProperty xmi:id="_0Hq_YeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_SltXAM3MEeS3G82aSffQPw" name="電子メール" guid="_SltXAM3MEeS3G82aSffQPw" presentationName="電子メール">
+            <methodElementProperty xmi:id="_0Hq_YuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_VppCEM3MEeS3G82aSffQPw" name="その他の文書" guid="_VppCEM3MEeS3G82aSffQPw" presentationName="その他の文書">
+            <methodElementProperty xmi:id="_0Hq_Y-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_IwJKoM3NEeS3G82aSffQPw" name="国家標準" guid="_IwJKoM3NEeS3G82aSffQPw" presentationName="国家標準">
+            <methodElementProperty xmi:id="_0Hq_ZOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_NvZ58M3NEeS3G82aSffQPw" name="業界標準" guid="_NvZ58M3NEeS3G82aSffQPw" presentationName="業界標準">
+            <methodElementProperty xmi:id="_0Hq_ZeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_SYiBMM3NEeS3G82aSffQPw" name="規則" guid="_SYiBMM3NEeS3G82aSffQPw" presentationName="規則">
+            <methodElementProperty xmi:id="_0Hq_ZuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Xe3o4M3NEeS3G82aSffQPw" name="組織の文化" guid="_Xe3o4M3NEeS3G82aSffQPw" presentationName="組織の文化">
+            <methodElementProperty xmi:id="_0Hq_Z-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_dCj68M3NEeS3G82aSffQPw" name="市場の状況" guid="_dCj68M3NEeS3G82aSffQPw" presentationName="市場の状況">
+            <methodElementProperty xmi:id="_0Hq_aOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_rzQIEM3NEeS3G82aSffQPw" name="組織の標準プロセス、ポリシー、およびプロセスの定義" guid="_rzQIEM3NEeS3G82aSffQPw" presentationName="組織の標準プロセス、ポリシー、およびプロセスの定義">
+            <methodElementProperty xmi:id="_0Hq_aeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_3muWIM3NEeS3G82aSffQPw" name="テンプレート" guid="_3muWIM3NEeS3G82aSffQPw" presentationName="テンプレート">
+            <methodElementProperty xmi:id="_0Hq_auGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_-sxLwM3NEeS3G82aSffQPw" name="過去の情報と教訓の知識ベース" guid="_-sxLwM3NEeS3G82aSffQPw" presentationName="過去の情報と教訓の知識ベース">
+            <methodElementProperty xmi:id="_0Hq_a-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-5xFEPocQuN3Xqe9VOI8aXQ" href="uma://-5xFEPocQuN3Xqe9VOI8aXQ#-5xFEPocQuN3Xqe9VOI8aXQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_LeW9AM3QEeS3G82aSffQPw" name="特定の業界に特化した市場のプロジェクト・マネジメント知識" guid="_LeW9AM3QEeS3G82aSffQPw" presentationName="特定の業界に特化した市場のプロジェクト・マネジメント知識">
+            <methodElementProperty xmi:id="_0Hq_bOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-j5ehBKUan1i6dNwrLY9nvA" href="uma://-j5ehBKUan1i6dNwrLY9nvA#-j5ehBKUan1i6dNwrLY9nvA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_gQyqIM3QEeS3G82aSffQPw" name="プロジェクト・マネジメント情報システム" guid="_gQyqIM3QEeS3G82aSffQPw" presentationName="プロジェクト・マネジメント情報システム" toolMentors="_lFXskMezEeS2DMw6uOlqsQ" deliveredWorkProducts="_GvlckM3XEeS3G82aSffQPw _KIB_EM3XEeS3G82aSffQPw _k5gdgM3XEeS3G82aSffQPw _tc9sUM3XEeS3G82aSffQPw _yVjy8M3XEeS3G82aSffQPw">
+            <methodElementProperty xmi:id="_0Hq_beGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_GvlckM3XEeS3G82aSffQPw" name="スケジューリング・ソフト" guid="_GvlckM3XEeS3G82aSffQPw" presentationName="スケジューリング・ソフト">
+            <methodElementProperty xmi:id="_0Hq_buGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KIB_EM3XEeS3G82aSffQPw" name="コンフィギュレーション・マネジメント・システム" guid="_KIB_EM3XEeS3G82aSffQPw" presentationName="コンフィギュレーション・マネジメント・システム">
+            <methodElementProperty xmi:id="_0Hq_b-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_k5gdgM3XEeS3G82aSffQPw" name="情報収集・配布システム" guid="_k5gdgM3XEeS3G82aSffQPw" presentationName="情報収集・配布システム">
+            <methodElementProperty xmi:id="_0Hq_cOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_tc9sUM3XEeS3G82aSffQPw" name="他のオンライン自動化システム" guid="_tc9sUM3XEeS3G82aSffQPw" presentationName="他のオンライン自動化システム">
+            <methodElementProperty xmi:id="_0Hq_ceGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_yVjy8M3XEeS3G82aSffQPw" name="Webインタフェース" guid="_yVjy8M3XEeS3G82aSffQPw" presentationName="Webインタフェース">
+            <methodElementProperty xmi:id="_0Hq_cuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_GPE7EM3YEeS3G82aSffQPw" name="組織の構造" guid="_GPE7EM3YEeS3G82aSffQPw" presentationName="組織の構造">
+            <methodElementProperty xmi:id="_0Hq_c-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_MIuPAM3YEeS3G82aSffQPw" name="マネジメント規範" guid="_MIuPAM3YEeS3G82aSffQPw" presentationName="マネジメント規範">
+            <methodElementProperty xmi:id="_0Hq_dOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Q1dD4M3YEeS3G82aSffQPw" name="持続可能性" guid="_Q1dD4M3YEeS3G82aSffQPw" presentationName="持続可能性">
+            <methodElementProperty xmi:id="_0Hq_deGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_WRhD8M3YEeS3G82aSffQPw" name="インフラストラクチャー" guid="_WRhD8M3YEeS3G82aSffQPw" presentationName="インフラストラクチャー">
+            <methodElementProperty xmi:id="_0Hq_duGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-60zCluk8MrYzIM16_8QlQQ" href="uma://-60zCluk8MrYzIM16_8QlQQ#-60zCluk8MrYzIM16_8QlQQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_bWUakM3YEeS3G82aSffQPw" name="人事管理" guid="_bWUakM3YEeS3G82aSffQPw" presentationName="人事管理">
+            <methodElementProperty xmi:id="_0Hq_d-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-cVqOEOUkICkbbMTXiUjFmw" href="uma://-cVqOEOUkICkbbMTXiUjFmw#-cVqOEOUkICkbbMTXiUjFmw"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_gKffHceUEeS2DMw6uOlqsQ" name="CapabilityPatterns" guid="_gKffHceUEeS2DMw6uOlqsQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_mwsvUMeaEeS2DMw6uOlqsQ" name="PMBOK第5版" guid="_mwsvUMeaEeS2DMw6uOlqsQ">
+          <methodElementProperty xmi:id="_0Hq_eOGrEeSYuMZdHnYbhQ" name="pkg_loadCheck" value="true"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_1Em50MeaEeS2DMw6uOlqsQ" href="uma://_1Em50MeaEeS2DMw6uOlqsQ#_1Em50MeaEeS2DMw6uOlqsQ"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_IT8_EMt2EeS8KpeSn38UZA" href="uma://_IT8_EMt2EeS8KpeSn38UZA#_IT8_EMt2EeS8KpeSn38UZA"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_4zEqIMuAEeS8KpeSn38UZA" href="uma://_4zEqIMuAEeS8KpeSn38UZA#_4zEqIMuAEeS8KpeSn38UZA"/>
+        </childPackages>
+      </childPackages>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_gKffHseUEeS2DMw6uOlqsQ" name="DeliveryProcesses" guid="_gKffHseUEeS2DMw6uOlqsQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_hayzoM0WEeS3G82aSffQPw" href="uma://_hayzoM0WEeS3G82aSffQPw#_hayzoM0WEeS3G82aSffQPw"/>
+    </methodPackages>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

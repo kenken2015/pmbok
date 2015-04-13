@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kz5PjElN9ctR6vkeqygu_A" name="ファシリテーション技法,_sAVpsMeqEeS2DMw6uOlqsQ" guid="-kz5PjElN9ctR6vkeqygu_A" changeDate="2015-03-18T16:10:23.717+0900">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        ブレーンストーミング&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        コンフリクトの解消&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        問題解決&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        会議のマネジメント&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

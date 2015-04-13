@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<viewpoint:DAnalysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style" xmi:id="_0XvysOGXEeS3H-nU9jwF-g" selectedViews="_Ced1wOGYEeS3H-nU9jwF-g _CerRIOGYEeS3H-nU9jwF-g _CexXwOGYEeS3H-nU9jwF-g _Ce1pMOGYEeS3H-nU9jwF-g _CjFQAOGYEeS3H-nU9jwF-g" version="8.1.1">
+<viewpoint:DAnalysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style" xmi:id="_0XvysOGXEeS3H-nU9jwF-g" selectedViews="_Ced1wOGYEeS3H-nU9jwF-g _CerRIOGYEeS3H-nU9jwF-g _CexXwOGYEeS3H-nU9jwF-g _Ce1pMOGYEeS3H-nU9jwF-g _CjFQAOGYEeS3H-nU9jwF-g" version="8.1.1">
   <models xmi:type="uml:Model" href="pmbok.uml#_Ccqe8OGYEeS3H-nU9jwF-g"/>
+  <models xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  <models xmi:type="uml:Profile" href="pathmap://UML_PROFILES/Ecore.profile.uml#_0"/>
+  <models xmi:type="uml:Profile" href="pathmap://UML_PROFILES/Standard.profile.uml#_0"/>
+  <models xmi:type="ecore:EPackage" href="http://www.eclipse.org/uml2/5.0.0/UML/Profile/Standard#/"/>
+  <models xmi:type="ecore:EPackage" href="http://www.eclipse.org/uml2/5.0.0/UML#/"/>
+  <models xmi:type="ecore:EPackage" href="http://www.eclipse.org/emf/2002/Ecore#/"/>
+  <models xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#_0"/>
+  <models xmi:type="uml:Model" href="pathmap://UML_METAMODELS/UML.metamodel.uml#_0"/>
+  <models xmi:type="uml:Model" href="pathmap://UML_METAMODELS/Ecore.metamodel.uml#_0"/>
   <ownedViews xmi:type="viewpoint:DRepresentationContainer" xmi:id="_Ced1wOGYEeS3H-nU9jwF-g" initialized="true">
     <ownedRepresentations xmi:type="diagram:DSemanticDiagram" xmi:id="_78OT8OGbEeS3H-nU9jwF-g" name="PMBOKModel Use Case Diagram">
       <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_78PiEOGbEeS3H-nU9jwF-g" source="GMF_DIAGRAMS">
@@ -58,7 +67,7 @@
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bbbs0uGcEeS3H-nU9jwF-g"/>
             </children>
             <styles xmi:type="notation:ShapeStyle" xmi:id="_bbaeseGcEeS3H-nU9jwF-g" fontColor="7490599" fontName="メイリオ"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bbaesuGcEeS3H-nU9jwF-g" x="380" y="136" width="140" height="47"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bbaesuGcEeS3H-nU9jwF-g" x="375" y="135" width="140" height="47"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_dYczIOGcEeS3H-nU9jwF-g" type="2001" element="_dXRHYOGcEeS3H-nU9jwF-g">
             <children xmi:type="notation:Node" xmi:id="_dYdaMOGcEeS3H-nU9jwF-g" type="5002">
@@ -244,6 +253,9 @@
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_bZUM8OGcEeS3H-nU9jwF-g" name="計画" outgoingEdges="_rMBQsOGcEeS3H-nU9jwF-g" width="14" height="14" resizeKind="NSEW">
         <target xmi:type="uml:UseCase" href="pmbok.uml#_bZSXwOGcEeS3H-nU9jwF-g"/>
         <semanticElements xmi:type="uml:UseCase" href="pmbok.uml#_bZSXwOGcEeS3H-nU9jwF-g"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
         <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_bZU0AOGcEeS3H-nU9jwF-g" labelSize="9" showIcon="false" labelPosition="node" workspacePath="/org.obeonetwork.dsl.uml2.design/images/use_case.svg">
           <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_bZU0AeGcEeS3H-nU9jwF-g" red="39" green="76" blue="114"/>
           <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_UseCase']/@style"/>
