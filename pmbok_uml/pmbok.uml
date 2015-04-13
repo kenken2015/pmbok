@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_Ccqe8OGYEeS3H-nU9jwF-g" name="PMBOKModel">
+  <packagedElement xmi:type="uml:Package" xmi:id="_YYSowOGYEeS3H-nU9jwF-g" name="知識エリア">
+    <packagedElement xmi:type="uml:Package" xmi:id="_bYTdIOGYEeS3H-nU9jwF-g" name="04．プロジェクト統合マネジメント">
+      <packagedElement xmi:type="uml:Class" xmi:id="_XEkFIOGaEeS3H-nU9jwF-g" name="04.03．プロジェクト作業の指揮・マネジメント"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_cziaIOGaEeS3H-nU9jwF-g" name="04.02．プロジェクト・マネジメント計画"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_H58foOGbEeS3H-nU9jwF-g" name="04.02．プロジェクト・マネジメント計画"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_KY084OGbEeS3H-nU9jwF-g" name="04.04．プロジェクト作業の監視・コントロール"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_XHJCkOGbEeS3H-nU9jwF-g" name="04.05．統合変更管理"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_bm058OGbEeS3H-nU9jwF-g" name="04.06．プロジェクトやフェーズの終結"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_ffHycOGhEeS3H-nU9jwF-g" name="プロジェクト作業範囲記述書sTo04.01．プロジェクト憲章作成s" memberEnd="_ffIZgOGhEeS3H-nU9jwF-g _ffK1wOGhEeS3H-nU9jwF-g" navigableOwnedEnd="_ffIZgOGhEeS3H-nU9jwF-g _ffK1wOGhEeS3H-nU9jwF-g">
+        <ownedEnd xmi:id="_ffIZgOGhEeS3H-nU9jwF-g" name="プロジェクト作業範囲記述書s" type="_arS3EOGhEeS3H-nU9jwF-g" association="_ffHycOGhEeS3H-nU9jwF-g">
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_ffKOsOGhEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_ffKOseGhEeS3H-nU9jwF-g" value="*"/>
+        </ownedEnd>
+        <ownedEnd xmi:id="_ffK1wOGhEeS3H-nU9jwF-g" name="04.01．プロジェクト憲章作成s" type="_K4YcIOGaEeS3H-nU9jwF-g" association="_ffHycOGhEeS3H-nU9jwF-g">
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_ffLc0OGhEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_ffLc0eGhEeS3H-nU9jwF-g" value="*"/>
+        </ownedEnd>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_vBD2UOGhEeS3H-nU9jwF-g" name="プロジェクト作業範囲記述書sToビジネス・ニーズs" memberEnd="_vBD2UeGhEeS3H-nU9jwF-g _vBFrgOGhEeS3H-nU9jwF-g" navigableOwnedEnd="_vBFrgOGhEeS3H-nU9jwF-g">
+        <ownedEnd xmi:id="_vBD2UeGhEeS3H-nU9jwF-g" name="プロジェクト作業範囲記述書s" type="_arS3EOGhEeS3H-nU9jwF-g" aggregation="shared" association="_vBD2UOGhEeS3H-nU9jwF-g">
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_vBFEcOGhEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_vBFEceGhEeS3H-nU9jwF-g" value="*"/>
+        </ownedEnd>
+        <ownedEnd xmi:id="_vBFrgOGhEeS3H-nU9jwF-g" name="ビジネス・ニーズs" type="_oiTDIOGhEeS3H-nU9jwF-g" association="_vBD2UOGhEeS3H-nU9jwF-g">
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_vBGSkOGhEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_vBGSkeGhEeS3H-nU9jwF-g" value="*"/>
+        </ownedEnd>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_WdzGcOGiEeS3H-nU9jwF-g" name="ビジネス・ケースsToビジネス・ニーズs" memberEnd="_WdztgOGiEeS3H-nU9jwF-g _Wd1iseGiEeS3H-nU9jwF-g" navigableOwnedEnd="_Wd1iseGiEeS3H-nU9jwF-g">
+        <ownedEnd xmi:id="_WdztgOGiEeS3H-nU9jwF-g" name="ビジネス・ケースs" type="_O93xMOGiEeS3H-nU9jwF-g" aggregation="shared" association="_WdzGcOGiEeS3H-nU9jwF-g">
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Wd07oOGiEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Wd1isOGiEeS3H-nU9jwF-g" value="*"/>
+        </ownedEnd>
+        <ownedEnd xmi:id="_Wd1iseGiEeS3H-nU9jwF-g" name="ビジネス・ニーズs" type="_oiTDIOGhEeS3H-nU9jwF-g" association="_WdzGcOGiEeS3H-nU9jwF-g">
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Wd2w0OGiEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Wd2w0eGiEeS3H-nU9jwF-g" value="*"/>
+        </ownedEnd>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_XRtPoOGiEeS3H-nU9jwF-g" name="ビジネス・ケースsTo費用便益分析s" memberEnd="_XRt2sOGiEeS3H-nU9jwF-g _XRw6AOGiEeS3H-nU9jwF-g" navigableOwnedEnd="_XRw6AOGiEeS3H-nU9jwF-g">
+        <ownedEnd xmi:id="_XRt2sOGiEeS3H-nU9jwF-g" name="ビジネス・ケースs" type="_O93xMOGiEeS3H-nU9jwF-g" aggregation="shared" association="_XRtPoOGiEeS3H-nU9jwF-g">
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_XRvr4OGiEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_XRwS8OGiEeS3H-nU9jwF-g" value="*"/>
+        </ownedEnd>
+        <ownedEnd xmi:id="_XRw6AOGiEeS3H-nU9jwF-g" name="費用便益分析s" type="_L0KOQOGiEeS3H-nU9jwF-g" association="_XRtPoOGiEeS3H-nU9jwF-g">
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_XRyIIOGiEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_XRyvMOGiEeS3H-nU9jwF-g" value="*"/>
+        </ownedEnd>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_5hujQOGiEeS3H-nU9jwF-g" name="プロジェクト作業範囲記述書sToプロダクト・スコープ記述書s" memberEnd="_5hvxYOGiEeS3H-nU9jwF-g _5h0C0OGiEeS3H-nU9jwF-g" navigableOwnedEnd="_5h0C0OGiEeS3H-nU9jwF-g">
+        <ownedEnd xmi:id="_5hvxYOGiEeS3H-nU9jwF-g" name="プロジェクト作業範囲記述書s" type="_arS3EOGhEeS3H-nU9jwF-g" aggregation="shared" association="_5hujQOGiEeS3H-nU9jwF-g">
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_5hyNoOGiEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_5hzbwOGiEeS3H-nU9jwF-g" value="*"/>
+        </ownedEnd>
+        <ownedEnd xmi:id="_5h0C0OGiEeS3H-nU9jwF-g" name="プロダクト・スコープ記述書s" type="_a9834OGiEeS3H-nU9jwF-g" association="_5hujQOGiEeS3H-nU9jwF-g">
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_5h14AOGiEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_5h2fEOGiEeS3H-nU9jwF-g" value="*"/>
+        </ownedEnd>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_dmRvkOGjEeS3H-nU9jwF-g" name="プロジェクト作業範囲記述書sTo戦略計画書s" memberEnd="_dmSWoOGjEeS3H-nU9jwF-g _dmUy4OGjEeS3H-nU9jwF-g" navigableOwnedEnd="_dmUy4OGjEeS3H-nU9jwF-g">
+        <ownedEnd xmi:id="_dmSWoOGjEeS3H-nU9jwF-g" name="プロジェクト作業範囲記述書s" type="_arS3EOGhEeS3H-nU9jwF-g" aggregation="shared" association="_dmRvkOGjEeS3H-nU9jwF-g">
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_dmTkwOGjEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_dmTkweGjEeS3H-nU9jwF-g" value="*"/>
+        </ownedEnd>
+        <ownedEnd xmi:id="_dmUy4OGjEeS3H-nU9jwF-g" name="戦略計画書s" type="_STfMsOGjEeS3H-nU9jwF-g" association="_dmRvkOGjEeS3H-nU9jwF-g">
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_dmVZ8OGjEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_dmWBAOGjEeS3H-nU9jwF-g" value="*"/>
+        </ownedEnd>
+      </packagedElement>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_kVO74OGYEeS3H-nU9jwF-g" name="05．プロジェクト・スコープ・マネジメント">
+      <packagedElement xmi:type="uml:Class" xmi:id="_sv3egOGbEeS3H-nU9jwF-g" name="05.01．スコープ・マネジメント計画"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_qW--wOGfEeS3H-nU9jwF-g" name="05.02．要求事項収集"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_vbJcMOGfEeS3H-nU9jwF-g" name="05.03．スコープ定義"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_4KX2IOGfEeS3H-nU9jwF-g" name="05.04．WBS作成"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_-xBaAOGfEeS3H-nU9jwF-g" name="05.05．スコープ妥当性確認"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_HFGJAOGgEeS3H-nU9jwF-g" name="05.06．スコープ・コントロール"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_uggdEOGYEeS3H-nU9jwF-g" name="06．プロジェクト・タイム・マネジメント"/>
+    <packagedElement xmi:type="uml:Package" xmi:id="_30B24OGYEeS3H-nU9jwF-g" name="07．プロジェクト・コスト・マネジメント"/>
+    <packagedElement xmi:type="uml:Package" xmi:id="_8YgusOGYEeS3H-nU9jwF-g" name="08．プロジェクト品質マネジメント"/>
+    <packagedElement xmi:type="uml:Package" xmi:id="_BlX1IOGZEeS3H-nU9jwF-g" name="09．プロジェクト人的資源マネジメント"/>
+    <packagedElement xmi:type="uml:Package" xmi:id="_Hm22cOGZEeS3H-nU9jwF-g" name="10．プロジェクト・コミュニケーション・マネジメント"/>
+    <packagedElement xmi:type="uml:Package" xmi:id="_L8PiUOGZEeS3H-nU9jwF-g" name="11．プロジェクト・リスク・マネジメント"/>
+    <packagedElement xmi:type="uml:Package" xmi:id="_SJ27IOGZEeS3H-nU9jwF-g" name="12．プロジェクト調達マネジメント"/>
+    <packagedElement xmi:type="uml:Package" xmi:id="_dtevUOGZEeS3H-nU9jwF-g" name="13．プロジェクト・ステークホルダー・マネジメント"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="_jKqJsOGZEeS3H-nU9jwF-g" name="プロジェクト・マネジメント・プロセス群">
+    <packagedElement xmi:type="uml:Package" xmi:id="_p3jfgOGZEeS3H-nU9jwF-g" name="01．立上げプロセス群"/>
+    <packagedElement xmi:type="uml:Package" xmi:id="_t58W4OGZEeS3H-nU9jwF-g" name="02．計画プロセス群"/>
+    <packagedElement xmi:type="uml:Package" xmi:id="_wlmE0OGZEeS3H-nU9jwF-g" name="03．実行プロセス群"/>
+    <packagedElement xmi:type="uml:Package" xmi:id="_zLX0QOGZEeS3H-nU9jwF-g" name="04．監視・コントロール・プロセス群"/>
+    <packagedElement xmi:type="uml:Package" xmi:id="_2eApsOGZEeS3H-nU9jwF-g" name="05．終結プロセス群"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_8snPEOGbEeS3H-nU9jwF-g" name="プロジェクト・スポンサー"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_JPQQQOGcEeS3H-nU9jwF-g" name="プロジェクト・マネージャ"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_LnItoOGcEeS3H-nU9jwF-g" name="プロジェクト・チーム・メンバー"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_WZDYEOGcEeS3H-nU9jwF-g" name="立上げ"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_ah75AOGcEeS3H-nU9jwF-g" memberEnd="_ah75AeGcEeS3H-nU9jwF-g _ah8gEOGcEeS3H-nU9jwF-g">
+    <name xsi:nil="true"/>
+    <ownedEnd xmi:id="_ah75AeGcEeS3H-nU9jwF-g" type="_8snPEOGbEeS3H-nU9jwF-g" association="_ah75AOGcEeS3H-nU9jwF-g"/>
+    <ownedEnd xmi:id="_ah8gEOGcEeS3H-nU9jwF-g" type="_WZDYEOGcEeS3H-nU9jwF-g" association="_ah75AOGcEeS3H-nU9jwF-g"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_bZSXwOGcEeS3H-nU9jwF-g" name="計画"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_dXP5QOGcEeS3H-nU9jwF-g" name="実行"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_eyUwIOGcEeS3H-nU9jwF-g" name="監視・コントロール"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_hflnoOGcEeS3H-nU9jwF-g" name="終結"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_rL1qgOGcEeS3H-nU9jwF-g" memberEnd="_rL2RkOGcEeS3H-nU9jwF-g _rL3fsOGcEeS3H-nU9jwF-g">
+    <name xsi:nil="true"/>
+    <ownedEnd xmi:id="_rL2RkOGcEeS3H-nU9jwF-g" type="_JPQQQOGcEeS3H-nU9jwF-g" association="_rL1qgOGcEeS3H-nU9jwF-g"/>
+    <ownedEnd xmi:id="_rL3fsOGcEeS3H-nU9jwF-g" type="_bZSXwOGcEeS3H-nU9jwF-g" association="_rL1qgOGcEeS3H-nU9jwF-g"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_sz50gOGcEeS3H-nU9jwF-g" memberEnd="_sz6bkOGcEeS3H-nU9jwF-g _sz830OGcEeS3H-nU9jwF-g">
+    <name xsi:nil="true"/>
+    <ownedEnd xmi:id="_sz6bkOGcEeS3H-nU9jwF-g" type="_LnItoOGcEeS3H-nU9jwF-g" association="_sz50gOGcEeS3H-nU9jwF-g"/>
+    <ownedEnd xmi:id="_sz830OGcEeS3H-nU9jwF-g" type="_dXP5QOGcEeS3H-nU9jwF-g" association="_sz50gOGcEeS3H-nU9jwF-g"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_uLVhgOGcEeS3H-nU9jwF-g" memberEnd="_uLWIkOGcEeS3H-nU9jwF-g _uLX9wOGcEeS3H-nU9jwF-g">
+    <name xsi:nil="true"/>
+    <ownedEnd xmi:id="_uLWIkOGcEeS3H-nU9jwF-g" type="_JPQQQOGcEeS3H-nU9jwF-g" association="_uLVhgOGcEeS3H-nU9jwF-g"/>
+    <ownedEnd xmi:id="_uLX9wOGcEeS3H-nU9jwF-g" type="_eyUwIOGcEeS3H-nU9jwF-g" association="_uLVhgOGcEeS3H-nU9jwF-g"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_v8iZYOGcEeS3H-nU9jwF-g" memberEnd="_v8jAcOGcEeS3H-nU9jwF-g _v8mDwOGcEeS3H-nU9jwF-g">
+    <name xsi:nil="true"/>
+    <ownedEnd xmi:id="_v8jAcOGcEeS3H-nU9jwF-g" type="_JPQQQOGcEeS3H-nU9jwF-g" association="_v8iZYOGcEeS3H-nU9jwF-g"/>
+    <ownedEnd xmi:id="_v8mDwOGcEeS3H-nU9jwF-g" type="_WZDYEOGcEeS3H-nU9jwF-g" association="_v8iZYOGcEeS3H-nU9jwF-g"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_wy7O0OGcEeS3H-nU9jwF-g" memberEnd="_wy714OGcEeS3H-nU9jwF-g _wy9EAOGcEeS3H-nU9jwF-g">
+    <name xsi:nil="true"/>
+    <ownedEnd xmi:id="_wy714OGcEeS3H-nU9jwF-g" type="_JPQQQOGcEeS3H-nU9jwF-g" association="_wy7O0OGcEeS3H-nU9jwF-g"/>
+    <ownedEnd xmi:id="_wy9EAOGcEeS3H-nU9jwF-g" type="_hflnoOGcEeS3H-nU9jwF-g" association="_wy7O0OGcEeS3H-nU9jwF-g"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="_gGsBYOGkEeS3H-nU9jwF-g" name="プロジェクト関連文書">
+    <packagedElement xmi:type="uml:Package" xmi:id="_lx_XUOGkEeS3H-nU9jwF-g" name="プロジェクト文書">
+      <packagedElement xmi:type="uml:Class" xmi:id="_K4YcIOGaEeS3H-nU9jwF-g" name="04.01．プロジェクト憲章作成">
+        <nestedClassifier xmi:type="uml:Class" xmi:id="_X8tb0OGfEeS3H-nU9jwF-g" name="Class1"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_oiTDIOGhEeS3H-nU9jwF-g" name="ビジネス・ニーズ">
+        <ownedAttribute xmi:id="_1IvmQOGhEeS3H-nU9jwF-g" name="市場の需要">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_1IxbcOGhEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_1IyCgOGhEeS3H-nU9jwF-g" value="1"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_5NrbUOGhEeS3H-nU9jwF-g" name="技術的進歩">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_5NspcOGhEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_5NspceGhEeS3H-nU9jwF-g" value="1"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_8iUb4OGhEeS3H-nU9jwF-g" name="法的要件">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8iVC8OGhEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_8iVqAOGhEeS3H-nU9jwF-g" value="1"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="__0q9cOGhEeS3H-nU9jwF-g" name="国家の規制">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="__0rkgOGhEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="__0rkgeGhEeS3H-nU9jwF-g" value="1"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_Dp0DAOGiEeS3H-nU9jwF-g" name="環境要件">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Dp1RIOGiEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Dp14MOGiEeS3H-nU9jwF-g" value="1"/>
+        </ownedAttribute>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_L0KOQOGiEeS3H-nU9jwF-g" name="費用便益分析"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_O93xMOGiEeS3H-nU9jwF-g" name="ビジネス・ケース"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_a9834OGiEeS3H-nU9jwF-g" name="プロダクト・スコープ記述書">
+        <ownedAttribute xmi:id="_w4NIsOGiEeS3H-nU9jwF-g" name="プロジェクトが生成するプロダクト、サービス、所産の特性">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_w4NvwOGiEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_w4OW0OGiEeS3H-nU9jwF-g" value="1"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_EmnNAOGjEeS3H-nU9jwF-g" name="生成するプロダクト、サービス、所産とプロジェクトが取り組むビジネス・ニーズとの関係">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_EmpCMOGjEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_EmqQUOGjEeS3H-nU9jwF-g" value="1"/>
+        </ownedAttribute>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_STfMsOGjEeS3H-nU9jwF-g" name="戦略計画書">
+        <ownedAttribute xmi:id="_VjK0wOGjEeS3H-nU9jwF-g" name="組織の戦略的ビジョン">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_VjMC4OGjEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_VjMp8OGjEeS3H-nU9jwF-g" value="1"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_YvauUOGjEeS3H-nU9jwF-g" name="組織のゴール">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_YvbVYOGjEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Yvb8cOGjEeS3H-nU9jwF-g" value="1"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_eMZUYOGjEeS3H-nU9jwF-g" name="組織の目標">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_eMaigOGjEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_eMaigeGjEeS3H-nU9jwF-g" value="1"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_m2xDgOGjEeS3H-nU9jwF-g" name="組織のハイレベルのミッション記述">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_m2yRoOGjEeS3H-nU9jwF-g"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_m2yRoeGjEeS3H-nU9jwF-g" value="1"/>
+        </ownedAttribute>
+      </packagedElement>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_oq5eIOGkEeS3H-nU9jwF-g" name="プロジェクト・マネジメント計画書"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_arS3EOGhEeS3H-nU9jwF-g" name="プロジェクト作業範囲記述書"/>
+  </packagedElement>
+</uml:Model>
