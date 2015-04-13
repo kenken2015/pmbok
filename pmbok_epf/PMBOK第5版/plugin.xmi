@@ -90,7 +90,11 @@
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffFceUEeS2DMw6uOlqsQ" name="RoleSets" guid="_gKffFceUEeS2DMw6uOlqsQ"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffFseUEeS2DMw6uOlqsQ" name="WP Types" guid="_gKffFseUEeS2DMw6uOlqsQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffFseUEeS2DMw6uOlqsQ" name="WP Types" guid="_gKffFseUEeS2DMw6uOlqsQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_1rLfwOGzEeS74f3MAj5tFA" name="プロジェクト・マネジメント計画書" guid="_1rLfwOGzEeS74f3MAj5tFA" presentationName="プロジェクト・マネジメント計画書" workProducts="_Jha_YM1FEeS3G82aSffQPw _PNHW4M1FEeS3G82aSffQPw _SD-E8MfDEeSx8tY0xxnZyg _ENZWsMfDEeSx8tY0xxnZyg _BdqkkMfEEeSx8tY0xxnZyg _56XK8M1EEeS3G82aSffQPw _AiD_UMfBEeSx8tY0xxnZyg _Xd63EMfBEeSx8tY0xxnZyg _1XQlsMe-EeSx8tY0xxnZyg _WZTZYMe2EeS2DMw6uOlqsQ _h7XuYMe2EeS2DMw6uOlqsQ _VEGnYMe-EeSx8tY0xxnZyg _CggrAMerEeS2DMw6uOlqsQ _0b6YwMezEeS2DMw6uOlqsQ _cR__MMfDEeSx8tY0xxnZyg _Ka6zcMfEEeSx8tY0xxnZyg _udamwMfDEeSx8tY0xxnZyg _TIYS0MfEEeSx8tY0xxnZyg _UxvSwMfDEeSx8tY0xxnZyg _zmTy8M1EEeS3G82aSffQPw _ayzJMMe2EeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_Eq940OG0EeS74f3MAj5tFA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffF8eUEeS2DMw6uOlqsQ" name="Tools" guid="_gKffF8eUEeS2DMw6uOlqsQ"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffGMeUEeS2DMw6uOlqsQ" name="StandardCategories" guid="_gKffGMeUEeS2DMw6uOlqsQ"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffGceUEeS2DMw6uOlqsQ" name="CustomCategories" guid="_gKffGceUEeS2DMw6uOlqsQ">
@@ -1038,5 +1042,6 @@
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_gKffHseUEeS2DMw6uOlqsQ" name="DeliveryProcesses" guid="_gKffHseUEeS2DMw6uOlqsQ">
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_hayzoM0WEeS3G82aSffQPw" href="uma://_hayzoM0WEeS3G82aSffQPw#_hayzoM0WEeS3G82aSffQPw"/>
     </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_tll4sOGzEeS74f3MAj5tFA" name="ProcessContributions" guid="_tll4sOGzEeS74f3MAj5tFA"/>
   </org.eclipse.epf.uma:MethodPlugin>
 </xmi:XMI>
