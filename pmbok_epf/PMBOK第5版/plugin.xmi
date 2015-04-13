@@ -30,6 +30,7 @@
     <resourceDescriptors xmi:id="_0JuNsOGrEeSYuMZdHnYbhQ" id="_IT8_EMt2EeS8KpeSn38UZA" uri="capabilitypatterns/知識エリア/model.xmi"/>
     <resourceDescriptors xmi:id="_0KBvsOGrEeSYuMZdHnYbhQ" id="_4zEqIMuAEeS8KpeSn38UZA" uri="capabilitypatterns/プロジェクト・マネジメント・プロセス/model.xmi"/>
     <resourceDescriptors xmi:id="_0KSOYOGrEeSYuMZdHnYbhQ" id="_hayzoM0WEeS3G82aSffQPw" uri="deliveryprocesses/PMBOK第5版/model.xmi"/>
+    <resourceDescriptors xmi:id="_nnC10OHjEeS9tM-tU0H2EQ" id="-c4bsdl1q5BiHqm_AZMw4Bg" uri="tasks/04.3．プロジェクト作業の指揮・マネジメント.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_gKffEMeUEeS2DMw6uOlqsQ" name="PMBOK第5版" guid="_gKffEMeUEeS2DMw6uOlqsQ">
     <methodElementProperty xmi:id="_0HpxIOGrEeSYuMZdHnYbhQ" name="plugin_synFree" value="true"/>
@@ -73,19 +74,19 @@
           <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_km1EEM0REeSUqsQ9cDMSxA" name="02．プロジェクト・マネジメント・プロセス群" guid="_km1EEM0REeSUqsQ9cDMSxA" presentationName="02．プロジェクト・マネジメント・プロセス群" disciplines="_puYzwM0REeSUqsQ9cDMSxA _ufaSwM0REeSUqsQ9cDMSxA _y4aTUM0REeSUqsQ9cDMSxA _11zRgM0REeSUqsQ9cDMSxA _7dkyUM0REeSUqsQ9cDMSxA">
             <methodElementProperty xmi:id="_0HpxLOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_puYzwM0REeSUqsQ9cDMSxA" name="01．立上げプロセス群" guid="_puYzwM0REeSUqsQ9cDMSxA" presentationName="01．立上げプロセス群" tasks="_h-eTQMeWEeS2DMw6uOlqsQ _679qkMehEeS2DMw6uOlqsQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_puYzwM0REeSUqsQ9cDMSxA" name="01．立上げプロセス群" guid="_puYzwM0REeSUqsQ9cDMSxA" presentationName="01．立上げプロセス群" briefDescription="プロジェクトやプロジェクトの新しいフェーズを開始する認可を得ることにより、新規プロジェクトや既存プロジェクトの新しいフェーズを明確に定めるために実施するプロセス群" tasks="_h-eTQMeWEeS2DMw6uOlqsQ _679qkMehEeS2DMw6uOlqsQ">
             <methodElementProperty xmi:id="_0HpxLeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_ufaSwM0REeSUqsQ9cDMSxA" name="02．計画プロセス群" guid="_ufaSwM0REeSUqsQ9cDMSxA" presentationName="02．計画プロセス群" tasks="_mhlAIMeYEeS2DMw6uOlqsQ _z-uaYMebEeS2DMw6uOlqsQ _5xg4YMebEeS2DMw6uOlqsQ _-BYyIMebEeS2DMw6uOlqsQ _BPlzgMecEeS2DMw6uOlqsQ _yuZwEMedEeS2DMw6uOlqsQ _4grQsMedEeS2DMw6uOlqsQ _AOMWAMeeEeS2DMw6uOlqsQ _KbFAwMeeEeS2DMw6uOlqsQ _SiCg0MeeEeS2DMw6uOlqsQ _XJemAMeeEeS2DMw6uOlqsQ _tP98AMeeEeS2DMw6uOlqsQ _3s28MMefEeS2DMw6uOlqsQ _8qvygMefEeS2DMw6uOlqsQ _GuuY4MegEeS2DMw6uOlqsQ _Yow8kMegEeS2DMw6uOlqsQ _4rbn0MegEeS2DMw6uOlqsQ _Oa3vwMehEeS2DMw6uOlqsQ _SmPkAMehEeS2DMw6uOlqsQ _W4n_MMehEeS2DMw6uOlqsQ _cBunAMehEeS2DMw6uOlqsQ _f53WMMehEeS2DMw6uOlqsQ _n1M1EMehEeS2DMw6uOlqsQ __GcuAMehEeS2DMw6uOlqsQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_ufaSwM0REeSUqsQ9cDMSxA" name="02．計画プロセス群" guid="_ufaSwM0REeSUqsQ9cDMSxA" presentationName="02．計画プロセス群" briefDescription="プロジェクトのスコープを確定し、目標を洗練し、プロジェクトが取り組むべき目標の達成に必要な一連の行動を規定するために必要なプロセス群" tasks="_mhlAIMeYEeS2DMw6uOlqsQ _z-uaYMebEeS2DMw6uOlqsQ _5xg4YMebEeS2DMw6uOlqsQ _-BYyIMebEeS2DMw6uOlqsQ _BPlzgMecEeS2DMw6uOlqsQ _yuZwEMedEeS2DMw6uOlqsQ _4grQsMedEeS2DMw6uOlqsQ _AOMWAMeeEeS2DMw6uOlqsQ _KbFAwMeeEeS2DMw6uOlqsQ _SiCg0MeeEeS2DMw6uOlqsQ _XJemAMeeEeS2DMw6uOlqsQ _tP98AMeeEeS2DMw6uOlqsQ _3s28MMefEeS2DMw6uOlqsQ _8qvygMefEeS2DMw6uOlqsQ _GuuY4MegEeS2DMw6uOlqsQ _Yow8kMegEeS2DMw6uOlqsQ _4rbn0MegEeS2DMw6uOlqsQ _Oa3vwMehEeS2DMw6uOlqsQ _SmPkAMehEeS2DMw6uOlqsQ _W4n_MMehEeS2DMw6uOlqsQ _cBunAMehEeS2DMw6uOlqsQ _f53WMMehEeS2DMw6uOlqsQ _n1M1EMehEeS2DMw6uOlqsQ __GcuAMehEeS2DMw6uOlqsQ">
             <methodElementProperty xmi:id="_0HpxLuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_y4aTUM0REeSUqsQ9cDMSxA" name="03．実行プロセス群" guid="_y4aTUM0REeSUqsQ9cDMSxA" presentationName="03．実行プロセス群" tasks="_2wzyYMeZEeS2DMw6uOlqsQ _NgPI8MegEeS2DMw6uOlqsQ _dhxS4MegEeS2DMw6uOlqsQ _jNCMkMegEeS2DMw6uOlqsQ _ocod8MegEeS2DMw6uOlqsQ _-tvIgMegEeS2DMw6uOlqsQ _sxDrEMehEeS2DMw6uOlqsQ _EFwgoMeiEeS2DMw6uOlqsQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_y4aTUM0REeSUqsQ9cDMSxA" name="03．実行プロセス群" guid="_y4aTUM0REeSUqsQ9cDMSxA" presentationName="03．実行プロセス群" briefDescription="プロジェクトの仕様を満足し、プロジェクト・マネジメント計画書に規定された作業を完了するように実施するプロセス群" tasks="_2wzyYMeZEeS2DMw6uOlqsQ _NgPI8MegEeS2DMw6uOlqsQ _dhxS4MegEeS2DMw6uOlqsQ _jNCMkMegEeS2DMw6uOlqsQ _ocod8MegEeS2DMw6uOlqsQ _-tvIgMegEeS2DMw6uOlqsQ _sxDrEMehEeS2DMw6uOlqsQ _EFwgoMeiEeS2DMw6uOlqsQ">
             <methodElementProperty xmi:id="_0HpxL-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_11zRgM0REeSUqsQ9cDMSxA" name="04．監視・コントロール・プロセス群" guid="_11zRgM0REeSUqsQ9cDMSxA" presentationName="04．監視・コントロール・プロセス群" tasks="_dv4ZoMebEeS2DMw6uOlqsQ _i1hdwMebEeS2DMw6uOlqsQ _KhCwwMecEeS2DMw6uOlqsQ _bdq_EMeeEeS2DMw6uOlqsQ _CUV4QMegEeS2DMw6uOlqsQ _TdaSAMegEeS2DMw6uOlqsQ _GVrKQMehEeS2DMw6uOlqsQ _jlsHsMehEeS2DMw6uOlqsQ _xiTzkMehEeS2DMw6uOlqsQ _K-RQkMeiEeS2DMw6uOlqsQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_11zRgM0REeSUqsQ9cDMSxA" name="04．監視・コントロール・プロセス群" guid="_11zRgM0REeSUqsQ9cDMSxA" presentationName="04．監視・コントロール・プロセス群" briefDescription="プロジェクトの進捗やパフォーマンスを追跡し、レビューし、統制し、計画の変更が必要な分野を特定し、それらの変更を開始するために必要なプロセス群" tasks="_dv4ZoMebEeS2DMw6uOlqsQ _i1hdwMebEeS2DMw6uOlqsQ _KhCwwMecEeS2DMw6uOlqsQ _bdq_EMeeEeS2DMw6uOlqsQ _CUV4QMegEeS2DMw6uOlqsQ _TdaSAMegEeS2DMw6uOlqsQ _GVrKQMehEeS2DMw6uOlqsQ _jlsHsMehEeS2DMw6uOlqsQ _xiTzkMehEeS2DMw6uOlqsQ _K-RQkMeiEeS2DMw6uOlqsQ">
             <methodElementProperty xmi:id="_0HpxMOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_7dkyUM0REeSUqsQ9cDMSxA" name="05．終結プロセス群" guid="_7dkyUM0REeSUqsQ9cDMSxA" presentationName="05．終結プロセス群" tasks="_mt7SsMebEeS2DMw6uOlqsQ _3WagMMehEeS2DMw6uOlqsQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_7dkyUM0REeSUqsQ9cDMSxA" name="05．終結プロセス群" guid="_7dkyUM0REeSUqsQ9cDMSxA" presentationName="05．終結プロセス群" briefDescription="プロジェクトやフェーズを公式に完結するために、すべてのプロジェクト・マネジメント・プロセス群のすべてのアクティビティを終了するために実施するプロセス群" tasks="_mt7SsMebEeS2DMw6uOlqsQ _3WagMMehEeS2DMw6uOlqsQ">
             <methodElementProperty xmi:id="_0HpxMeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
@@ -94,12 +95,15 @@
           <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_1rLfwOGzEeS74f3MAj5tFA" name="プロジェクト・マネジメント計画書" guid="_1rLfwOGzEeS74f3MAj5tFA" presentationName="プロジェクト・マネジメント計画書" workProducts="_Jha_YM1FEeS3G82aSffQPw _PNHW4M1FEeS3G82aSffQPw _SD-E8MfDEeSx8tY0xxnZyg _ENZWsMfDEeSx8tY0xxnZyg _BdqkkMfEEeSx8tY0xxnZyg _56XK8M1EEeS3G82aSffQPw _AiD_UMfBEeSx8tY0xxnZyg _Xd63EMfBEeSx8tY0xxnZyg _1XQlsMe-EeSx8tY0xxnZyg _WZTZYMe2EeS2DMw6uOlqsQ _h7XuYMe2EeS2DMw6uOlqsQ _VEGnYMe-EeSx8tY0xxnZyg _CggrAMerEeS2DMw6uOlqsQ _0b6YwMezEeS2DMw6uOlqsQ _cR__MMfDEeSx8tY0xxnZyg _Ka6zcMfEEeSx8tY0xxnZyg _udamwMfDEeSx8tY0xxnZyg _TIYS0MfEEeSx8tY0xxnZyg _UxvSwMfDEeSx8tY0xxnZyg _zmTy8M1EEeS3G82aSffQPw _ayzJMMe2EeS2DMw6uOlqsQ">
             <methodElementProperty xmi:id="_Eq940OG0EeS74f3MAj5tFA" name="me_edited" value="true"/>
           </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_MZDfsOHREeS9tM-tU0H2EQ" name="プロジェクト文書" guid="_MZDfsOHREeS9tM-tU0H2EQ" presentationName="プロジェクト文書" workProducts="_JIuBMMfDEeSx8tY0xxnZyg _kyvYkMfAEeSx8tY0xxnZyg _zA5gYMfAEeSx8tY0xxnZyg _7trqUMfAEeSx8tY0xxnZyg _oUEKQMfAEeSx8tY0xxnZyg _U8knkMe0EeS2DMw6uOlqsQ">
+            <methodElementProperty xmi:id="_PvsEUOHREeS9tM-tU0H2EQ" name="me_edited" value="true"/>
+          </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffF8eUEeS2DMw6uOlqsQ" name="Tools" guid="_gKffF8eUEeS2DMw6uOlqsQ"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffGMeUEeS2DMw6uOlqsQ" name="StandardCategories" guid="_gKffGMeUEeS2DMw6uOlqsQ"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffGceUEeS2DMw6uOlqsQ" name="CustomCategories" guid="_gKffGceUEeS2DMw6uOlqsQ">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffGseUEeS2DMw6uOlqsQ" name="Hidden" guid="_gKffGseUEeS2DMw6uOlqsQ">
-            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_gKffG8eUEeS2DMw6uOlqsQ" name="カスタム・カテゴリー" guid="_gKffG8eUEeS2DMw6uOlqsQ" categorizedElements="_p1dREMerEeS2DMw6uOlqsQ"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_gKffG8eUEeS2DMw6uOlqsQ" name="Custom Categories" guid="_gKffG8eUEeS2DMw6uOlqsQ" categorizedElements="_p1dREMerEeS2DMw6uOlqsQ"/>
           </childPackages>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_p1dREMerEeS2DMw6uOlqsQ" name="プロジェクト・マネジメント・プロセス群" guid="_p1dREMerEeS2DMw6uOlqsQ" presentationName="プロジェクト・マネジメント・プロセス群" categorizedElements="_xyuCkMerEeS2DMw6uOlqsQ _0Ynt0MerEeS2DMw6uOlqsQ _YrUD0MesEeS2DMw6uOlqsQ _cJtdUMesEeS2DMw6uOlqsQ _g0-SkMesEeS2DMw6uOlqsQ">
             <methodElementProperty xmi:id="_0HpxMuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
@@ -134,6 +138,7 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2wzyYMeZEeS2DMw6uOlqsQ" name="04.3．プロジェクト作業の指揮・マネジメント" guid="_2wzyYMeZEeS2DMw6uOlqsQ" presentationName="04.3．プロジェクト作業の指揮・マネジメント" briefDescription="プロジェクトの目標を達成するために、プロジェクト・マネジメント計画書で定義された作業をリードし、遂行し、また承認済み変更を適用するプロセス" mandatoryInput="_CggrAMerEeS2DMw6uOlqsQ _fbEcMMezEeS2DMw6uOlqsQ _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ" output="_0b6YwMezEeS2DMw6uOlqsQ _EuYhsMe0EeS2DMw6uOlqsQ _w8u8IMezEeS2DMw6uOlqsQ _vJgrAMezEeS2DMw6uOlqsQ _evaaoMe0EeS2DMw6uOlqsQ" toolMentors="_lFXskMezEeS2DMw6uOlqsQ _sm3IEMezEeS2DMw6uOlqsQ _oRPhwMeqEeS2DMw6uOlqsQ">
             <methodElementProperty xmi:id="_0HqYNOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-c4bsdl1q5BiHqm_AZMw4Bg" href="uma://-c4bsdl1q5BiHqm_AZMw4Bg#-c4bsdl1q5BiHqm_AZMw4Bg"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_dv4ZoMebEeS2DMw6uOlqsQ" name="04.4．プロジェクト作業の監視・コントロール" guid="_dv4ZoMebEeS2DMw6uOlqsQ" presentationName="04.4．プロジェクト作業の監視・コントロール" briefDescription="プロジェクト・マネジメント計画書に定義されたパフォーマンス目標を達成するため、進捗を追跡し、レビューし、かつ報告するプロセス&#xD;&#xA;" mandatoryInput="_U8knkMe0EeS2DMw6uOlqsQ _MefA8Me0EeS2DMw6uOlqsQ _CggrAMerEeS2DMw6uOlqsQ _bO6vYMe0EeS2DMw6uOlqsQ _b__ykMeqEeS2DMw6uOlqsQ _YbctwMeqEeS2DMw6uOlqsQ _XxatwMe0EeS2DMw6uOlqsQ" output="_EuYhsMe0EeS2DMw6uOlqsQ _0b6YwMezEeS2DMw6uOlqsQ _h5KZ0Me0EeS2DMw6uOlqsQ _evaaoMe0EeS2DMw6uOlqsQ">
             <methodElementProperty xmi:id="_0HqYNeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
@@ -282,7 +287,7 @@
             <methodElementProperty xmi:id="_0HqYZOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
             <presentation xmi:id="-HwlbdGcXSKs8-m72vo_fpw" href="uma://-HwlbdGcXSKs8-m72vo_fpw#-HwlbdGcXSKs8-m72vo_fpw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_b__ykMeqEeS2DMw6uOlqsQ" name="組織のプロセス資産" guid="_b__ykMeqEeS2DMw6uOlqsQ" presentationName="組織のプロセス資産" briefDescription="母体組織によって使われる特有の計画書、プロセス、方針書、手順書および知識ベース&#xD;&#xA;" guidelines="_txXbsMw6EeSUqsQ9cDMSxA _JT-cIMw7EeSUqsQ9cDMSxA" deliveredWorkProducts="_rzQIEM3NEeS3G82aSffQPw _3muWIM3NEeS3G82aSffQPw _-sxLwM3NEeS3G82aSffQPw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_b__ykMeqEeS2DMw6uOlqsQ" name="組織のプロセス資産" guid="_b__ykMeqEeS2DMw6uOlqsQ" presentationName="組織のプロセス資産" briefDescription="母体組織によって使われる特有の計画書、プロセス、方針書、手順書および知識ベース&#xD;&#xA;" guidelines="_txXbsMw6EeSUqsQ9cDMSxA _JT-cIMw7EeSUqsQ9cDMSxA" deliveredWorkProducts="_rzQIEM3NEeS3G82aSffQPw _3muWIM3NEeS3G82aSffQPw _-sxLwM3NEeS3G82aSffQPw _6lxnIOHXEeS9tM-tU0H2EQ _MmxHYOHYEeS9tM-tU0H2EQ _H8IHwOHZEeS9tM-tU0H2EQ _4faTYOHeEeS9tM-tU0H2EQ _1qQOsOHfEeS9tM-tU0H2EQ">
             <methodElementProperty xmi:id="_0HqYZeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
             <presentation xmi:id="-P8W670kagikv25fp5Zdu3A" href="uma://-P8W670kagikv25fp5Zdu3A#-P8W670kagikv25fp5Zdu3A"/>
           </contentElements>
@@ -1027,6 +1032,33 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_bWUakM3YEeS3G82aSffQPw" name="人事管理" guid="_bWUakM3YEeS3G82aSffQPw" presentationName="人事管理">
             <methodElementProperty xmi:id="_0Hq_d-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
             <presentation xmi:id="-cVqOEOUkICkbbMTXiUjFmw" href="uma://-cVqOEOUkICkbbMTXiUjFmw#-cVqOEOUkICkbbMTXiUjFmw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_6lxnIOHXEeS9tM-tU0H2EQ" name="標準化されたガイドライン、作業指示書、プロポーザル評価基準、パフォーマンス測定基準" guid="_6lxnIOHXEeS9tM-tU0H2EQ" presentationName="標準化されたガイドライン、作業指示書、プロポーザル評価基準、パフォーマンス測定基準">
+            <methodElementProperty xmi:id="_D3ecAOHYEeS9tM-tU0H2EQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_MmxHYOHYEeS9tM-tU0H2EQ" name="プロジェクト・マネジメント計画書のテンプレート" guid="_MmxHYOHYEeS9tM-tU0H2EQ" presentationName="プロジェクト・マネジメント計画書のテンプレート" deliveredWorkProducts="_VRgC4OHYEeS9tM-tU0H2EQ _kw-ooOHYEeS9tM-tU0H2EQ">
+            <methodElementProperty xmi:id="_RMyQQOHYEeS9tM-tU0H2EQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_VRgC4OHYEeS9tM-tU0H2EQ" name="プロジェクト固有のニーズを満たすために、組織の標準プロセスをテーラリングするためにのガイドラインや標準" guid="_VRgC4OHYEeS9tM-tU0H2EQ" presentationName="プロジェクト固有のニーズを満たすために、組織の標準プロセスをテーラリングするためにのガイドラインや標準" isAbstract="true">
+            <methodElementProperty xmi:id="_eQFugOHYEeS9tM-tU0H2EQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_kw-ooOHYEeS9tM-tU0H2EQ" name="プロダクトの妥当性確認や受入基準などのプロジェクト終結のためのガイドラインおよび要求事項" guid="_kw-ooOHYEeS9tM-tU0H2EQ" presentationName="プロダクトの妥当性確認や受入基準などのプロジェクト終結のためのガイドラインおよび要求事項">
+            <methodElementProperty xmi:id="_sOI9wOHYEeS9tM-tU0H2EQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_H8IHwOHZEeS9tM-tU0H2EQ" name="変更管理手順" guid="_H8IHwOHZEeS9tM-tU0H2EQ" presentationName="変更管理手順" deliveredWorkProducts="_q_HJYOHZEeS9tM-tU0H2EQ">
+            <methodElementProperty xmi:id="_LS7rgOHZEeS9tM-tU0H2EQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_q_HJYOHZEeS9tM-tU0H2EQ" name="企業の公式な標準、方針、計画、プロジェクト文書島を変更する際の手順、および変更の承認と妥当性検証の方法" guid="_q_HJYOHZEeS9tM-tU0H2EQ" presentationName="企業の公式な標準、方針、計画、プロジェクト文書島を変更する際の手順、および変更の承認と妥当性検証の方法">
+            <methodElementProperty xmi:id="_Su_bIOHeEeS9tM-tU0H2EQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_4faTYOHeEeS9tM-tU0H2EQ" name="以前のプロジェクトのプロジェクト・ファイル" guid="_4faTYOHeEeS9tM-tU0H2EQ" presentationName="以前のプロジェクトのプロジェクト・ファイル">
+            <methodElementProperty xmi:id="_9Ma1EOHeEeS9tM-tU0H2EQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_1qQOsOHfEeS9tM-tU0H2EQ" name="コンフィギュレーション･マネジメントの知識ベース" guid="_1qQOsOHfEeS9tM-tU0H2EQ" presentationName="コンフィギュレーション･マネジメントの知識ベース" deliveredWorkProducts="_OmUqsOHgEeS9tM-tU0H2EQ">
+            <methodElementProperty xmi:id="_72YZwOHfEeS9tM-tU0H2EQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_OmUqsOHgEeS9tM-tU0H2EQ" name="組織におけるすべての公式の標準、方針、手順、プロジェクト文書等に関するすべてのバージョンとベースライン" guid="_OmUqsOHgEeS9tM-tU0H2EQ" presentationName="組織におけるすべての公式の標準、方針、手順、プロジェクト文書等に関するすべてのバージョンとベースライン">
+            <methodElementProperty xmi:id="_ZKudkOHgEeS9tM-tU0H2EQ" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
       </childPackages>
