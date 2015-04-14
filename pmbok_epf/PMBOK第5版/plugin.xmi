@@ -61,6 +61,7 @@
     <resourceDescriptors xmi:id="_5o0NAOJCEeSWTd-bR83GpA" id="-5k-vIF9IuciUT_uu64Abww" uri="guidances/templates/ステークホルダー登録簿.xmi"/>
     <resourceDescriptors xmi:id="_BnJVgOJDEeSWTd-bR83GpA" id="-u1XWIvLU4stsUPYZDKuM_A" uri="guidances/templates/ステークホルダー・マネジメント計画書.xmi"/>
     <resourceDescriptors xmi:id="_EujLUOJDEeSWTd-bR83GpA" id="-ltzudj_3LZxmGYoJgSHM9Q" uri="guidances/templates/課題ログ.xmi"/>
+    <resourceDescriptors xmi:id="_UR4UUOJZEeSWTd-bR83GpA" id="-emCoqSWZS2bOAVqxeQFfNg" uri="workproducts/要求事項文書.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_gKffEMeUEeS2DMw6uOlqsQ" name="PMBOK第5版" guid="_gKffEMeUEeS2DMw6uOlqsQ">
     <methodElementProperty xmi:id="_0HpxIOGrEeSYuMZdHnYbhQ" name="plugin_synFree" value="true"/>
@@ -124,6 +125,9 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffFseUEeS2DMw6uOlqsQ" name="WP Types" guid="_gKffFseUEeS2DMw6uOlqsQ">
           <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_1rLfwOGzEeS74f3MAj5tFA" name="プロジェクト・マネジメント計画書" guid="_1rLfwOGzEeS74f3MAj5tFA" presentationName="プロジェクト・マネジメント計画書" workProducts="_Jha_YM1FEeS3G82aSffQPw _PNHW4M1FEeS3G82aSffQPw _SD-E8MfDEeSx8tY0xxnZyg _ENZWsMfDEeSx8tY0xxnZyg _BdqkkMfEEeSx8tY0xxnZyg _56XK8M1EEeS3G82aSffQPw _AiD_UMfBEeSx8tY0xxnZyg _Xd63EMfBEeSx8tY0xxnZyg _1XQlsMe-EeSx8tY0xxnZyg _WZTZYMe2EeS2DMw6uOlqsQ _h7XuYMe2EeS2DMw6uOlqsQ _VEGnYMe-EeSx8tY0xxnZyg _CggrAMerEeS2DMw6uOlqsQ _0b6YwMezEeS2DMw6uOlqsQ _cR__MMfDEeSx8tY0xxnZyg _Ka6zcMfEEeSx8tY0xxnZyg _udamwMfDEeSx8tY0xxnZyg _TIYS0MfEEeSx8tY0xxnZyg _UxvSwMfDEeSx8tY0xxnZyg _zmTy8M1EEeS3G82aSffQPw _ayzJMMe2EeS2DMw6uOlqsQ">
             <methodElementProperty xmi:id="_Eq940OG0EeS74f3MAj5tFA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_XFeB0OJPEeSWTd-bR83GpA" name="プロジェクト文書" guid="_XFeB0OJPEeSWTd-bR83GpA" presentationName="プロジェクト文書">
+            <methodElementProperty xmi:id="_aQyuUOJPEeSWTd-bR83GpA" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gKffF8eUEeS2DMw6uOlqsQ" name="Tools" guid="_gKffF8eUEeS2DMw6uOlqsQ"/>
@@ -444,13 +448,14 @@
           <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_Gl6fgMe-EeSx8tY0xxnZyg" name="要素分解" guid="_Gl6fgMe-EeSx8tY0xxnZyg" presentationName="要素分解">
             <methodElementProperty xmi:id="_0HqYjeGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_IkfFAMe-EeSx8tY0xxnZyg" name="要求事項文書" guid="_IkfFAMe-EeSx8tY0xxnZyg" presentationName="要求事項文書">
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_IkfFAMe-EeSx8tY0xxnZyg" name="要求事項文書" guid="_IkfFAMe-EeSx8tY0xxnZyg" presentationName="要求事項文書" briefDescription="個々の要求事項がプロジェクトのビジネス・ニーズを満たす方法について記述する">
             <methodElementProperty xmi:id="_0HqYjuGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-emCoqSWZS2bOAVqxeQFfNg" href="uma://-emCoqSWZS2bOAVqxeQFfNg#-emCoqSWZS2bOAVqxeQFfNg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_La1nEMe-EeSx8tY0xxnZyg" name="要求事項トレーサビリティ・マトリックス" guid="_La1nEMe-EeSx8tY0xxnZyg" presentationName="要求事項トレーサビリティ・マトリックス" templates="_-EsNUOJAEeSWTd-bR83GpA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_La1nEMe-EeSx8tY0xxnZyg" name="要求事項トレーサビリティ・マトリックス" guid="_La1nEMe-EeSx8tY0xxnZyg" presentationName="要求事項トレーサビリティ・マトリックス" briefDescription="プロダクトの要求事項の発生元と、その要求事項を満足する成果物の結びつきを格子状に示したもの" templates="_-EsNUOJAEeSWTd-bR83GpA">
             <methodElementProperty xmi:id="_0HqYj-GrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_VEGnYMe-EeSx8tY0xxnZyg" name="プロジェクト・スコープ記述書" guid="_VEGnYMe-EeSx8tY0xxnZyg" presentationName="プロジェクト・スコープ記述書">
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_VEGnYMe-EeSx8tY0xxnZyg" name="プロジェクト・スコープ記述書" guid="_VEGnYMe-EeSx8tY0xxnZyg" presentationName="プロジェクト・スコープ記述書" templates="_IJTF0OJBEeSWTd-bR83GpA" deliveredWorkProducts="_Yb_iQM06EeS3G82aSffQPw _vJgrAMezEeS2DMw6uOlqsQ">
             <methodElementProperty xmi:id="_0HqYkOGrEeSYuMZdHnYbhQ" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_nbQk4Me-EeSx8tY0xxnZyg" name="検査" guid="_nbQk4Me-EeSx8tY0xxnZyg" presentationName="検査">
