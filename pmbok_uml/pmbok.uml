@@ -96,40 +96,15 @@
   <packagedElement xmi:type="uml:Actor" xmi:id="_8snPEOGbEeS3H-nU9jwF-g" name="プロジェクト・スポンサー"/>
   <packagedElement xmi:type="uml:Actor" xmi:id="_JPQQQOGcEeS3H-nU9jwF-g" name="プロジェクト・マネージャ"/>
   <packagedElement xmi:type="uml:Actor" xmi:id="_LnItoOGcEeS3H-nU9jwF-g" name="プロジェクト・チーム・メンバー"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_WZDYEOGcEeS3H-nU9jwF-g" name="立上げ"/>
   <packagedElement xmi:type="uml:Association" xmi:id="_ah75AOGcEeS3H-nU9jwF-g" memberEnd="_ah75AeGcEeS3H-nU9jwF-g _ah8gEOGcEeS3H-nU9jwF-g">
     <name xsi:nil="true"/>
     <ownedEnd xmi:id="_ah75AeGcEeS3H-nU9jwF-g" type="_8snPEOGbEeS3H-nU9jwF-g" association="_ah75AOGcEeS3H-nU9jwF-g"/>
-    <ownedEnd xmi:id="_ah8gEOGcEeS3H-nU9jwF-g" type="_WZDYEOGcEeS3H-nU9jwF-g" association="_ah75AOGcEeS3H-nU9jwF-g"/>
-  </packagedElement>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_bZSXwOGcEeS3H-nU9jwF-g" name="計画"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_dXP5QOGcEeS3H-nU9jwF-g" name="実行"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_eyUwIOGcEeS3H-nU9jwF-g" name="監視・コントロール"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_hflnoOGcEeS3H-nU9jwF-g" name="終結"/>
-  <packagedElement xmi:type="uml:Association" xmi:id="_rL1qgOGcEeS3H-nU9jwF-g" memberEnd="_rL2RkOGcEeS3H-nU9jwF-g _rL3fsOGcEeS3H-nU9jwF-g">
-    <name xsi:nil="true"/>
-    <ownedEnd xmi:id="_rL2RkOGcEeS3H-nU9jwF-g" type="_JPQQQOGcEeS3H-nU9jwF-g" association="_rL1qgOGcEeS3H-nU9jwF-g"/>
-    <ownedEnd xmi:id="_rL3fsOGcEeS3H-nU9jwF-g" type="_bZSXwOGcEeS3H-nU9jwF-g" association="_rL1qgOGcEeS3H-nU9jwF-g"/>
+    <ownedEnd xmi:id="_ah8gEOGcEeS3H-nU9jwF-g" association="_ah75AOGcEeS3H-nU9jwF-g"/>
   </packagedElement>
   <packagedElement xmi:type="uml:Association" xmi:id="_sz50gOGcEeS3H-nU9jwF-g" memberEnd="_sz6bkOGcEeS3H-nU9jwF-g _sz830OGcEeS3H-nU9jwF-g">
     <name xsi:nil="true"/>
     <ownedEnd xmi:id="_sz6bkOGcEeS3H-nU9jwF-g" type="_LnItoOGcEeS3H-nU9jwF-g" association="_sz50gOGcEeS3H-nU9jwF-g"/>
-    <ownedEnd xmi:id="_sz830OGcEeS3H-nU9jwF-g" type="_dXP5QOGcEeS3H-nU9jwF-g" association="_sz50gOGcEeS3H-nU9jwF-g"/>
-  </packagedElement>
-  <packagedElement xmi:type="uml:Association" xmi:id="_uLVhgOGcEeS3H-nU9jwF-g" memberEnd="_uLWIkOGcEeS3H-nU9jwF-g _uLX9wOGcEeS3H-nU9jwF-g">
-    <name xsi:nil="true"/>
-    <ownedEnd xmi:id="_uLWIkOGcEeS3H-nU9jwF-g" type="_JPQQQOGcEeS3H-nU9jwF-g" association="_uLVhgOGcEeS3H-nU9jwF-g"/>
-    <ownedEnd xmi:id="_uLX9wOGcEeS3H-nU9jwF-g" type="_eyUwIOGcEeS3H-nU9jwF-g" association="_uLVhgOGcEeS3H-nU9jwF-g"/>
-  </packagedElement>
-  <packagedElement xmi:type="uml:Association" xmi:id="_v8iZYOGcEeS3H-nU9jwF-g" memberEnd="_v8jAcOGcEeS3H-nU9jwF-g _v8mDwOGcEeS3H-nU9jwF-g">
-    <name xsi:nil="true"/>
-    <ownedEnd xmi:id="_v8jAcOGcEeS3H-nU9jwF-g" type="_JPQQQOGcEeS3H-nU9jwF-g" association="_v8iZYOGcEeS3H-nU9jwF-g"/>
-    <ownedEnd xmi:id="_v8mDwOGcEeS3H-nU9jwF-g" type="_WZDYEOGcEeS3H-nU9jwF-g" association="_v8iZYOGcEeS3H-nU9jwF-g"/>
-  </packagedElement>
-  <packagedElement xmi:type="uml:Association" xmi:id="_wy7O0OGcEeS3H-nU9jwF-g" memberEnd="_wy714OGcEeS3H-nU9jwF-g _wy9EAOGcEeS3H-nU9jwF-g">
-    <name xsi:nil="true"/>
-    <ownedEnd xmi:id="_wy714OGcEeS3H-nU9jwF-g" type="_JPQQQOGcEeS3H-nU9jwF-g" association="_wy7O0OGcEeS3H-nU9jwF-g"/>
-    <ownedEnd xmi:id="_wy9EAOGcEeS3H-nU9jwF-g" type="_hflnoOGcEeS3H-nU9jwF-g" association="_wy7O0OGcEeS3H-nU9jwF-g"/>
+    <ownedEnd xmi:id="_sz830OGcEeS3H-nU9jwF-g" association="_sz50gOGcEeS3H-nU9jwF-g"/>
   </packagedElement>
   <packagedElement xmi:type="uml:Package" xmi:id="_gGsBYOGkEeS3H-nU9jwF-g" name="プロジェクト関連文書">
     <packagedElement xmi:type="uml:Package" xmi:id="_lx_XUOGkEeS3H-nU9jwF-g" name="プロジェクト文書">
@@ -203,4 +178,59 @@
     <packagedElement xmi:type="uml:Package" xmi:id="_oq5eIOGkEeS3H-nU9jwF-g" name="プロジェクト・マネジメント計画書"/>
     <packagedElement xmi:type="uml:Class" xmi:id="_arS3EOGhEeS3H-nU9jwF-g" name="プロジェクト作業範囲記述書"/>
   </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_riVQ8OI2EeSrQt_h9gxdAA" memberEnd="_riV4AOI2EeSrQt_h9gxdAA _riV4AeI2EeSrQt_h9gxdAA">
+    <name xsi:nil="true"/>
+    <ownedEnd xmi:id="_riV4AOI2EeSrQt_h9gxdAA" type="_JPQQQOGcEeS3H-nU9jwF-g" association="_riVQ8OI2EeSrQt_h9gxdAA"/>
+    <ownedEnd xmi:id="_riV4AeI2EeSrQt_h9gxdAA" association="_riVQ8OI2EeSrQt_h9gxdAA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="_PKL6MOI3EeSrQt_h9gxdAA" name="プロジェクト管理"/>
+  <packagedElement xmi:type="uml:Package" xmi:id="_mvwn4OI4EeSrQt_h9gxdAA"/>
+  <packagedElement xmi:type="uml:Collaboration" xmi:id="_xU3lYOI4EeSrQt_h9gxdAA" name="プロジェクト管理" useCase="_dsR_wOI5EeSrQt_h9gxdAA _fOEioOI5EeSrQt_h9gxdAA _hF18kOI5EeSrQt_h9gxdAA _jNu2IOI5EeSrQt_h9gxdAA _lf5GAOI5EeSrQt_h9gxdAA"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_dsR_wOI5EeSrQt_h9gxdAA" name="立上げ" subject="_xU3lYOI4EeSrQt_h9gxdAA"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_fOEioOI5EeSrQt_h9gxdAA" name="計画" subject="_xU3lYOI4EeSrQt_h9gxdAA"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_hF18kOI5EeSrQt_h9gxdAA" name="実行" subject="_xU3lYOI4EeSrQt_h9gxdAA">
+    <include xmi:id="_xlPuQOI5EeSrQt_h9gxdAA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_jNu2IOI5EeSrQt_h9gxdAA" name="監視・コントロール" subject="_xU3lYOI4EeSrQt_h9gxdAA"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_lf5GAOI5EeSrQt_h9gxdAA" name="終結" subject="_xU3lYOI4EeSrQt_h9gxdAA"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_o_L3YOI5EeSrQt_h9gxdAA" memberEnd="_o_L3YeI5EeSrQt_h9gxdAA _o_MecOI5EeSrQt_h9gxdAA">
+    <name xsi:nil="true"/>
+    <ownedEnd xmi:id="_o_L3YeI5EeSrQt_h9gxdAA" type="_JPQQQOGcEeS3H-nU9jwF-g" association="_o_L3YOI5EeSrQt_h9gxdAA"/>
+    <ownedEnd xmi:id="_o_MecOI5EeSrQt_h9gxdAA" type="_dsR_wOI5EeSrQt_h9gxdAA" association="_o_L3YOI5EeSrQt_h9gxdAA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_prEtAOI5EeSrQt_h9gxdAA" memberEnd="_prFUEOI5EeSrQt_h9gxdAA _prF7IOI5EeSrQt_h9gxdAA">
+    <name xsi:nil="true"/>
+    <ownedEnd xmi:id="_prFUEOI5EeSrQt_h9gxdAA" type="_JPQQQOGcEeS3H-nU9jwF-g" association="_prEtAOI5EeSrQt_h9gxdAA"/>
+    <ownedEnd xmi:id="_prF7IOI5EeSrQt_h9gxdAA" type="_fOEioOI5EeSrQt_h9gxdAA" association="_prEtAOI5EeSrQt_h9gxdAA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_q20ucOI5EeSrQt_h9gxdAA" memberEnd="_q20uceI5EeSrQt_h9gxdAA _q21VgOI5EeSrQt_h9gxdAA">
+    <name xsi:nil="true"/>
+    <ownedEnd xmi:id="_q20uceI5EeSrQt_h9gxdAA" type="_JPQQQOGcEeS3H-nU9jwF-g" association="_q20ucOI5EeSrQt_h9gxdAA"/>
+    <ownedEnd xmi:id="_q21VgOI5EeSrQt_h9gxdAA" type="_hF18kOI5EeSrQt_h9gxdAA" association="_q20ucOI5EeSrQt_h9gxdAA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_rjYScOI5EeSrQt_h9gxdAA" memberEnd="_rjY5gOI5EeSrQt_h9gxdAA _rjY5geI5EeSrQt_h9gxdAA">
+    <name xsi:nil="true"/>
+    <ownedEnd xmi:id="_rjY5gOI5EeSrQt_h9gxdAA" type="_JPQQQOGcEeS3H-nU9jwF-g" association="_rjYScOI5EeSrQt_h9gxdAA"/>
+    <ownedEnd xmi:id="_rjY5geI5EeSrQt_h9gxdAA" type="_jNu2IOI5EeSrQt_h9gxdAA" association="_rjYScOI5EeSrQt_h9gxdAA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_sSCvQOI5EeSrQt_h9gxdAA" memberEnd="_sSDWUOI5EeSrQt_h9gxdAA _sSDWUeI5EeSrQt_h9gxdAA">
+    <name xsi:nil="true"/>
+    <ownedEnd xmi:id="_sSDWUOI5EeSrQt_h9gxdAA" type="_JPQQQOGcEeS3H-nU9jwF-g" association="_sSCvQOI5EeSrQt_h9gxdAA"/>
+    <ownedEnd xmi:id="_sSDWUeI5EeSrQt_h9gxdAA" type="_lf5GAOI5EeSrQt_h9gxdAA" association="_sSCvQOI5EeSrQt_h9gxdAA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Collaboration" xmi:id="_yU5pkOI5EeSrQt_h9gxdAA" name="システム開発" useCase="_DfQkIOI3EeSrQt_h9gxdAA _A0cuQOI4EeSrQt_h9gxdAA _FtAOEOI3EeSrQt_h9gxdAA _GYsvEOI6EeSrQt_h9gxdAA _ICcUEOI6EeSrQt_h9gxdAA _JaQbkOI6EeSrQt_h9gxdAA">
+    <ownedUseCase xmi:id="_DfQkIOI3EeSrQt_h9gxdAA" name="データ・モデリング" subject="_yU5pkOI5EeSrQt_h9gxdAA"/>
+    <ownedUseCase xmi:id="_A0cuQOI4EeSrQt_h9gxdAA" name="UIデザイン" subject="_yU5pkOI5EeSrQt_h9gxdAA"/>
+    <ownedUseCase xmi:id="_FtAOEOI3EeSrQt_h9gxdAA" name="プロセス・モデリング" subject="_yU5pkOI5EeSrQt_h9gxdAA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Collaboration" xmi:id="_31NQcOI5EeSrQt_h9gxdAA" name="システム運用" useCase="_jU9DAOI6EeSrQt_h9gxdAA _s2ZkEOI6EeSrQt_h9gxdAA"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_GYsvEOI6EeSrQt_h9gxdAA" name="設計" subject="_yU5pkOI5EeSrQt_h9gxdAA">
+    <include xmi:id="_TYWcYOI6EeSrQt_h9gxdAA" addition="_A0cuQOI4EeSrQt_h9gxdAA"/>
+    <include xmi:id="_T9Cd0OI6EeSrQt_h9gxdAA" addition="_DfQkIOI3EeSrQt_h9gxdAA"/>
+    <include xmi:id="_UbKkQOI6EeSrQt_h9gxdAA" addition="_FtAOEOI3EeSrQt_h9gxdAA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_ICcUEOI6EeSrQt_h9gxdAA" name="実装" subject="_yU5pkOI5EeSrQt_h9gxdAA"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_JaQbkOI6EeSrQt_h9gxdAA" name="テスト" subject="_yU5pkOI5EeSrQt_h9gxdAA"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_jU9DAOI6EeSrQt_h9gxdAA" name="障害対応" subject="_31NQcOI5EeSrQt_h9gxdAA"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_s2ZkEOI6EeSrQt_h9gxdAA" name="保守運用" subject="_31NQcOI5EeSrQt_h9gxdAA"/>
 </uml:Model>
